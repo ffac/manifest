@@ -1,5 +1,5 @@
 BRANCH=stable
-DATE=2016-06-22 15:29:28+02:00
+DATE=2016-06-22 20:18:50+02:00
 PRIORITY=7
 
 tp-link-cpe510-v1.0 2016.1.5-2-stable 8187c6ff5c383e8928eb042d146a7837016aea3c4a6cf0da44caa3ce2c20a34b815cde71b5db8e955c8585aafb592802e0c05a3193dd96b9c6866a9a9b979b74 gluon-ffac-2016.1.5-2-stable-tp-link-cpe510-v1.0-sysupgrade.bin
@@ -69,6 +69,8 @@ tp-link-tl-mr3220-v2 2016.1.5-2-stable 87c0e7550fd7ad5746ed4c3773f76bafa0bf621d3
 tp-link-tl-mr3420-v1 2016.1.5-2-stable b15fe3b1aabc08ffa06067a8ee57942e8db9d784eb5de2dc85f27c8d46eccdfa700a77d4762b7e4632e69645ce019011f1e9f5b40cbb4a9a88602e3471eb6c48 gluon-ffac-2016.1.5-2-stable-tp-link-tl-mr3420-v1-sysupgrade.bin
 tp-link-tl-mr3420-v2 2016.1.5-2-stable eb2d651f3e77ab68315a3e7b40ee0d405c5cf6d90a0230121d8a8331b558470b0f2a89139aed77b5e095badaec61ef570d2a5693ce04ab9704c6521a42cba4ac gluon-ffac-2016.1.5-2-stable-tp-link-tl-mr3420-v2-sysupgrade.bin
 tp-link-tl-wr2543n-nd-v1 2016.1.5-2-stable b6343338bb835ac70766ffdab839a2d65d7a46e5dfab271b9e089b317e810c1bd88c9600a89ac5f4c734910482cf718d1ba597449eb0660b409d3c7355cc441e gluon-ffac-2016.1.5-2-stable-tp-link-tl-wr2543n-nd-v1-sysupgrade.bin
+tp-link-archer-c5-v1 2016.1.5-2-stable 37b6cc43c1abae9e34c0bf6469e6d28b7d726cb670cd6ee40825049e1afbacd444c036007edb0493f280148f46b0fcf62d6781b196ab9e2db626da39aa73114e gluon-ffac-2016.1.5-2-stable-tp-link-archer-c5-v1-sysupgrade.bin
+tp-link-archer-c7-v2 2016.1.5-2-stable 3ebfe5313c6e45702cc403df41b75367eaaed1f8abb62e29a0a0e4232d5e8a48b6870c0927a79d239e06f801b751f30400319d0d54a87495dbfedf15e83255bd gluon-ffac-2016.1.5-2-stable-tp-link-archer-c7-v2-sysupgrade.bin
 ubiquiti-airgateway 2016.1.5-2-stable fcf9054b16f757290c347b4f1a6486df07edea336290db43d3e838fabb43684a4ad4fa52362680d4d223a4e97fcc2222c92c610f666f982f5b4df6b4a0e8063d gluon-ffac-2016.1.5-2-stable-ubiquiti-airgateway-sysupgrade.bin
 ubiquiti-airrouter 2016.1.5-2-stable 36f237e8013d29474dcd978026e6c5e43941d76d38f953ee78acc06bc3e449c08fda506c094564dd3b29332f576c19c8c4c46b8f684f944e8c01ea427965c4d8 gluon-ffac-2016.1.5-2-stable-ubiquiti-airrouter-sysupgrade.bin
 ubiquiti-bullet-m 2016.1.5-2-stable bab4e686eed7bd999d2933db6154b4e7b11b440b8ab12363456892a4121612925716b57bb13b80a218141d6ad73813c649351d199abfff8216ad3b62a15574c9 gluon-ffac-2016.1.5-2-stable-ubiquiti-bullet-m-sysupgrade.bin
@@ -128,4 +130,4 @@ x86-64 2016.1.5-2-stable 89ed30c520cfeea14b2d21bd76c63117ffa8ec30cb08e549f60368d
 x86-xen 2016.1.5-2-stable d2d781f2ecbe5729e5b3ecf06f32bce7b3a544e1bcdc2b4904461acc5831296fd63462f2b42744fcb438bb73eb74123962d1746e04837e735e27af3cbabec957 gluon-ffac-2016.1.5-2-stable-x86-xen-sysupgrade.img.gz
 vocore 2016.1.5-2-stable 35f1be4be42215e15d625c79c75db0c55e7a7762abd6813cfc6d397f3dfb717add681ae7ca79b23c54d37e02009c9c87556e7f4f61a2bc9f417feed6c1da9373 gluon-ffac-2016.1.5-2-stable-vocore-sysupgrade.bin
 ---
-88d3d33c9eaa4cb8c6136a8b868ac38ce3f7c3256c1db69f299eb2520b637c070e6adc105c9bd4a3e10a997e406dc2234fb2afe1507f65ad06b6ca08ab6fa509
+42871bd5d27d347f5a9e287fa16e9847feefa66eda191373d6c02cdefb6941067704cce86197a2deb9b12dda074a3097abcb9ef256cb9897c6ae487893dcb202
