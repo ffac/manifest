@@ -1,5 +1,5 @@
 BRANCH=stable
-DATE=2017-10-25 09:32:50+02:00
+DATE=2017-11-02 09:32:50+02:00
 PRIORITY=12
 
 tp-link-cpe210-v1.0 2016.2.7-1-stable 1dcb97cd70dd6462453d786c6450041c60a1ab4cd2c0f9ab71a276715a786dfb gluon-ffac-2016.2.7-1-stable-tp-link-cpe210-v1.0-sysupgrade.bin
@@ -314,5 +314,3 @@ d-link-dir-860l-b1 2016.2.7-1-stable f50cbd517912e2f6fbe568e1d110933144e5280ffa6
 d-link-dir-860l-b1 2016.2.7-1-stable cc101dc82e16924a3b1f8f202faa5a1c7fbdb3b59f5c008f1aa235b29dc92fe385d2b05d0cb6e5f00747151dc87a39e41a72b7eb3fe4fc0f26ba6a215d66121a gluon-ffac-2016.2.7-1-stable-d-link-dir-860l-b1-sysupgrade.bin
 vocore 2016.2.7-1-stable f758341ed8d8f03872370e1a9bc7eca7bd04e7c0d1657dcae5173f128dfcccea gluon-ffac-2016.2.7-1-stable-vocore-sysupgrade.bin
 vocore 2016.2.7-1-stable 64999424341afbc07fe6669c2c8c4d6c3b3788f93b3f60ef4b0118c253e18bb573334f726ade5b2aca4c4e037332fbbb36869e5bf01ffee4f18e80f8bd8f4f9d gluon-ffac-2016.2.7-1-stable-vocore-sysupgrade.bin
----
-4973846bc0a146e9250dd777fbf74be8cf94dc45059c078e4e3dc054f6dc440df145077bb2d3af8e54abe8ffcdaa93ff61ca11c06d3910f7b302518e908c6a06
