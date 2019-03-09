@@ -698,9 +698,9 @@ tp-link-archer-c50-v3 gluon-ffac-2018.2-1~exp20190304 6d26fcddfd27da70b12c52abba
 tp-link-tl-wr-841n-v13 gluon-ffac-2018.2-1~exp20190304 c88a86c98d6baeae2cc6f65cf82006978711d4766df4a7a14391eb16997c7eaf 3801273 gluon-ffac-gluon-ffac-2018.2-1~exp20190304-tp-link-tl-wr-841n-v13-sysupgrade.bin
 tp-link-tl-wr-841n-v13 gluon-ffac-2018.2-1~exp20190304 c88a86c98d6baeae2cc6f65cf82006978711d4766df4a7a14391eb16997c7eaf gluon-ffac-gluon-ffac-2018.2-1~exp20190304-tp-link-tl-wr-841n-v13-sysupgrade.bin
 tp-link-tl-wr-841n-v13 gluon-ffac-2018.2-1~exp20190304 7450a03421415e267ff3d78d57c32ecdc1aed0abf4632b269c733fa8dcf9f6875eb9716cd67389344d10397d393eaaf690dd36023cb7bf05ad482dfe82b1d1ac gluon-ffac-gluon-ffac-2018.2-1~exp20190304-tp-link-tl-wr-841n-v13-sysupgrade.bin
-tp-link-tl-wr-841nv13 gluon-ffac-2018.2-1~exp20190304 c88a86c98d6baeae2cc6f65cf82006978711d4766df4a7a14391eb16997c7eaf 3801273 gluon-ffac-gluon-ffac-2018.2-1~exp20190304-tp-link-tl-wr-841n-v13-sysupgrade.bin
-tp-link-tl-wr-841nv13 gluon-ffac-2018.2-1~exp20190304 c88a86c98d6baeae2cc6f65cf82006978711d4766df4a7a14391eb16997c7eaf gluon-ffac-gluon-ffac-2018.2-1~exp20190304-tp-link-tl-wr-841n-v13-sysupgrade.bin
-tp-link-tl-wr-841nv13 gluon-ffac-2018.2-1~exp20190304 7450a03421415e267ff3d78d57c32ecdc1aed0abf4632b269c733fa8dcf9f6875eb9716cd67389344d10397d393eaaf690dd36023cb7bf05ad482dfe82b1d1ac gluon-ffac-gluon-ffac-2018.2-1~exp20190304-tp-link-tl-wr-841n-v13-sysupgrade.bin
+tp-link-tl-wr841n-v13 gluon-ffac-2018.2-1~exp20190304 c88a86c98d6baeae2cc6f65cf82006978711d4766df4a7a14391eb16997c7eaf 3801273 gluon-ffac-gluon-ffac-2018.2-1~exp20190304-tp-link-tl-wr-841n-v13-sysupgrade.bin
+tp-link-tl-wr841n-v13 gluon-ffac-2018.2-1~exp20190304 c88a86c98d6baeae2cc6f65cf82006978711d4766df4a7a14391eb16997c7eaf gluon-ffac-gluon-ffac-2018.2-1~exp20190304-tp-link-tl-wr-841n-v13-sysupgrade.bin
+tp-link-tl-wr841n-v13 gluon-ffac-2018.2-1~exp20190304 7450a03421415e267ff3d78d57c32ecdc1aed0abf4632b269c733fa8dcf9f6875eb9716cd67389344d10397d393eaaf690dd36023cb7bf05ad482dfe82b1d1ac gluon-ffac-gluon-ffac-2018.2-1~exp20190304-tp-link-tl-wr-841n-v13-sysupgrade.bin
 vocore2 gluon-ffac-2018.2-1~exp20190304 4852d145740e72053a925dee5db85450d2949ef8bccab265aa93d36700007bea 4194483 gluon-ffac-gluon-ffac-2018.2-1~exp20190304-vocore2-sysupgrade.bin
 vocore2 gluon-ffac-2018.2-1~exp20190304 4852d145740e72053a925dee5db85450d2949ef8bccab265aa93d36700007bea gluon-ffac-gluon-ffac-2018.2-1~exp20190304-vocore2-sysupgrade.bin
 vocore2 gluon-ffac-2018.2-1~exp20190304 18a27db5e9759327d7de3a346450eefde7e8e3ba58f57c601ac87833fffdf3c8545767636533a2fb44654e2586cc86b74811a18423bef0174ebfa7a68ffaff2d gluon-ffac-gluon-ffac-2018.2-1~exp20190304-vocore2-sysupgrade.bin
@@ -746,5 +746,3 @@ tp-link-archer-c2600 gluon-ffac-2018.2-1~exp20190304 7ee0534cf753c51f62a7f38b855
 linksys-wrt1200ac gluon-ffac-2018.2-1~exp20190304 e37192222770c8123bc17a904f8b91b9e5bee306fbe4034a92fa679baaa83ff1 4884672 gluon-ffac-gluon-ffac-2018.2-1~exp20190304-linksys-wrt1200ac-sysupgrade.bin
 linksys-wrt1200ac gluon-ffac-2018.2-1~exp20190304 e37192222770c8123bc17a904f8b91b9e5bee306fbe4034a92fa679baaa83ff1 gluon-ffac-gluon-ffac-2018.2-1~exp20190304-linksys-wrt1200ac-sysupgrade.bin
 linksys-wrt1200ac gluon-ffac-2018.2-1~exp20190304 2b95437fd62f876fe88a9f1900af3076852648816a3364ebb7a2d2382762962330b2fd124b176d77410b3f239bf5f9e554ff0cb117169dafdfdd592136ac777e gluon-ffac-gluon-ffac-2018.2-1~exp20190304-linksys-wrt1200ac-sysupgrade.bin
----
-c2d3ddff19e4142b86ad0ef536ae9dfc6a11a1fe02adb9acfbcd77b407fc9b02aa06b1134264e5dac95c3f901e8556dedf8c39ea1f21f9d50f7400757791430f
