@@ -1,5 +1,5 @@
 BRANCH=beta
-DATE=2019-03-14 12:27:22+01:00
+DATE=2019-03-15 12:27:22+01:00
 PRIORITY=7
 
 8devices-carambola2-board 2018.2-1-beta c6e9421208a5b372780926decf029063215061c6d2322764d4fc9fe3c8a889a5 3866628 gluon-ffac-2018.2-1-beta-8devices-carambola2-board-sysupgrade.bin
@@ -644,21 +644,6 @@ lemaker-banana-pro 2018.2-1-beta 289846095feed3f6a5d15944cf32260756aab70d2689eb9
 lamobo-r1 2018.2-1-beta e201b36b5652f25f5d082dfc005cfec5269c3fd7b61e648026da0aa4b1aa37ac 6529892 gluon-ffac-2018.2-1-beta-lamobo-r1-sysupgrade.img.gz
 lamobo-r1 2018.2-1-beta e201b36b5652f25f5d082dfc005cfec5269c3fd7b61e648026da0aa4b1aa37ac gluon-ffac-2018.2-1-beta-lamobo-r1-sysupgrade.img.gz
 lamobo-r1 2018.2-1-beta 27c694f9c1647f06720f30e3d03ae5b1f409c40399e413b5d1aab055e1bfca8479a1b92f9d1d8c80004e1a6c6899ba611ab53c249e8663eeb340678457b86006 gluon-ffac-2018.2-1-beta-lamobo-r1-sysupgrade.img.gz
-x86-generic 2018.2-1-beta fa0cf9a3629de007c98641e89408276d2eff9dc292a44bcc6feefea86406c5bf 10008571 gluon-ffac-2018.2-1-beta-x86-generic-sysupgrade.img.gz
-x86-generic 2018.2-1-beta fa0cf9a3629de007c98641e89408276d2eff9dc292a44bcc6feefea86406c5bf gluon-ffac-2018.2-1-beta-x86-generic-sysupgrade.img.gz
-x86-generic 2018.2-1-beta 0b281847c99036a3f8d3f8ca3c8a075cd83fde337bd96abfd0658936cfaf7b87b2be4654f483a03e887ed18a45c1dfc96dc199f20fc57b328139bd83d16e8196 gluon-ffac-2018.2-1-beta-x86-generic-sysupgrade.img.gz
-x86-kvm 2018.2-1-beta fa0cf9a3629de007c98641e89408276d2eff9dc292a44bcc6feefea86406c5bf 10008571 gluon-ffac-2018.2-1-beta-x86-generic-sysupgrade.img.gz
-x86-kvm 2018.2-1-beta fa0cf9a3629de007c98641e89408276d2eff9dc292a44bcc6feefea86406c5bf gluon-ffac-2018.2-1-beta-x86-generic-sysupgrade.img.gz
-x86-kvm 2018.2-1-beta 0b281847c99036a3f8d3f8ca3c8a075cd83fde337bd96abfd0658936cfaf7b87b2be4654f483a03e887ed18a45c1dfc96dc199f20fc57b328139bd83d16e8196 gluon-ffac-2018.2-1-beta-x86-generic-sysupgrade.img.gz
-x86-xen_domu 2018.2-1-beta fa0cf9a3629de007c98641e89408276d2eff9dc292a44bcc6feefea86406c5bf 10008571 gluon-ffac-2018.2-1-beta-x86-generic-sysupgrade.img.gz
-x86-xen_domu 2018.2-1-beta fa0cf9a3629de007c98641e89408276d2eff9dc292a44bcc6feefea86406c5bf gluon-ffac-2018.2-1-beta-x86-generic-sysupgrade.img.gz
-x86-xen_domu 2018.2-1-beta 0b281847c99036a3f8d3f8ca3c8a075cd83fde337bd96abfd0658936cfaf7b87b2be4654f483a03e887ed18a45c1dfc96dc199f20fc57b328139bd83d16e8196 gluon-ffac-2018.2-1-beta-x86-generic-sysupgrade.img.gz
-x86-geode 2018.2-1-beta a045dd637d8d7c18b40312f4e67bf283b1e9fb9fd1556e7cc823438cdba0fc6b 8010251 gluon-ffac-2018.2-1-beta-x86-geode-sysupgrade.img.gz
-x86-geode 2018.2-1-beta a045dd637d8d7c18b40312f4e67bf283b1e9fb9fd1556e7cc823438cdba0fc6b gluon-ffac-2018.2-1-beta-x86-geode-sysupgrade.img.gz
-x86-geode 2018.2-1-beta 4dfc78173a09c2118ec4caeb75bc3c7f3d6781b88ef15cb40bb2ee7f4137ed2124d1ee6727b39b3983d903944b3f87fac7432cef89ed4bb59f59ad6d0127c8b3 gluon-ffac-2018.2-1-beta-x86-geode-sysupgrade.img.gz
-x86-64 2018.2-1-beta 12f12f738038fa170a92f0d3161c612c79a1f95f21fea374244f43a9a73885d2 8733401 gluon-ffac-2018.2-1-beta-x86-64-sysupgrade.img.gz
-x86-64 2018.2-1-beta 12f12f738038fa170a92f0d3161c612c79a1f95f21fea374244f43a9a73885d2 gluon-ffac-2018.2-1-beta-x86-64-sysupgrade.img.gz
-x86-64 2018.2-1-beta ce662e7a5a4105993b6cef376272a7343ba14e40c93b379aab6d407b1d63ea1afae2756e3e58ee78300e5853b39d7c7bdbb030a6e88993e8355fc9653e993de1 gluon-ffac-2018.2-1-beta-x86-64-sysupgrade.img.gz
 avm-fritz-box-4040 2018.2-1-beta 6eaa28481e676b1eb321378643f9a842042c78c22542ce12411b1d26ca1cb91a 5243070 gluon-ffac-2018.2-1-beta-avm-fritz-box-4040-sysupgrade.bin
 avm-fritz-box-4040 2018.2-1-beta 6eaa28481e676b1eb321378643f9a842042c78c22542ce12411b1d26ca1cb91a gluon-ffac-2018.2-1-beta-avm-fritz-box-4040-sysupgrade.bin
 avm-fritz-box-4040 2018.2-1-beta 72764e0302f182ec3f057ec590a738f52a9be39d9a75ede9f2fc8a1c2c8d72f9d90a6cdc5a3c5824453b86bd6c351d2c8e4d2728779c29acc030f3887608d08b gluon-ffac-2018.2-1-beta-avm-fritz-box-4040-sysupgrade.bin
@@ -743,7 +728,3 @@ tp-link-archer-c2600 2018.2-1-beta cc56119703c2b899c3b40db17646dd5a47b655411270b
 linksys-wrt1200ac 2018.2-1-beta f2cf5da5ab2bc70a3dac575b640a271a7f6ff3da009c6d8f9806ec897e02f826 4884672 gluon-ffac-2018.2-1-beta-linksys-wrt1200ac-sysupgrade.bin
 linksys-wrt1200ac 2018.2-1-beta f2cf5da5ab2bc70a3dac575b640a271a7f6ff3da009c6d8f9806ec897e02f826 gluon-ffac-2018.2-1-beta-linksys-wrt1200ac-sysupgrade.bin
 linksys-wrt1200ac 2018.2-1-beta eae3c83690bcdb93b771b27eece0a7658e4aac8030242a62ee7f69a0d8b7b42a18857c6e4213a5c6c5ba46f00a0e4ce3a2f8f482a9a788850285718092bab0e9 gluon-ffac-2018.2-1-beta-linksys-wrt1200ac-sysupgrade.bin
----
-5d300a6981ecb968498ce2279ac33ee621e7c816c84c42e3304bdf059e465509c52c8ae9bbcdecb3483b075cbb1e23ce217bce9e997c32549517d7fb2130d10b
-16a549e036c0ac5d12e974f974ed1ccb4dbb1754611352d256d550a591e7ac07ff1128bbc7b4dffe196791548c4bad47495582f2884c9e1950d2d8fd4b0bb703
-cc75d98d594fe989f82f6a5b7d8179ad7b498ccecc2815d4a4b3ab916a832501c1deb5537bd823c4ca10c9104b4fd32b46d3a9f649c3e617103a52d153e3330c
