@@ -1,5 +1,5 @@
 BRANCH=beta
-DATE=2019-11-22 15:09:23+01:00
+DATE=2019-11-22 16:39:03+01:00
 PRIORITY=3
 
 8devices-carambola2-board 2019.1-1-beta 4b5881a05609ebd433bce3350ad3004745930593669a7cd4faad52595860b850 3866628 gluon-ffac-2019.1-1-beta-8devices-carambola2-board-sysupgrade.bin
@@ -683,6 +683,33 @@ x86-geode 2019.1-1-beta b7a8138b2e73f10e4a559ad85aac02be5f5cce9ef1635157bbd83830
 x86-64 2019.1-1-beta 5bbcb292751954b656a45abea6e3db88d163cf4689dc2c3c90449f14e64f668a 8033178 gluon-ffac-2019.1-1-beta-x86-64-sysupgrade.img.gz
 x86-64 2019.1-1-beta 5bbcb292751954b656a45abea6e3db88d163cf4689dc2c3c90449f14e64f668a gluon-ffac-2019.1-1-beta-x86-64-sysupgrade.img.gz
 x86-64 2019.1-1-beta bd9dfee42cc4f1830f00207c523d62dcb9999328ecbfe160d4c333f4d391e0d6c848f06f1d965b00f46d82e1618efcdfdaf1750867b79a6118a8eb357e14a6e7 gluon-ffac-2019.1-1-beta-x86-64-sysupgrade.img.gz
+avm-fritz-box-4040 2019.1-1-beta 0cde80b2c915a11b96a526c929e990a5e694f989621e84fb96f22e2e01a90b0e 5243070 gluon-ffac-2019.1-1-beta-avm-fritz-box-4040-sysupgrade.bin
+avm-fritz-box-4040 2019.1-1-beta 0cde80b2c915a11b96a526c929e990a5e694f989621e84fb96f22e2e01a90b0e gluon-ffac-2019.1-1-beta-avm-fritz-box-4040-sysupgrade.bin
+avm-fritz-box-4040 2019.1-1-beta 2075303e45085c2065dba5a465013a8fbb6471039188c4209c5ea4b12143070fbb831d219e7812dfad3709ce188b82ac05acfdad9561c6e917aca3c9e4780274 gluon-ffac-2019.1-1-beta-avm-fritz-box-4040-sysupgrade.bin
+gl.inet-gl-b1300 2019.1-1-beta ea7eada7995777136e96aa1740948dc07afe6bf0b679117c042eed6e18cd07d2 6029500 gluon-ffac-2019.1-1-beta-gl.inet-gl-b1300-sysupgrade.bin
+gl.inet-gl-b1300 2019.1-1-beta ea7eada7995777136e96aa1740948dc07afe6bf0b679117c042eed6e18cd07d2 gluon-ffac-2019.1-1-beta-gl.inet-gl-b1300-sysupgrade.bin
+gl.inet-gl-b1300 2019.1-1-beta b7933980e0587f373f1b8087fbaad2ab840bfa19999dcc69837819041404c951e0e053cc3c82a8ad307811a03a39f474bc2d3f69dfb5d73f42cd56b02964aeec gluon-ffac-2019.1-1-beta-gl.inet-gl-b1300-sysupgrade.bin
+netgear-ex6100v2 2019.1-1-beta e8709749b1e44fe06ce649a1fa496aa27f0d4999fe9d49917889303245d7cd7a 6029501 gluon-ffac-2019.1-1-beta-netgear-ex6100v2-sysupgrade.bin
+netgear-ex6100v2 2019.1-1-beta e8709749b1e44fe06ce649a1fa496aa27f0d4999fe9d49917889303245d7cd7a gluon-ffac-2019.1-1-beta-netgear-ex6100v2-sysupgrade.bin
+netgear-ex6100v2 2019.1-1-beta 4cb3cf9b33d53ac729591251d8708b4c7a13519e37aa77a187f8bcb17203b2945a1e3566445c6f4c66e46459e6901e165cadea4668753fbfea6e169b93e87bb4 gluon-ffac-2019.1-1-beta-netgear-ex6100v2-sysupgrade.bin
+netgear-ex6150v2 2019.1-1-beta 363d28cb8e76d13492cef919e5f85524a518bbe31ddb238a2264eb52ae92cc5f 6029501 gluon-ffac-2019.1-1-beta-netgear-ex6150v2-sysupgrade.bin
+netgear-ex6150v2 2019.1-1-beta 363d28cb8e76d13492cef919e5f85524a518bbe31ddb238a2264eb52ae92cc5f gluon-ffac-2019.1-1-beta-netgear-ex6150v2-sysupgrade.bin
+netgear-ex6150v2 2019.1-1-beta 029cb8045fa576e19d271d43301d8f49b4097783268ae2a1613e5a4104e34ac4188285fcc9f9ebfceb357a863a60dc91f28ce6e294a4551afc4f5373c6694e98 gluon-ffac-2019.1-1-beta-netgear-ex6150v2-sysupgrade.bin
+openmesh-a42 2019.1-1-beta 8f937739dee60ff537876d5cc2b0b550e28390c82171eb832ff56303dce62255 5058741 gluon-ffac-2019.1-1-beta-openmesh-a42-sysupgrade.bin
+openmesh-a42 2019.1-1-beta 8f937739dee60ff537876d5cc2b0b550e28390c82171eb832ff56303dce62255 gluon-ffac-2019.1-1-beta-openmesh-a42-sysupgrade.bin
+openmesh-a42 2019.1-1-beta a942d530c127af9e697f4dfd26c2245632296c7ae5a284ce614c9cb5348e1859976d6bc3339959a7d915d2ca3489fc626d15200b473b23aa4788b21a4289ea5d gluon-ffac-2019.1-1-beta-openmesh-a42-sysupgrade.bin
+openmesh-a62 2019.1-1-beta 36c9d4c39c2b6d0e7c4bb01af76c10ca47b8e19cd70be430067957c9e4887739 5580981 gluon-ffac-2019.1-1-beta-openmesh-a62-sysupgrade.bin
+openmesh-a62 2019.1-1-beta 36c9d4c39c2b6d0e7c4bb01af76c10ca47b8e19cd70be430067957c9e4887739 gluon-ffac-2019.1-1-beta-openmesh-a62-sysupgrade.bin
+openmesh-a62 2019.1-1-beta 6b575a6bbdc11037144a1b151157273f941ecef943c2481abfb26df281a99a9fd0dbd92cdc553f29a89e910f740bd194fe1a5eefc82b6cbe7abfb58bc6f5b770 gluon-ffac-2019.1-1-beta-openmesh-a62-sysupgrade.bin
+zyxel-nbg6617 2019.1-1-beta d13565f8d516b0a46385729b63ae61168ebfb969cd80afb645a9a3505671e304 5181622 gluon-ffac-2019.1-1-beta-zyxel-nbg6617-sysupgrade.bin
+zyxel-nbg6617 2019.1-1-beta d13565f8d516b0a46385729b63ae61168ebfb969cd80afb645a9a3505671e304 gluon-ffac-2019.1-1-beta-zyxel-nbg6617-sysupgrade.bin
+zyxel-nbg6617 2019.1-1-beta 15e4bdfd8c0fa5eee43573732da77fa0eedc600dfe081561ac2625dbd8a2d167c1281eb57620afb1a1f28340a506b9e047ada54c199cd136094743d58d13c1b3 gluon-ffac-2019.1-1-beta-zyxel-nbg6617-sysupgrade.bin
+zyxel-wre6606 2019.1-1-beta 11058d1f8ecd721c08a2188cb41a4377940a4d57ddebd93cd277501509f03b20 6029498 gluon-ffac-2019.1-1-beta-zyxel-wre6606-sysupgrade.bin
+zyxel-wre6606 2019.1-1-beta 11058d1f8ecd721c08a2188cb41a4377940a4d57ddebd93cd277501509f03b20 gluon-ffac-2019.1-1-beta-zyxel-wre6606-sysupgrade.bin
+zyxel-wre6606 2019.1-1-beta 8054f4e71cb0ad19a2288c263886fbec2dbd9224e0afcfa5323fcf3c8f9fa9ea7934a76aa547323a0cef721d33867dd927433cb75a05fb1e532e82bae5c2cf0c gluon-ffac-2019.1-1-beta-zyxel-wre6606-sysupgrade.bin
+8devices-jalapeno 2019.1-1-beta a1b44b43b28d0f1fca828b5546cb744da6553cf7672730d7e3419280ce4734c7 5806262 gluon-ffac-2019.1-1-beta-8devices-jalapeno-sysupgrade.bin
+8devices-jalapeno 2019.1-1-beta a1b44b43b28d0f1fca828b5546cb744da6553cf7672730d7e3419280ce4734c7 gluon-ffac-2019.1-1-beta-8devices-jalapeno-sysupgrade.bin
+8devices-jalapeno 2019.1-1-beta 10b4ebec2a0f71aef35866dda0b56841bc39795e030ad4c1f2168b97dec1d586f7d4532690079216ac58b2b58a0ca262565dad45c59873a60d45f000ce98fb4f gluon-ffac-2019.1-1-beta-8devices-jalapeno-sysupgrade.bin
 asus-rt-ac51u 2019.1-1-beta de6b1a7ed6c375357f391a96d3d6eeef546979f5d3c73bf36e19cac25dd510cf 4194484 gluon-ffac-2019.1-1-beta-asus-rt-ac51u-sysupgrade.bin
 asus-rt-ac51u 2019.1-1-beta de6b1a7ed6c375357f391a96d3d6eeef546979f5d3c73bf36e19cac25dd510cf gluon-ffac-2019.1-1-beta-asus-rt-ac51u-sysupgrade.bin
 asus-rt-ac51u 2019.1-1-beta 8c0062a36fae9be490b293b4c7bf129cbbdd81e07056f2fd794b386962494b95b772b88597484e734f7c90677ff899022cf6c4815bbd4acd85de38558c3ac93d gluon-ffac-2019.1-1-beta-asus-rt-ac51u-sysupgrade.bin
@@ -776,8 +803,14 @@ mikrotik-nand-large-ac 2019.1-1-beta c7e6c667dceb7b17c0136c5b77211ef6f4f0d39d083
 raspberry-pi-3 2019.1-1-beta dd5d192ccae8534d7dc369fe975e6ef211b1915d574ad9e25450f5fcf658d1f7 9441184 gluon-ffac-2019.1-1-beta-raspberry-pi-3-sysupgrade.img.gz
 raspberry-pi-3 2019.1-1-beta dd5d192ccae8534d7dc369fe975e6ef211b1915d574ad9e25450f5fcf658d1f7 gluon-ffac-2019.1-1-beta-raspberry-pi-3-sysupgrade.img.gz
 raspberry-pi-3 2019.1-1-beta 6fa128710e0e65b6ea037103ee86d25bcfe88e5360fe373da9d6a0a502aae8826ac26905390d9141fcb65e38044ef8d9469b99b2450356b7697631da2766ae94 gluon-ffac-2019.1-1-beta-raspberry-pi-3-sysupgrade.img.gz
+tp-link-archer-c2600 2019.1-1-beta ed1c6b8d436c1fb184241d7a6175646b2e114a45fc9af4a321774b87b3ddf6d1 7143617 gluon-ffac-2019.1-1-beta-tp-link-archer-c2600-sysupgrade.bin
+tp-link-archer-c2600 2019.1-1-beta ed1c6b8d436c1fb184241d7a6175646b2e114a45fc9af4a321774b87b3ddf6d1 gluon-ffac-2019.1-1-beta-tp-link-archer-c2600-sysupgrade.bin
+tp-link-archer-c2600 2019.1-1-beta 070a5b1a295c1140257eda3435b7e304fc633da952996d11c7132850fb6f669d25d6de2e2f5790d652b6bbeb3619fa0740947460e2657b0a72cb14666bdfdbae gluon-ffac-2019.1-1-beta-tp-link-archer-c2600-sysupgrade.bin
+netgear-nighthawk-x4s-r7800 2019.1-1-beta 3bdd558cf7fae1a47c726cab555819390a194274aadbf489a06e7bcd8fa09037 5335230 gluon-ffac-2019.1-1-beta-netgear-nighthawk-x4s-r7800-sysupgrade.bin
+netgear-nighthawk-x4s-r7800 2019.1-1-beta 3bdd558cf7fae1a47c726cab555819390a194274aadbf489a06e7bcd8fa09037 gluon-ffac-2019.1-1-beta-netgear-nighthawk-x4s-r7800-sysupgrade.bin
+netgear-nighthawk-x4s-r7800 2019.1-1-beta 0b96b2da0543e8e0f5649ed344991c611f41f39d6cda22b89f1ce808cff4bb122535afa3e9231746471d20aeda4236dcbec3b78db3df86d369bab4e304d708fa gluon-ffac-2019.1-1-beta-netgear-nighthawk-x4s-r7800-sysupgrade.bin
 linksys-wrt1200ac 2019.1-1-beta 0b6bac3b299633ada0a6a3fb1ee2771be000eb9c95c73ad79dcd0ab996ac07d0 4905152 gluon-ffac-2019.1-1-beta-linksys-wrt1200ac-sysupgrade.bin
 linksys-wrt1200ac 2019.1-1-beta 0b6bac3b299633ada0a6a3fb1ee2771be000eb9c95c73ad79dcd0ab996ac07d0 gluon-ffac-2019.1-1-beta-linksys-wrt1200ac-sysupgrade.bin
 linksys-wrt1200ac 2019.1-1-beta 0f5c779aa56df0e35aa03de946507fc8bf1fb5dfe3e07fb83f102e1c16be544216f2287d92e81b5ecb9d42e51ebf4425ca5b5e2bd5e1497f16018cc8d28cfe3d gluon-ffac-2019.1-1-beta-linksys-wrt1200ac-sysupgrade.bin
 ---
-b80c3d325a0493f2f9eb8091712289810945bfa4925f61d9a8ad651e6247640808a115a462dc36894319002200277c44c99914f07635ad80aa519dcbb9b8a905
+a494062b16fc0e2cea3ca6267d29146c06c29036dc3b9f09096deaa97b8ba406a25ad7154e78a2716e5cbf53fa36cf970675f559675758aabb10ebc3b3f67504
