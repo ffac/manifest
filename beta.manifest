@@ -182,36 +182,6 @@ openmesh-om5p-ac 2019.1-1-beta 4fe72467b8e9e524275891fc847e692af23a2a461cb7569b6
 openmesh-om5p-acv2 2019.1-1-beta 8846bc48828e5a131d07233725cb9e3aadd5dd4e8ec94275ce0b88fc6ba53b30 4245290 gluon-ffac-2019.1-1-beta-openmesh-om5p-acv2-sysupgrade.bin
 openmesh-om5p-acv2 2019.1-1-beta 8846bc48828e5a131d07233725cb9e3aadd5dd4e8ec94275ce0b88fc6ba53b30 gluon-ffac-2019.1-1-beta-openmesh-om5p-acv2-sysupgrade.bin
 openmesh-om5p-acv2 2019.1-1-beta 4fe72467b8e9e524275891fc847e692af23a2a461cb7569b697780729c3f9f8e9afd0daabc54031b9d7d3b9b05f359d10f7a39228cfeac0d1b1f8bfd7d1a028f gluon-ffac-2019.1-1-beta-openmesh-om5p-acv2-sysupgrade.bin
-tp-link-cpe210-v1.0 2019.1-1-beta 67a9ac30b68183faec1068861b6a55be1a8b9a24e22fdc31ee2dbc0e21c8d47e 7803120 gluon-ffac-2019.1-1-beta-tp-link-cpe210-v1.0-sysupgrade.bin
-tp-link-cpe210-v1.0 2019.1-1-beta 67a9ac30b68183faec1068861b6a55be1a8b9a24e22fdc31ee2dbc0e21c8d47e gluon-ffac-2019.1-1-beta-tp-link-cpe210-v1.0-sysupgrade.bin
-tp-link-cpe210-v1.0 2019.1-1-beta 077890d250831ffb7dc74d4f934c972f393a4fea207df806318c60df85357a23d183c4a1ba96264a232c1fc1f6838a5db898c37277861ffaaa22565645057017 gluon-ffac-2019.1-1-beta-tp-link-cpe210-v1.0-sysupgrade.bin
-tp-link-cpe210-v1.1 2019.1-1-beta 67a9ac30b68183faec1068861b6a55be1a8b9a24e22fdc31ee2dbc0e21c8d47e 7803120 gluon-ffac-2019.1-1-beta-tp-link-cpe210-v1.1-sysupgrade.bin
-tp-link-cpe210-v1.1 2019.1-1-beta 67a9ac30b68183faec1068861b6a55be1a8b9a24e22fdc31ee2dbc0e21c8d47e gluon-ffac-2019.1-1-beta-tp-link-cpe210-v1.1-sysupgrade.bin
-tp-link-cpe210-v1.1 2019.1-1-beta 077890d250831ffb7dc74d4f934c972f393a4fea207df806318c60df85357a23d183c4a1ba96264a232c1fc1f6838a5db898c37277861ffaaa22565645057017 gluon-ffac-2019.1-1-beta-tp-link-cpe210-v1.1-sysupgrade.bin
-tp-link-cpe220-v1.1 2019.1-1-beta 67a9ac30b68183faec1068861b6a55be1a8b9a24e22fdc31ee2dbc0e21c8d47e 7803120 gluon-ffac-2019.1-1-beta-tp-link-cpe220-v1.1-sysupgrade.bin
-tp-link-cpe220-v1.1 2019.1-1-beta 67a9ac30b68183faec1068861b6a55be1a8b9a24e22fdc31ee2dbc0e21c8d47e gluon-ffac-2019.1-1-beta-tp-link-cpe220-v1.1-sysupgrade.bin
-tp-link-cpe220-v1.1 2019.1-1-beta 077890d250831ffb7dc74d4f934c972f393a4fea207df806318c60df85357a23d183c4a1ba96264a232c1fc1f6838a5db898c37277861ffaaa22565645057017 gluon-ffac-2019.1-1-beta-tp-link-cpe220-v1.1-sysupgrade.bin
-tp-link-cpe210-v2.0 2019.1-1-beta 3c906ffc2740c05d5b0bcf12b4c5039817c63c4aa21a1ee6d0fa8ada35448e4a 7803276 gluon-ffac-2019.1-1-beta-tp-link-cpe210-v2.0-sysupgrade.bin
-tp-link-cpe210-v2.0 2019.1-1-beta 3c906ffc2740c05d5b0bcf12b4c5039817c63c4aa21a1ee6d0fa8ada35448e4a gluon-ffac-2019.1-1-beta-tp-link-cpe210-v2.0-sysupgrade.bin
-tp-link-cpe210-v2.0 2019.1-1-beta 958db5ee7c40b1f68259c0bb836c4ca5f96fe1546fe1977fc3d02e11a3a68093d5856586d5d27d2b9a97d95a0c41e9efbdc368824cbb955f3e2ddbca38ebe04b gluon-ffac-2019.1-1-beta-tp-link-cpe210-v2.0-sysupgrade.bin
-tp-link-cpe210-v3.0 2019.1-1-beta acbc1f0155d5421c35c67dbf28ba41fb7168b72497c3fbac3f77913c304040e3 7803045 gluon-ffac-2019.1-1-beta-tp-link-cpe210-v3.0-sysupgrade.bin
-tp-link-cpe210-v3.0 2019.1-1-beta acbc1f0155d5421c35c67dbf28ba41fb7168b72497c3fbac3f77913c304040e3 gluon-ffac-2019.1-1-beta-tp-link-cpe210-v3.0-sysupgrade.bin
-tp-link-cpe210-v3.0 2019.1-1-beta 0ecc9918cdf061295d29c5ae6c8ba6ac19abd3be08cf83677111289cb5d93f7b74fcd996515bfe56c4e6db785a904056583d9328f36f1de4bcbc4c2dc22b9558 gluon-ffac-2019.1-1-beta-tp-link-cpe210-v3.0-sysupgrade.bin
-tp-link-cpe510-v1.0 2019.1-1-beta bf8e30e66ea225651887f33a53f0e1fbd66cde7e6bbadf4879c60bc9ef0c9043 7803151 gluon-ffac-2019.1-1-beta-tp-link-cpe510-v1.0-sysupgrade.bin
-tp-link-cpe510-v1.0 2019.1-1-beta bf8e30e66ea225651887f33a53f0e1fbd66cde7e6bbadf4879c60bc9ef0c9043 gluon-ffac-2019.1-1-beta-tp-link-cpe510-v1.0-sysupgrade.bin
-tp-link-cpe510-v1.0 2019.1-1-beta 7920140a67957fed27cc0b82dd825404737406985e737cee27080d030102a8e7d6b18dc21de307a21d4f4d8bae54f804abeaa9822d3c6f0ccfef87ad899b526a gluon-ffac-2019.1-1-beta-tp-link-cpe510-v1.0-sysupgrade.bin
-tp-link-cpe510-v1.1 2019.1-1-beta bf8e30e66ea225651887f33a53f0e1fbd66cde7e6bbadf4879c60bc9ef0c9043 7803151 gluon-ffac-2019.1-1-beta-tp-link-cpe510-v1.1-sysupgrade.bin
-tp-link-cpe510-v1.1 2019.1-1-beta bf8e30e66ea225651887f33a53f0e1fbd66cde7e6bbadf4879c60bc9ef0c9043 gluon-ffac-2019.1-1-beta-tp-link-cpe510-v1.1-sysupgrade.bin
-tp-link-cpe510-v1.1 2019.1-1-beta 7920140a67957fed27cc0b82dd825404737406985e737cee27080d030102a8e7d6b18dc21de307a21d4f4d8bae54f804abeaa9822d3c6f0ccfef87ad899b526a gluon-ffac-2019.1-1-beta-tp-link-cpe510-v1.1-sysupgrade.bin
-tp-link-cpe520-v1.1 2019.1-1-beta bf8e30e66ea225651887f33a53f0e1fbd66cde7e6bbadf4879c60bc9ef0c9043 7803151 gluon-ffac-2019.1-1-beta-tp-link-cpe520-v1.1-sysupgrade.bin
-tp-link-cpe520-v1.1 2019.1-1-beta bf8e30e66ea225651887f33a53f0e1fbd66cde7e6bbadf4879c60bc9ef0c9043 gluon-ffac-2019.1-1-beta-tp-link-cpe520-v1.1-sysupgrade.bin
-tp-link-cpe520-v1.1 2019.1-1-beta 7920140a67957fed27cc0b82dd825404737406985e737cee27080d030102a8e7d6b18dc21de307a21d4f4d8bae54f804abeaa9822d3c6f0ccfef87ad899b526a gluon-ffac-2019.1-1-beta-tp-link-cpe520-v1.1-sysupgrade.bin
-tp-link-wbs210-v1.20 2019.1-1-beta fb5d08737011e0a5ff94e09cfd878fea4b4dd6279a32e2d95f5993422e817ae7 7802999 gluon-ffac-2019.1-1-beta-tp-link-wbs210-v1.20-sysupgrade.bin
-tp-link-wbs210-v1.20 2019.1-1-beta fb5d08737011e0a5ff94e09cfd878fea4b4dd6279a32e2d95f5993422e817ae7 gluon-ffac-2019.1-1-beta-tp-link-wbs210-v1.20-sysupgrade.bin
-tp-link-wbs210-v1.20 2019.1-1-beta 6bd985c9e159a5bb25da00d7af6a899c6f02561144b3aa1bec10b72ccefdc9f527cc821b187a050b28e68d47c3ee12dba1a629a5bf1d829691580b9bd9cd1e14 gluon-ffac-2019.1-1-beta-tp-link-wbs210-v1.20-sysupgrade.bin
-tp-link-wbs510-v1.20 2019.1-1-beta 1437880090d4a9ec51c15577711c0f6d2624e01c727b5fb0b19fe5e6db1e0732 7802999 gluon-ffac-2019.1-1-beta-tp-link-wbs510-v1.20-sysupgrade.bin
-tp-link-wbs510-v1.20 2019.1-1-beta 1437880090d4a9ec51c15577711c0f6d2624e01c727b5fb0b19fe5e6db1e0732 gluon-ffac-2019.1-1-beta-tp-link-wbs510-v1.20-sysupgrade.bin
-tp-link-wbs510-v1.20 2019.1-1-beta e18f73edd6269bf3bac76eb8a7a71d38b8806e034d7dac7f251105681b7d4701da86ae73e69a4a4ef08b1665f9492fa5dcb3b5c36c8a750ad963c5c464c08a39 gluon-ffac-2019.1-1-beta-tp-link-wbs510-v1.20-sysupgrade.bin
 tp-link-tl-wr710n-v1 2019.1-1-beta c0ec357a8c48956b35f701c48e8dc3ef2b16d459331700f438aaaa43461bdae0 3866628 gluon-ffac-2019.1-1-beta-tp-link-tl-wr710n-v1-sysupgrade.bin
 tp-link-tl-wr710n-v1 2019.1-1-beta c0ec357a8c48956b35f701c48e8dc3ef2b16d459331700f438aaaa43461bdae0 gluon-ffac-2019.1-1-beta-tp-link-tl-wr710n-v1-sysupgrade.bin
 tp-link-tl-wr710n-v1 2019.1-1-beta 4be62d53aeff5726096cf009af86108e13637a2e9d8c210ed8b0d2f82a9417b9f4272517c4398ebfd8374dddfd9fee5fcd81b7184615285343804f57d2fa0e51 gluon-ffac-2019.1-1-beta-tp-link-tl-wr710n-v1-sysupgrade.bin
@@ -668,21 +638,6 @@ lemaker-banana-pro 2019.1-1-beta 5cbe9f8fff8b2e53a4f4990bc6050454cf18f7644a0418b
 lamobo-r1 2019.1-1-beta 925e7ceba90c7db35821270acc026a02b3b169a9de5d7798d5e98d3942203387 6556862 gluon-ffac-2019.1-1-beta-lamobo-r1-sysupgrade.img.gz
 lamobo-r1 2019.1-1-beta 925e7ceba90c7db35821270acc026a02b3b169a9de5d7798d5e98d3942203387 gluon-ffac-2019.1-1-beta-lamobo-r1-sysupgrade.img.gz
 lamobo-r1 2019.1-1-beta b97c788d651de4381f4f09d0771dd6e3195cd990cbeabb9ad920622a206b9798c87410e68c4eefbe38557ebeba45ac0dd337f48dc0b55cde8b05aab86296e6e5 gluon-ffac-2019.1-1-beta-lamobo-r1-sysupgrade.img.gz
-x86-generic 2019.1-1-beta ef6af5bce6cdff5e4f04dada83eb807952e77d1769fac2ac3c2a9e1f4d78de19 9349688 gluon-ffac-2019.1-1-beta-x86-generic-sysupgrade.img.gz
-x86-generic 2019.1-1-beta ef6af5bce6cdff5e4f04dada83eb807952e77d1769fac2ac3c2a9e1f4d78de19 gluon-ffac-2019.1-1-beta-x86-generic-sysupgrade.img.gz
-x86-generic 2019.1-1-beta 3cae84fc014ef6708494c93b702456eaa7b5f0bc133b78a9fd70d4914379a67174e3b28c01e4cadba530d136782a5f401ad50c0b95f5e98a55e49e319c0e5c55 gluon-ffac-2019.1-1-beta-x86-generic-sysupgrade.img.gz
-x86-kvm 2019.1-1-beta ef6af5bce6cdff5e4f04dada83eb807952e77d1769fac2ac3c2a9e1f4d78de19 9349688 gluon-ffac-2019.1-1-beta-x86-generic-sysupgrade.img.gz
-x86-kvm 2019.1-1-beta ef6af5bce6cdff5e4f04dada83eb807952e77d1769fac2ac3c2a9e1f4d78de19 gluon-ffac-2019.1-1-beta-x86-generic-sysupgrade.img.gz
-x86-kvm 2019.1-1-beta 3cae84fc014ef6708494c93b702456eaa7b5f0bc133b78a9fd70d4914379a67174e3b28c01e4cadba530d136782a5f401ad50c0b95f5e98a55e49e319c0e5c55 gluon-ffac-2019.1-1-beta-x86-generic-sysupgrade.img.gz
-x86-xen_domu 2019.1-1-beta ef6af5bce6cdff5e4f04dada83eb807952e77d1769fac2ac3c2a9e1f4d78de19 9349688 gluon-ffac-2019.1-1-beta-x86-generic-sysupgrade.img.gz
-x86-xen_domu 2019.1-1-beta ef6af5bce6cdff5e4f04dada83eb807952e77d1769fac2ac3c2a9e1f4d78de19 gluon-ffac-2019.1-1-beta-x86-generic-sysupgrade.img.gz
-x86-xen_domu 2019.1-1-beta 3cae84fc014ef6708494c93b702456eaa7b5f0bc133b78a9fd70d4914379a67174e3b28c01e4cadba530d136782a5f401ad50c0b95f5e98a55e49e319c0e5c55 gluon-ffac-2019.1-1-beta-x86-generic-sysupgrade.img.gz
-x86-geode 2019.1-1-beta 5d6aec986999c90c69659d0644ddc4b987da658af9f80475373831e8cccbb4bf 6999583 gluon-ffac-2019.1-1-beta-x86-geode-sysupgrade.img.gz
-x86-geode 2019.1-1-beta 5d6aec986999c90c69659d0644ddc4b987da658af9f80475373831e8cccbb4bf gluon-ffac-2019.1-1-beta-x86-geode-sysupgrade.img.gz
-x86-geode 2019.1-1-beta b7a8138b2e73f10e4a559ad85aac02be5f5cce9ef1635157bbd8383065a8e2156be9917fcb8597106b8e5a9bd92e762e3395c6fa8075d4fbefa93b250507e2e5 gluon-ffac-2019.1-1-beta-x86-geode-sysupgrade.img.gz
-x86-64 2019.1-1-beta 5bbcb292751954b656a45abea6e3db88d163cf4689dc2c3c90449f14e64f668a 8033178 gluon-ffac-2019.1-1-beta-x86-64-sysupgrade.img.gz
-x86-64 2019.1-1-beta 5bbcb292751954b656a45abea6e3db88d163cf4689dc2c3c90449f14e64f668a gluon-ffac-2019.1-1-beta-x86-64-sysupgrade.img.gz
-x86-64 2019.1-1-beta bd9dfee42cc4f1830f00207c523d62dcb9999328ecbfe160d4c333f4d391e0d6c848f06f1d965b00f46d82e1618efcdfdaf1750867b79a6118a8eb357e14a6e7 gluon-ffac-2019.1-1-beta-x86-64-sysupgrade.img.gz
 avm-fritz-box-4040 2019.1-1-beta 0cde80b2c915a11b96a526c929e990a5e694f989621e84fb96f22e2e01a90b0e 5243070 gluon-ffac-2019.1-1-beta-avm-fritz-box-4040-sysupgrade.bin
 avm-fritz-box-4040 2019.1-1-beta 0cde80b2c915a11b96a526c929e990a5e694f989621e84fb96f22e2e01a90b0e gluon-ffac-2019.1-1-beta-avm-fritz-box-4040-sysupgrade.bin
 avm-fritz-box-4040 2019.1-1-beta 2075303e45085c2065dba5a465013a8fbb6471039188c4209c5ea4b12143070fbb831d219e7812dfad3709ce188b82ac05acfdad9561c6e917aca3c9e4780274 gluon-ffac-2019.1-1-beta-avm-fritz-box-4040-sysupgrade.bin
