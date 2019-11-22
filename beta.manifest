@@ -767,5 +767,34 @@ netgear-nighthawk-x4s-r7800 2019.1-1-beta 0b96b2da0543e8e0f5649ed344991c611f41f3
 linksys-wrt1200ac 2019.1-1-beta 0b6bac3b299633ada0a6a3fb1ee2771be000eb9c95c73ad79dcd0ab996ac07d0 4905152 gluon-ffac-2019.1-1-beta-linksys-wrt1200ac-sysupgrade.bin
 linksys-wrt1200ac 2019.1-1-beta 0b6bac3b299633ada0a6a3fb1ee2771be000eb9c95c73ad79dcd0ab996ac07d0 gluon-ffac-2019.1-1-beta-linksys-wrt1200ac-sysupgrade.bin
 linksys-wrt1200ac 2019.1-1-beta 0f5c779aa56df0e35aa03de946507fc8bf1fb5dfe3e07fb83f102e1c16be544216f2287d92e81b5ecb9d42e51ebf4425ca5b5e2bd5e1497f16018cc8d28cfe3d gluon-ffac-2019.1-1-beta-linksys-wrt1200ac-sysupgrade.bin
----
-a494062b16fc0e2cea3ca6267d29146c06c29036dc3b9f09096deaa97b8ba406a25ad7154e78a2716e5cbf53fa36cf970675f559675758aabb10ebc3b3f67504
+tp-link-cpe210-v1.0 2017.1.8-1-beta 2b63d076d98d03fa28bd2ab8dfbf198f7258a92a505b1b92a253efa75447486e gluon-ffac-2017.1.8-1-beta-tp-link-cpe210-v1.0-sysupgrade.bin
+tp-link-cpe210-v1.0 2017.1.8-1-beta df55e0df0979ccc992c424c6920fae4e713ecea89e7cba0f6658a2fc9fb6cfdc025aa33593bdefb065e97b2757240781feeca30fc109d6a186873efd6560de46 gluon-ffac-2017.1.8-1-beta-tp-link-cpe210-v1.0-sysupgrade.bin
+tp-link-cpe210-v1.1 2017.1.8-1-beta 2b63d076d98d03fa28bd2ab8dfbf198f7258a92a505b1b92a253efa75447486e gluon-ffac-2017.1.8-1-beta-tp-link-cpe210-v1.1-sysupgrade.bin
+tp-link-cpe210-v1.1 2017.1.8-1-beta df55e0df0979ccc992c424c6920fae4e713ecea89e7cba0f6658a2fc9fb6cfdc025aa33593bdefb065e97b2757240781feeca30fc109d6a186873efd6560de46 gluon-ffac-2017.1.8-1-beta-tp-link-cpe210-v1.1-sysupgrade.bin
+tp-link-cpe220-v1.1 2017.1.8-1-beta 2b63d076d98d03fa28bd2ab8dfbf198f7258a92a505b1b92a253efa75447486e gluon-ffac-2017.1.8-1-beta-tp-link-cpe220-v1.1-sysupgrade.bin
+tp-link-cpe220-v1.1 2017.1.8-1-beta df55e0df0979ccc992c424c6920fae4e713ecea89e7cba0f6658a2fc9fb6cfdc025aa33593bdefb065e97b2757240781feeca30fc109d6a186873efd6560de46 gluon-ffac-2017.1.8-1-beta-tp-link-cpe220-v1.1-sysupgrade.bin
+tp-link-cpe510-v1.0 2017.1.8-1-beta 2f746083ebb2b21b7d751ffd31ad90451e82761cdcd324753603973aa92b9b6a gluon-ffac-2017.1.8-1-beta-tp-link-cpe510-v1.0-sysupgrade.bin
+tp-link-cpe510-v1.0 2017.1.8-1-beta 8396542239c0a6da0b455485bfa1f57507a5d29f040b10acb530c25a035fca0ee02f8cf79de80453b898805844dec7d9a645656a91b53ba71bba29c4f2296c8e gluon-ffac-2017.1.8-1-beta-tp-link-cpe510-v1.0-sysupgrade.bin
+tp-link-cpe510-v1.1 2017.1.8-1-beta 2f746083ebb2b21b7d751ffd31ad90451e82761cdcd324753603973aa92b9b6a gluon-ffac-2017.1.8-1-beta-tp-link-cpe510-v1.1-sysupgrade.bin
+tp-link-cpe510-v1.1 2017.1.8-1-beta 8396542239c0a6da0b455485bfa1f57507a5d29f040b10acb530c25a035fca0ee02f8cf79de80453b898805844dec7d9a645656a91b53ba71bba29c4f2296c8e gluon-ffac-2017.1.8-1-beta-tp-link-cpe510-v1.1-sysupgrade.bin
+tp-link-cpe520-v1.1 2017.1.8-1-beta 2f746083ebb2b21b7d751ffd31ad90451e82761cdcd324753603973aa92b9b6a gluon-ffac-2017.1.8-1-beta-tp-link-cpe520-v1.1-sysupgrade.bin
+tp-link-cpe520-v1.1 2017.1.8-1-beta 8396542239c0a6da0b455485bfa1f57507a5d29f040b10acb530c25a035fca0ee02f8cf79de80453b898805844dec7d9a645656a91b53ba71bba29c4f2296c8e gluon-ffac-2017.1.8-1-beta-tp-link-cpe520-v1.1-sysupgrade.bin
+tp-link-wbs210-v1.20 2017.1.8-1-beta e4ea7e34a30b86158afb1935e521b142b319de8cc43fc933a39f94411822c441 gluon-ffac-2017.1.8-1-beta-tp-link-wbs210-v1.20-sysupgrade.bin
+tp-link-wbs210-v1.20 2017.1.8-1-beta 26318898322cdc9cc7793ec57e6e703fe621e7a94e3cb4a4ab36f637776dea826d9faf4a599f1c3fa6b84577869db1a2b07f3459477fd57330d659b132b9686e gluon-ffac-2017.1.8-1-beta-tp-link-wbs210-v1.20-sysupgrade.bin
+tp-link-wbs510-v1.20 2017.1.8-1-beta 6660c97047d76cef6c0d216bb5387f8ec948048636fad0921e8d0f9f6d6c3fa5 gluon-ffac-2017.1.8-1-beta-tp-link-wbs510-v1.20-sysupgrade.bin
+tp-link-wbs510-v1.20 2017.1.8-1-beta 5aa03469184c457f6b59e9bb844e814975a709189ac3fc54b42107a88835f2cc311d46f3a910265f980e70ce6f75a8e55f49a6acbb54575e16ff5a7bc690a623 gluon-ffac-2017.1.8-1-beta-tp-link-wbs510-v1.20-sysupgrade.bin
+x86-generic 2018.2.3-1-beta 0137535f0e3c7a4a772adc23f664fea55a86e3d8dcbdeabfe8209eb993598c45 10023113 gluon-ffac-2018.2.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-generic 2018.2.3-1-beta 0137535f0e3c7a4a772adc23f664fea55a86e3d8dcbdeabfe8209eb993598c45 gluon-ffac-2018.2.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-generic 2018.2.3-1-beta 565b66087517b61888c21d66bfbc6e98c324c115dd9d6e141315c14727cf007eba84715bd08153aae581d8d72526274d2b5db11bf1dfa233649825c6de5a8763 gluon-ffac-2018.2.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-kvm 2018.2.3-1-beta 0137535f0e3c7a4a772adc23f664fea55a86e3d8dcbdeabfe8209eb993598c45 10023113 gluon-ffac-2018.2.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-kvm 2018.2.3-1-beta 0137535f0e3c7a4a772adc23f664fea55a86e3d8dcbdeabfe8209eb993598c45 gluon-ffac-2018.2.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-kvm 2018.2.3-1-beta 565b66087517b61888c21d66bfbc6e98c324c115dd9d6e141315c14727cf007eba84715bd08153aae581d8d72526274d2b5db11bf1dfa233649825c6de5a8763 gluon-ffac-2018.2.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-xen_domu 2018.2.3-1-beta 0137535f0e3c7a4a772adc23f664fea55a86e3d8dcbdeabfe8209eb993598c45 10023113 gluon-ffac-2018.2.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-xen_domu 2018.2.3-1-beta 0137535f0e3c7a4a772adc23f664fea55a86e3d8dcbdeabfe8209eb993598c45 gluon-ffac-2018.2.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-xen_domu 2018.2.3-1-beta 565b66087517b61888c21d66bfbc6e98c324c115dd9d6e141315c14727cf007eba84715bd08153aae581d8d72526274d2b5db11bf1dfa233649825c6de5a8763 gluon-ffac-2018.2.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-geode 2018.2.3-1-beta 6f6f0eb53ea15a628c1470b7a72cef6556492e6334757090353b2ca9caace0fc 8024782 gluon-ffac-2018.2.3-1-beta-x86-geode-sysupgrade.img.gz
+x86-geode 2018.2.3-1-beta 6f6f0eb53ea15a628c1470b7a72cef6556492e6334757090353b2ca9caace0fc gluon-ffac-2018.2.3-1-beta-x86-geode-sysupgrade.img.gz
+x86-geode 2018.2.3-1-beta e84fe2fb6b12fa011806c9426c15943ae78b2cae1be0b88e8162a359e59a64ed278e4d0fe81bab0886a545a63d44000735ea3d300e5034b839ecf3f41d9bb580 gluon-ffac-2018.2.3-1-beta-x86-geode-sysupgrade.img.gz
+x86-64 2018.2.3-1-beta f3c1526ae66ce3892c86905db6d517abe9a4053134423b928e64a1365e80ff4d 8739832 gluon-ffac-2018.2.3-1-beta-x86-64-sysupgrade.img.gz
+x86-64 2018.2.3-1-beta f3c1526ae66ce3892c86905db6d517abe9a4053134423b928e64a1365e80ff4d gluon-ffac-2018.2.3-1-beta-x86-64-sysupgrade.img.gz
+x86-64 2018.2.3-1-beta 2e1834e8867fdfa0858fe9f83e798ff1ac7d5892dd3665521422584a9a509d96f4f323d3c98bc12ac3350f9e6dee5ee84949ed550ba1dd8128063498723d907e gluon-ffac-2018.2.3-1-beta-x86-64-sysupgrade.img.gz
