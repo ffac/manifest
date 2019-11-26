@@ -1,7 +1,3 @@
-BRANCH=stable
-DATE=2019-11-26 11:08:44+01:00
-PRIORITY=14
-
 tp-link-cpe210-v1.0 2017.1.8-1-stable 3ab92a9b8f59f4245938db8e9e7889ebbba65659a49d8cc5f793e82c682d2e67 gluon-ffac-2017.1.8-1-stable-tp-link-cpe210-v1.0-sysupgrade.bin
 tp-link-cpe210-v1.0 2017.1.8-1-stable 55c7fbb53ae307d673681029199eca1f99da655055c213ae3908c31322be4ee04fe04735d04d269c42a0f901d3936b0eb3c1b6db0656f61ccd2ec5753a7e961d gluon-ffac-2017.1.8-1-stable-tp-link-cpe210-v1.0-sysupgrade.bin
 tp-link-cpe210-v1.1 2017.1.8-1-stable 3ab92a9b8f59f4245938db8e9e7889ebbba65659a49d8cc5f793e82c682d2e67 gluon-ffac-2017.1.8-1-stable-tp-link-cpe210-v1.1-sysupgrade.bin
@@ -14,7 +10,3 @@ tp-link-cpe510-v1.1 2017.1.8-1-stable 24c4596bf2fcc19fb6af1b92c2ca5d10701c78c9fa
 tp-link-cpe510-v1.1 2017.1.8-1-stable 06f491820d154dc048eb189fed727501bb48bf7ebd49f40a5758910deb2d27aea81bcea9abf82e0a68df8190c37dd961cca733eee31a3e5a91959b493310a4bc gluon-ffac-2017.1.8-1-stable-tp-link-cpe510-v1.1-sysupgrade.bin
 tp-link-cpe520-v1.1 2017.1.8-1-stable 24c4596bf2fcc19fb6af1b92c2ca5d10701c78c9fa90852bfe9720197b77c25f gluon-ffac-2017.1.8-1-stable-tp-link-cpe520-v1.1-sysupgrade.bin
 tp-link-cpe520-v1.1 2017.1.8-1-stable 06f491820d154dc048eb189fed727501bb48bf7ebd49f40a5758910deb2d27aea81bcea9abf82e0a68df8190c37dd961cca733eee31a3e5a91959b493310a4bc gluon-ffac-2017.1.8-1-stable-tp-link-cpe520-v1.1-sysupgrade.bin
-tp-link-wbs210-v1.20 2017.1.8-1-stable fe5ddb81929704e0209245d2483f180b0f0701711a9a7ea2aba7d7f557ece93d gluon-ffac-2017.1.8-1-stable-tp-link-wbs210-v1.20-sysupgrade.bin
-tp-link-wbs210-v1.20 2017.1.8-1-stable b980d1923b3af4265e2c7000a8e5864732dc29e03371090b22f92d554e50b160379ca7acc8a3156632c25272c3665b7462f459b3d43161e98aacc191198da8d0 gluon-ffac-2017.1.8-1-stable-tp-link-wbs210-v1.20-sysupgrade.bin
-tp-link-wbs510-v1.20 2017.1.8-1-stable ba2bfaa280037ded7498f9f1c22bd6a96759836fab7551abb58c6d81d8e806b2 gluon-ffac-2017.1.8-1-stable-tp-link-wbs510-v1.20-sysupgrade.bin
-tp-link-wbs510-v1.20 2017.1.8-1-stable 5df3b081bd2d3179461020b2bba9f7bb82d16f646ce3cb09745deab0411783fd7ff59c164ba4b2acee661c0e4bf88e27ca47792bf098b557723731a61b757646 gluon-ffac-2017.1.8-1-stable-tp-link-wbs510-v1.20-sysupgrade.bin
