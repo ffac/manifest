@@ -1,15 +1,15 @@
-x86-generic 2018.2.3-1-beta 0137535f0e3c7a4a772adc23f664fea55a86e3d8dcbdeabfe8209eb993598c45 10023113 gluon-ffac-2018.2.3-1-beta-x86-generic-sysupgrade.img.gz
-x86-generic 2018.2.3-1-beta 0137535f0e3c7a4a772adc23f664fea55a86e3d8dcbdeabfe8209eb993598c45 gluon-ffac-2018.2.3-1-beta-x86-generic-sysupgrade.img.gz
-x86-generic 2018.2.3-1-beta 565b66087517b61888c21d66bfbc6e98c324c115dd9d6e141315c14727cf007eba84715bd08153aae581d8d72526274d2b5db11bf1dfa233649825c6de5a8763 gluon-ffac-2018.2.3-1-beta-x86-generic-sysupgrade.img.gz
-x86-kvm 2018.2.3-1-beta 0137535f0e3c7a4a772adc23f664fea55a86e3d8dcbdeabfe8209eb993598c45 10023113 gluon-ffac-2018.2.3-1-beta-x86-generic-sysupgrade.img.gz
-x86-kvm 2018.2.3-1-beta 0137535f0e3c7a4a772adc23f664fea55a86e3d8dcbdeabfe8209eb993598c45 gluon-ffac-2018.2.3-1-beta-x86-generic-sysupgrade.img.gz
-x86-kvm 2018.2.3-1-beta 565b66087517b61888c21d66bfbc6e98c324c115dd9d6e141315c14727cf007eba84715bd08153aae581d8d72526274d2b5db11bf1dfa233649825c6de5a8763 gluon-ffac-2018.2.3-1-beta-x86-generic-sysupgrade.img.gz
-x86-xen_domu 2018.2.3-1-beta 0137535f0e3c7a4a772adc23f664fea55a86e3d8dcbdeabfe8209eb993598c45 10023113 gluon-ffac-2018.2.3-1-beta-x86-generic-sysupgrade.img.gz
-x86-xen_domu 2018.2.3-1-beta 0137535f0e3c7a4a772adc23f664fea55a86e3d8dcbdeabfe8209eb993598c45 gluon-ffac-2018.2.3-1-beta-x86-generic-sysupgrade.img.gz
-x86-xen_domu 2018.2.3-1-beta 565b66087517b61888c21d66bfbc6e98c324c115dd9d6e141315c14727cf007eba84715bd08153aae581d8d72526274d2b5db11bf1dfa233649825c6de5a8763 gluon-ffac-2018.2.3-1-beta-x86-generic-sysupgrade.img.gz
-x86-geode 2018.2.3-1-beta 6f6f0eb53ea15a628c1470b7a72cef6556492e6334757090353b2ca9caace0fc 8024782 gluon-ffac-2018.2.3-1-beta-x86-geode-sysupgrade.img.gz
-x86-geode 2018.2.3-1-beta 6f6f0eb53ea15a628c1470b7a72cef6556492e6334757090353b2ca9caace0fc gluon-ffac-2018.2.3-1-beta-x86-geode-sysupgrade.img.gz
-x86-geode 2018.2.3-1-beta e84fe2fb6b12fa011806c9426c15943ae78b2cae1be0b88e8162a359e59a64ed278e4d0fe81bab0886a545a63d44000735ea3d300e5034b839ecf3f41d9bb580 gluon-ffac-2018.2.3-1-beta-x86-geode-sysupgrade.img.gz
-x86-64 2018.2.3-1-beta f3c1526ae66ce3892c86905db6d517abe9a4053134423b928e64a1365e80ff4d 8739832 gluon-ffac-2018.2.3-1-beta-x86-64-sysupgrade.img.gz
-x86-64 2018.2.3-1-beta f3c1526ae66ce3892c86905db6d517abe9a4053134423b928e64a1365e80ff4d gluon-ffac-2018.2.3-1-beta-x86-64-sysupgrade.img.gz
-x86-64 2018.2.3-1-beta 2e1834e8867fdfa0858fe9f83e798ff1ac7d5892dd3665521422584a9a509d96f4f323d3c98bc12ac3350f9e6dee5ee84949ed550ba1dd8128063498723d907e gluon-ffac-2018.2.3-1-beta-x86-64-sysupgrade.img.gz
+x86-generic 2018.2.3-2-beta b4458c580c65a8400c05e5efddde994392d72a895172809a9b73e96da1e3e0aa 9794351 gluon-ffac-2018.2.3-2-beta-x86-generic-sysupgrade.img.gz
+x86-generic 2018.2.3-2-beta b4458c580c65a8400c05e5efddde994392d72a895172809a9b73e96da1e3e0aa gluon-ffac-2018.2.3-2-beta-x86-generic-sysupgrade.img.gz
+x86-generic 2018.2.3-2-beta cb70a2853e8e15d91e6f80b2651147942d167ed15fb4e6b6d39e7e72ec596bad81c0e594474349808b14200077b05cf824e31bd36a77ea98ef11ff00bb6dc00d gluon-ffac-2018.2.3-2-beta-x86-generic-sysupgrade.img.gz
+x86-kvm 2018.2.3-2-beta b4458c580c65a8400c05e5efddde994392d72a895172809a9b73e96da1e3e0aa 9794351 gluon-ffac-2018.2.3-2-beta-x86-generic-sysupgrade.img.gz
+x86-kvm 2018.2.3-2-beta b4458c580c65a8400c05e5efddde994392d72a895172809a9b73e96da1e3e0aa gluon-ffac-2018.2.3-2-beta-x86-generic-sysupgrade.img.gz
+x86-kvm 2018.2.3-2-beta cb70a2853e8e15d91e6f80b2651147942d167ed15fb4e6b6d39e7e72ec596bad81c0e594474349808b14200077b05cf824e31bd36a77ea98ef11ff00bb6dc00d gluon-ffac-2018.2.3-2-beta-x86-generic-sysupgrade.img.gz
+x86-xen_domu 2018.2.3-2-beta b4458c580c65a8400c05e5efddde994392d72a895172809a9b73e96da1e3e0aa 9794351 gluon-ffac-2018.2.3-2-beta-x86-generic-sysupgrade.img.gz
+x86-xen_domu 2018.2.3-2-beta b4458c580c65a8400c05e5efddde994392d72a895172809a9b73e96da1e3e0aa gluon-ffac-2018.2.3-2-beta-x86-generic-sysupgrade.img.gz
+x86-xen_domu 2018.2.3-2-beta cb70a2853e8e15d91e6f80b2651147942d167ed15fb4e6b6d39e7e72ec596bad81c0e594474349808b14200077b05cf824e31bd36a77ea98ef11ff00bb6dc00d gluon-ffac-2018.2.3-2-beta-x86-generic-sysupgrade.img.gz
+x86-geode 2018.2.3-2-beta 455829e891292d8d666b1dbd37ded0516e8e01423660f581663b2887627344bd 7793255 gluon-ffac-2018.2.3-2-beta-x86-geode-sysupgrade.img.gz
+x86-geode 2018.2.3-2-beta 455829e891292d8d666b1dbd37ded0516e8e01423660f581663b2887627344bd gluon-ffac-2018.2.3-2-beta-x86-geode-sysupgrade.img.gz
+x86-geode 2018.2.3-2-beta a55449c41d9af651123082aee37cdee5311df6cf25b633541a1d2f4b075faa47031eeb7ec754e37471594ae97f002457c279b7dcb32b8544da1171e99069aa63 gluon-ffac-2018.2.3-2-beta-x86-geode-sysupgrade.img.gz
+x86-64 2018.2.3-2-beta 474cfcf00615e680a7092cde895693633ee8c61a800a73654d967172f1682937 8514916 gluon-ffac-2018.2.3-2-beta-x86-64-sysupgrade.img.gz
+x86-64 2018.2.3-2-beta 474cfcf00615e680a7092cde895693633ee8c61a800a73654d967172f1682937 gluon-ffac-2018.2.3-2-beta-x86-64-sysupgrade.img.gz
+x86-64 2018.2.3-2-beta 2ec75bde4ea833ccd731e6a177993242506b13fbb0f5d48e051f7f6872206b9f0289bc7a154dae355150d738932bb966652745639667d8facdbff09845389643 gluon-ffac-2018.2.3-2-beta-x86-64-sysupgrade.img.gz
