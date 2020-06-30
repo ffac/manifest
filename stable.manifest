@@ -1,6 +1,6 @@
 BRANCH=stable
-DATE=2020-06-16 12:23:30+02:00
-PRIORITY=28
+DATE=2020-06-30 12:23:30+02:00
+PRIORITY=21
 
 8devices-carambola2-board 2019.1.2-2-stable f6b46f9dcd91cbe5a3ece10cb6ca383d0fbc4c84db4f521ed29700662f4f7873 3866628 gluon-ffac-2019.1.2-2-stable-8devices-carambola2-board-sysupgrade.bin
 8devices-carambola2-board 2019.1.2-2-stable f6b46f9dcd91cbe5a3ece10cb6ca383d0fbc4c84db4f521ed29700662f4f7873 gluon-ffac-2019.1.2-2-stable-8devices-carambola2-board-sysupgrade.bin
@@ -696,4 +696,4 @@ vocore-16M 2019.1.2-2-stable 1575529dee12bbcbff3572671b55e127ccf1a651c0094f47e00
 vocore-16M 2019.1.2-2-stable 1575529dee12bbcbff3572671b55e127ccf1a651c0094f47e00fb183784dd60e gluon-ffac-2019.1.2-2-stable-vocore-16M-sysupgrade.bin
 vocore-16M 2019.1.2-2-stable e4ccd843a07ab815ad0253702560e2c0d506219a3acd23cb881c04bd561fdd0eb59b55f3db4f374d936e88ea98112a859a705a22ce5531217c9ce438ac76f35e gluon-ffac-2019.1.2-2-stable-vocore-16M-sysupgrade.bin
 ---
-8f9878659da3ed87ddecb29f1d33b847c10f17255afe3991b8337e0b96d3b504f03fbcf145bd5ef7cd5234819c49c7b30a53eca29b469b1875461fd6695d190c
+bca81b3c7d5c19edfd28bb36a6be0e4c3ee6498e6777a5c51b50ea4b77f4ab098cfe7a54347de49b2b1da7f35c25d1b7a2e85d0fab29ec7ea03522180bb5c500
