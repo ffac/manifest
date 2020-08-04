@@ -1,6 +1,6 @@
 BRANCH=stable
-DATE=2020-06-30 12:23:30+02:00
-PRIORITY=21
+DATE=2020-08-04 19:57:37+02:00
+PRIORITY=1
 
 8devices-carambola2-board 2019.1.2-2-stable f6b46f9dcd91cbe5a3ece10cb6ca383d0fbc4c84db4f521ed29700662f4f7873 3866628 gluon-ffac-2019.1.2-2-stable-8devices-carambola2-board-sysupgrade.bin
 8devices-carambola2-board 2019.1.2-2-stable f6b46f9dcd91cbe5a3ece10cb6ca383d0fbc4c84db4f521ed29700662f4f7873 gluon-ffac-2019.1.2-2-stable-8devices-carambola2-board-sysupgrade.bin
@@ -695,8 +695,30 @@ vocore-8M 2019.1.2-2-stable b6bd143234f4cd98b133f2514b691686a42b1447ba30de83fbff
 vocore-16M 2019.1.2-2-stable 1575529dee12bbcbff3572671b55e127ccf1a651c0094f47e00fb183784dd60e 3670207 gluon-ffac-2019.1.2-2-stable-vocore-16M-sysupgrade.bin
 vocore-16M 2019.1.2-2-stable 1575529dee12bbcbff3572671b55e127ccf1a651c0094f47e00fb183784dd60e gluon-ffac-2019.1.2-2-stable-vocore-16M-sysupgrade.bin
 vocore-16M 2019.1.2-2-stable e4ccd843a07ab815ad0253702560e2c0d506219a3acd23cb881c04bd561fdd0eb59b55f3db4f374d936e88ea98112a859a705a22ce5531217c9ce438ac76f35e gluon-ffac-2019.1.2-2-stable-vocore-16M-sysupgrade.bin
----
-bca81b3c7d5c19edfd28bb36a6be0e4c3ee6498e6777a5c51b50ea4b77f4ab098cfe7a54347de49b2b1da7f35c25d1b7a2e85d0fab29ec7ea03522180bb5c500
-02fa363a5ba59fb95ddca81c8190b5b4e8976f5c55c5d55351202120f9e167015ccac84dc1c774dc03abaf76721259be0eb579e9ef237d71edf10ab0d80a850e
-314030aac3062aa043a5ccc3c7fc215518e4257affbfae966faf87ebbaa44b06dbcaa08056dc5a4cedfbb8dd7647bb704844236d16d3dd5f1eefc93fa9e2770e
-f14d1ba8b5973136cc04a89f680bd7ec6e6962438c1c2db0640c2b3337da8b01cc867442ee60ec12513b53b38bef4d7b1a077e1f56a42dfd47508d48161a320c
+avm-fritz-box-4040 2019.1.2-2-stable 8c80bbc0c43e166a353234f0f8ee1f40084a5ca13e23b1cc0aa21b89d10879cb 5243070 gluon-ffac-2019.1.2-2-stable-avm-fritz-box-4040-sysupgrade.bin
+avm-fritz-box-4040 2019.1.2-2-stable 8c80bbc0c43e166a353234f0f8ee1f40084a5ca13e23b1cc0aa21b89d10879cb gluon-ffac-2019.1.2-2-stable-avm-fritz-box-4040-sysupgrade.bin
+avm-fritz-box-4040 2019.1.2-2-stable fa257b3d53fed938834f228f7fb6ab2bce577e9b86f4555b8081ff660f12b3b37018d6edcebe066371c27891a29bee7d6ef89611b4e1d9628398cb794f03bfac gluon-ffac-2019.1.2-2-stable-avm-fritz-box-4040-sysupgrade.bin
+gl.inet-gl-b1300 2019.1.2-2-stable f082a9f6a46f27c76712eddb88feebf7412e8965cfca4b99985f460c1bdec310 6029500 gluon-ffac-2019.1.2-2-stable-gl.inet-gl-b1300-sysupgrade.bin
+gl.inet-gl-b1300 2019.1.2-2-stable f082a9f6a46f27c76712eddb88feebf7412e8965cfca4b99985f460c1bdec310 gluon-ffac-2019.1.2-2-stable-gl.inet-gl-b1300-sysupgrade.bin
+gl.inet-gl-b1300 2019.1.2-2-stable a38011d6834b58e5f9fe3b54f5f98b7e25ed0542c79bd46fda3696fac639edaa67d44ba5a6b4603400d5f2a68ff34fd109ab6e6040bfce3e5873e22d1485bf70 gluon-ffac-2019.1.2-2-stable-gl.inet-gl-b1300-sysupgrade.bin
+netgear-ex6100v2 2019.1.2-2-stable 660e8a4a57737761e21054f0e0b5a5c398f0985595c8486cfd0142d344017008 6029501 gluon-ffac-2019.1.2-2-stable-netgear-ex6100v2-sysupgrade.bin
+netgear-ex6100v2 2019.1.2-2-stable 660e8a4a57737761e21054f0e0b5a5c398f0985595c8486cfd0142d344017008 gluon-ffac-2019.1.2-2-stable-netgear-ex6100v2-sysupgrade.bin
+netgear-ex6100v2 2019.1.2-2-stable 9f850ddafff0455e70278d6d14b49c9b72406d737c5abc4f9060f1dc9c3c56c81d8ee4d31a924a30e48a64beda5434fb466ac7aa1dd583e0a1a7ffd8a3b064c1 gluon-ffac-2019.1.2-2-stable-netgear-ex6100v2-sysupgrade.bin
+netgear-ex6150v2 2019.1.2-2-stable 05a4b10b3a98bd1085f4090408b8ab75825220bacc9d219341725ec2dfd6f37d 6029501 gluon-ffac-2019.1.2-2-stable-netgear-ex6150v2-sysupgrade.bin
+netgear-ex6150v2 2019.1.2-2-stable 05a4b10b3a98bd1085f4090408b8ab75825220bacc9d219341725ec2dfd6f37d gluon-ffac-2019.1.2-2-stable-netgear-ex6150v2-sysupgrade.bin
+netgear-ex6150v2 2019.1.2-2-stable dfd74ff18a46dc6d50be8fc8b1651ca3c3b142bc7c50505365fd22c01f12f48f9fa7951c91e0ef9e8ea4680110546a5e4c13502db93af540fb788ad4a2f9d0df gluon-ffac-2019.1.2-2-stable-netgear-ex6150v2-sysupgrade.bin
+openmesh-a42 2019.1.2-2-stable ac34ce336c5b5e2d569554f236608ab2843bf2de29e8900e840ae946df370357 5058741 gluon-ffac-2019.1.2-2-stable-openmesh-a42-sysupgrade.bin
+openmesh-a42 2019.1.2-2-stable ac34ce336c5b5e2d569554f236608ab2843bf2de29e8900e840ae946df370357 gluon-ffac-2019.1.2-2-stable-openmesh-a42-sysupgrade.bin
+openmesh-a42 2019.1.2-2-stable 1707d47fef006be24def9612d617c3548717e53460107937daa44757d582e669e03af25a10687f3409eb9d376e3eaab026c094e4e08211053428b518c2302724 gluon-ffac-2019.1.2-2-stable-openmesh-a42-sysupgrade.bin
+openmesh-a62 2019.1.2-2-stable 5477d251fe4871de3a5fbc866f7f2a596ce6dd05b0b9490eead0c8db69ce1fc0 5580981 gluon-ffac-2019.1.2-2-stable-openmesh-a62-sysupgrade.bin
+openmesh-a62 2019.1.2-2-stable 5477d251fe4871de3a5fbc866f7f2a596ce6dd05b0b9490eead0c8db69ce1fc0 gluon-ffac-2019.1.2-2-stable-openmesh-a62-sysupgrade.bin
+openmesh-a62 2019.1.2-2-stable 3ee002ba44fe26ce3744130024652400234098193d5534ee4ffea363b3df88b8dde63146b5132858b181101ed96945601a2d2d9d6f0583ac217cbf3feebd203b gluon-ffac-2019.1.2-2-stable-openmesh-a62-sysupgrade.bin
+zyxel-nbg6617 2019.1.2-2-stable 8e048b86c9e05ce05d0ba130a5de889e81c2ceede411760ea0ba9b359a8c4e99 5181622 gluon-ffac-2019.1.2-2-stable-zyxel-nbg6617-sysupgrade.bin
+zyxel-nbg6617 2019.1.2-2-stable 8e048b86c9e05ce05d0ba130a5de889e81c2ceede411760ea0ba9b359a8c4e99 gluon-ffac-2019.1.2-2-stable-zyxel-nbg6617-sysupgrade.bin
+zyxel-nbg6617 2019.1.2-2-stable 7630ce57e97bdb3c075b2a7172f3d94eace8095ea1b397511842cc421e9bad91dc0dc1e0043d89665e3f207fdcbad87c384fc155512ac35bf898fc59f0eb6c3f gluon-ffac-2019.1.2-2-stable-zyxel-nbg6617-sysupgrade.bin
+zyxel-wre6606 2019.1.2-2-stable 3774066632f4f8ba6f53eb98cd7d4097d043a1fe2bdba3081cd566988affd0e5 6029498 gluon-ffac-2019.1.2-2-stable-zyxel-wre6606-sysupgrade.bin
+zyxel-wre6606 2019.1.2-2-stable 3774066632f4f8ba6f53eb98cd7d4097d043a1fe2bdba3081cd566988affd0e5 gluon-ffac-2019.1.2-2-stable-zyxel-wre6606-sysupgrade.bin
+zyxel-wre6606 2019.1.2-2-stable 1051448d91d637c387800415669576a91da9490f9b67eb34f95c9fdb28f575d8893f2de9f7aa8b58126122c975ff4aa8d7c95fa1ad26c9ed7a3c79e2abb77f4e gluon-ffac-2019.1.2-2-stable-zyxel-wre6606-sysupgrade.bin
+8devices-jalapeno 2019.1.2-2-stable 8957dc39cb89e40ae864e732184f60544add6c0e1db86a676a0679370b9b9e7f 5806262 gluon-ffac-2019.1.2-2-stable-8devices-jalapeno-sysupgrade.bin
+8devices-jalapeno 2019.1.2-2-stable 8957dc39cb89e40ae864e732184f60544add6c0e1db86a676a0679370b9b9e7f gluon-ffac-2019.1.2-2-stable-8devices-jalapeno-sysupgrade.bin
+8devices-jalapeno 2019.1.2-2-stable ad1c1b26f78ab97c83733ac4a0e77e08f2b53e191aaa0e5c52bf34585c19460fd9bda335cca6eb9bc4eb23a50dcbff0a48aeae1482599caa6d35e4eedac28377 gluon-ffac-2019.1.2-2-stable-8devices-jalapeno-sysupgrade.bin
