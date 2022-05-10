@@ -794,17 +794,17 @@ netgear-nighthawk-x4s-r7800 2019.1.3-1-beta fb2b12eef8179fceeeaaba9076d1ee5381d8
 linksys-wrt1200ac 2019.1.3-1-beta 362a1178d31a13439ef3741b690a827045d1d7f624d874110d0ca7e41241871e 4925632 gluon-ffac-2019.1.3-1-beta-linksys-wrt1200ac-sysupgrade.bin
 linksys-wrt1200ac 2019.1.3-1-beta 362a1178d31a13439ef3741b690a827045d1d7f624d874110d0ca7e41241871e gluon-ffac-2019.1.3-1-beta-linksys-wrt1200ac-sysupgrade.bin
 linksys-wrt1200ac 2019.1.3-1-beta facb0db113ea86ee78ccb02690072ac097578bb9f36f3be2e589b03372244fac4ca3103113ed7c5110c2c5ebc3f5af96ccc574bc01d71820ee16e3bd064b1dbf gluon-ffac-2019.1.3-1-beta-linksys-wrt1200ac-sysupgrade.bin
-x86-generic 2019.1.3-1-beta e055f49ec89abb76d9304b570db75b68640f31d1b977b4dd162d97b1d1492dc5 9366452 gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
-x86-generic 2019.1.3-1-beta e055f49ec89abb76d9304b570db75b68640f31d1b977b4dd162d97b1d1492dc5 gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
-x86-generic 2019.1.3-1-beta a0729d345523d7fb55da82964ef53b7b59223dbeebe4d1bdea62be44057cde7bee6d1f9351db5d087499e88bffdae91c1116fb60b4b4e19e82b32e9a6dc34622 gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
-x86-kvm 2019.1.3-1-beta e055f49ec89abb76d9304b570db75b68640f31d1b977b4dd162d97b1d1492dc5 9366452 gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
-x86-kvm 2019.1.3-1-beta e055f49ec89abb76d9304b570db75b68640f31d1b977b4dd162d97b1d1492dc5 gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
-x86-kvm 2019.1.3-1-beta a0729d345523d7fb55da82964ef53b7b59223dbeebe4d1bdea62be44057cde7bee6d1f9351db5d087499e88bffdae91c1116fb60b4b4e19e82b32e9a6dc34622 gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
-x86-xen_domu 2019.1.3-1-beta e055f49ec89abb76d9304b570db75b68640f31d1b977b4dd162d97b1d1492dc5 9366452 gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
-x86-xen_domu 2019.1.3-1-beta e055f49ec89abb76d9304b570db75b68640f31d1b977b4dd162d97b1d1492dc5 gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
-x86-xen_domu 2019.1.3-1-beta a0729d345523d7fb55da82964ef53b7b59223dbeebe4d1bdea62be44057cde7bee6d1f9351db5d087499e88bffdae91c1116fb60b4b4e19e82b32e9a6dc34622 gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
-x86-64 2019.1.3-1-beta f0b5194ef2d046dc1ac016737ab0386851dcf99d051ec1aa7bfed633319f31db 8046883 gluon-ffac-2019.1.3-1-beta-x86-64-sysupgrade.img.gz
-x86-64 2019.1.3-1-beta f0b5194ef2d046dc1ac016737ab0386851dcf99d051ec1aa7bfed633319f31db gluon-ffac-2019.1.3-1-beta-x86-64-sysupgrade.img.gz
-x86-64 2019.1.3-1-beta 5da7aff8c503c322b8ea4f4737cdd58a9837d3a9b277f68bfa87676796df03adb496654578c05c832b91b480cbe4b8fbbeb7c1629cfcf1798031b72f5c05471c gluon-ffac-2019.1.3-1-beta-x86-64-sysupgrade.img.gz
+x86-generic 2019.1.3-1-beta 2f961a757b6aebfa5b45aaed26985dee7271fecfc2f534fd828aeadd7b3d556b 9366447 gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-generic 2019.1.3-1-beta 2f961a757b6aebfa5b45aaed26985dee7271fecfc2f534fd828aeadd7b3d556b gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-generic 2019.1.3-1-beta ef33a312fb40d5ddbb14dc83790c5aa91f98ff04d57bdef4a85474500288d4be11a235fd92efd4603a0f237d5cc05a7a5528d65ab12adc81bd48bde61dc12866 gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-kvm 2019.1.3-1-beta 2f961a757b6aebfa5b45aaed26985dee7271fecfc2f534fd828aeadd7b3d556b 9366447 gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-kvm 2019.1.3-1-beta 2f961a757b6aebfa5b45aaed26985dee7271fecfc2f534fd828aeadd7b3d556b gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-kvm 2019.1.3-1-beta ef33a312fb40d5ddbb14dc83790c5aa91f98ff04d57bdef4a85474500288d4be11a235fd92efd4603a0f237d5cc05a7a5528d65ab12adc81bd48bde61dc12866 gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-xen_domu 2019.1.3-1-beta 2f961a757b6aebfa5b45aaed26985dee7271fecfc2f534fd828aeadd7b3d556b 9366447 gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-xen_domu 2019.1.3-1-beta 2f961a757b6aebfa5b45aaed26985dee7271fecfc2f534fd828aeadd7b3d556b gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-xen_domu 2019.1.3-1-beta ef33a312fb40d5ddbb14dc83790c5aa91f98ff04d57bdef4a85474500288d4be11a235fd92efd4603a0f237d5cc05a7a5528d65ab12adc81bd48bde61dc12866 gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-64 2019.1.3-1-beta a118a21e4fc8a50bb3c1d4e5639679b8ff0a8b2279be0ac136d49efa71ea56eb 8046881 gluon-ffac-2019.1.3-1-beta-x86-64-sysupgrade.img.gz
+x86-64 2019.1.3-1-beta a118a21e4fc8a50bb3c1d4e5639679b8ff0a8b2279be0ac136d49efa71ea56eb gluon-ffac-2019.1.3-1-beta-x86-64-sysupgrade.img.gz
+x86-64 2019.1.3-1-beta 899ab02f63f55638cc8c29154e5f15ebb9e3375c409b85340cbeaa38ecd9ad3319c007d6b75666d71c7267a1f54795f46848da97d1f1ae6b2d9f738250a3357f gluon-ffac-2019.1.3-1-beta-x86-64-sysupgrade.img.gz
 ---
-2c1622d48a43a45f3bb3027aa8748ca5819914249c8745cf6057c0c49cf6b90cfd20a14a975e9619d75fd4e602ab15bcc2a77ac3874f26d69b1d029e86495500
+32588805910c599c2b4d443b7b60e5cb83b4978b28627514339ab60d8353570362aba1ffc52ff8fbcf1ad86891b1457443c17333141d72f42d16aedae068ff00
