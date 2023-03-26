@@ -1,0 +1,813 @@
+BRANCH=beta
+DATE=2022-05-05 00:00:00+02:00
+PRIORITY=0
+
+8devices-carambola2-board 2019.1.3-1-beta fade4554e3b2a08cffe01cd7e3a49937fb9452e4441192f2507a8a398c1ba20c 3866628 gluon-ffac-2019.1.3-1-beta-8devices-carambola2-board-sysupgrade.bin
+8devices-carambola2-board 2019.1.3-1-beta fade4554e3b2a08cffe01cd7e3a49937fb9452e4441192f2507a8a398c1ba20c gluon-ffac-2019.1.3-1-beta-8devices-carambola2-board-sysupgrade.bin
+8devices-carambola2-board 2019.1.3-1-beta 425291a1b4e0d88ea1f3636350a74abd388775b5517960abaf4fdda2c1adc62418091f386307f169f9c0de695cae6fa9a08e73b60d47d21eee81b29391c3e7ef gluon-ffac-2019.1.3-1-beta-8devices-carambola2-board-sysupgrade.bin
+alfa-network-ap121f 2019.1.3-1-beta f1359afabc4c62765dc20fca89b58f8cea65a04298cf20b1f642ff27781972ff 3932338 gluon-ffac-2019.1.3-1-beta-alfa-network-ap121f-sysupgrade.bin
+alfa-network-ap121f 2019.1.3-1-beta f1359afabc4c62765dc20fca89b58f8cea65a04298cf20b1f642ff27781972ff gluon-ffac-2019.1.3-1-beta-alfa-network-ap121f-sysupgrade.bin
+alfa-network-ap121f 2019.1.3-1-beta da585345cbbc2e3b2eaa35369596742dfbafa937de4eb2845f5b96d060de5941856db8bc80ee9e0a8f7809f0c7a354107497da569d5fad54a225095bd6e750a6 gluon-ffac-2019.1.3-1-beta-alfa-network-ap121f-sysupgrade.bin
+alfa-network-hornet-ub 2019.1.3-1-beta 5c686087beb47779fc7715a64da4c9042942b334130463bc90fdea296256f10f 7858784 gluon-ffac-2019.1.3-1-beta-alfa-network-hornet-ub-sysupgrade.bin
+alfa-network-hornet-ub 2019.1.3-1-beta 5c686087beb47779fc7715a64da4c9042942b334130463bc90fdea296256f10f gluon-ffac-2019.1.3-1-beta-alfa-network-hornet-ub-sysupgrade.bin
+alfa-network-hornet-ub 2019.1.3-1-beta 2b9a0124d7ef687a3495f26f53331f4f8264bca55df6698fc3f88cac8d4996b1fffc632958dc187c1ccc47d00bd0d67d6d123f4d69c5175447384c6ae3551e51 gluon-ffac-2019.1.3-1-beta-alfa-network-hornet-ub-sysupgrade.bin
+alfa-network-ap121 2019.1.3-1-beta 5c686087beb47779fc7715a64da4c9042942b334130463bc90fdea296256f10f 7858784 gluon-ffac-2019.1.3-1-beta-alfa-network-ap121-sysupgrade.bin
+alfa-network-ap121 2019.1.3-1-beta 5c686087beb47779fc7715a64da4c9042942b334130463bc90fdea296256f10f gluon-ffac-2019.1.3-1-beta-alfa-network-ap121-sysupgrade.bin
+alfa-network-ap121 2019.1.3-1-beta 2b9a0124d7ef687a3495f26f53331f4f8264bca55df6698fc3f88cac8d4996b1fffc632958dc187c1ccc47d00bd0d67d6d123f4d69c5175447384c6ae3551e51 gluon-ffac-2019.1.3-1-beta-alfa-network-ap121-sysupgrade.bin
+alfa-network-ap121u 2019.1.3-1-beta 5c686087beb47779fc7715a64da4c9042942b334130463bc90fdea296256f10f 7858784 gluon-ffac-2019.1.3-1-beta-alfa-network-ap121u-sysupgrade.bin
+alfa-network-ap121u 2019.1.3-1-beta 5c686087beb47779fc7715a64da4c9042942b334130463bc90fdea296256f10f gluon-ffac-2019.1.3-1-beta-alfa-network-ap121u-sysupgrade.bin
+alfa-network-ap121u 2019.1.3-1-beta 2b9a0124d7ef687a3495f26f53331f4f8264bca55df6698fc3f88cac8d4996b1fffc632958dc187c1ccc47d00bd0d67d6d123f4d69c5175447384c6ae3551e51 gluon-ffac-2019.1.3-1-beta-alfa-network-ap121u-sysupgrade.bin
+alfa-network-tube2h 2019.1.3-1-beta bf36dc844c12ee9fd2bc7076cb673192a41cc6bb6ecd7e696dabd634566d741d 7858594 gluon-ffac-2019.1.3-1-beta-alfa-network-tube2h-sysupgrade.bin
+alfa-network-tube2h 2019.1.3-1-beta bf36dc844c12ee9fd2bc7076cb673192a41cc6bb6ecd7e696dabd634566d741d gluon-ffac-2019.1.3-1-beta-alfa-network-tube2h-sysupgrade.bin
+alfa-network-tube2h 2019.1.3-1-beta f223502497904a6b2573a890a505f12d413c7a7eed8f5028de8f2508940ad960e4a48b6705c1a4b4bc8ba0e587dafe6bb838a904dc3f752ad4db90a381da3081 gluon-ffac-2019.1.3-1-beta-alfa-network-tube2h-sysupgrade.bin
+alfa-network-n2-n5 2019.1.3-1-beta 8a235bf7a47752c43ee3a8559dcee148f885db69d433c57b03c81a23d7096329 7858379 gluon-ffac-2019.1.3-1-beta-alfa-network-n2-n5-sysupgrade.bin
+alfa-network-n2-n5 2019.1.3-1-beta 8a235bf7a47752c43ee3a8559dcee148f885db69d433c57b03c81a23d7096329 gluon-ffac-2019.1.3-1-beta-alfa-network-n2-n5-sysupgrade.bin
+alfa-network-n2-n5 2019.1.3-1-beta f7c81a5cd27a6bf4bb3efdc00764998231cf8d31aa664527213667cabfeb4819e775073f15462dc387fa93ea54f9a7f609089bc8e46c9d5201460762de699b0c gluon-ffac-2019.1.3-1-beta-alfa-network-n2-n5-sysupgrade.bin
+allnet-all0315n 2019.1.3-1-beta 0bccdd06e1baa3126ad78a6c98c9900311a10b44c7d488939c162a77ebb28d24 3932164 gluon-ffac-2019.1.3-1-beta-allnet-all0315n-sysupgrade.bin
+allnet-all0315n 2019.1.3-1-beta 0bccdd06e1baa3126ad78a6c98c9900311a10b44c7d488939c162a77ebb28d24 gluon-ffac-2019.1.3-1-beta-allnet-all0315n-sysupgrade.bin
+allnet-all0315n 2019.1.3-1-beta 27d9f4b35b5dfa0b3f0148647b260492de591158ea62bdb39d22349542d81f7b937b208b26685ca48adeec8c9bd6a19688f9f7f5d307713c2550708624be25c1 gluon-ffac-2019.1.3-1-beta-allnet-all0315n-sysupgrade.bin
+avm-fritz-box-4020 2019.1.3-1-beta 111655f852318dce21550a112b350e318bed499579295a4722bae086cf8183ad 3932341 gluon-ffac-2019.1.3-1-beta-avm-fritz-box-4020-sysupgrade.bin
+avm-fritz-box-4020 2019.1.3-1-beta 111655f852318dce21550a112b350e318bed499579295a4722bae086cf8183ad gluon-ffac-2019.1.3-1-beta-avm-fritz-box-4020-sysupgrade.bin
+avm-fritz-box-4020 2019.1.3-1-beta 082ec6a3ce78f85f5e4244d060335c77c6b4b1ca951e9484069dc264be82cf63fc5ff187edec7a57d11e0b8b1ae7d8f42c18f9af1fbec7c10df23792ec6bcd9e gluon-ffac-2019.1.3-1-beta-avm-fritz-box-4020-sysupgrade.bin
+avm-fritz-wlan-repeater-300e 2019.1.3-1-beta 854262354af04cf3749d045b474577011be1197a9741976f319b38dcdac6402d 3801269 gluon-ffac-2019.1.3-1-beta-avm-fritz-wlan-repeater-300e-sysupgrade.bin
+avm-fritz-wlan-repeater-300e 2019.1.3-1-beta 854262354af04cf3749d045b474577011be1197a9741976f319b38dcdac6402d gluon-ffac-2019.1.3-1-beta-avm-fritz-wlan-repeater-300e-sysupgrade.bin
+avm-fritz-wlan-repeater-300e 2019.1.3-1-beta 5001297cfb9b789fe77ad99120bdf102d7b55638ca1a588da09c0c2fc4e19237c6bd3883ad411c169985531f99c0f2e114d327a2297e5f52a5dd37e946bc72d5 gluon-ffac-2019.1.3-1-beta-avm-fritz-wlan-repeater-300e-sysupgrade.bin
+avm-fritz-wlan-repeater-450e 2019.1.3-1-beta a89c0c578b88232094033aa4d36b2698790b67fcaff70760ace33864e0eca3cd 3801269 gluon-ffac-2019.1.3-1-beta-avm-fritz-wlan-repeater-450e-sysupgrade.bin
+avm-fritz-wlan-repeater-450e 2019.1.3-1-beta a89c0c578b88232094033aa4d36b2698790b67fcaff70760ace33864e0eca3cd gluon-ffac-2019.1.3-1-beta-avm-fritz-wlan-repeater-450e-sysupgrade.bin
+avm-fritz-wlan-repeater-450e 2019.1.3-1-beta 20f528fe63000f3314f4cd330fe7dcdf27fdc785de099ab8a24d859e698f1f1a1bf0ad633f10b171d6dd92c588967313c6130c514732b1cee7c9a149e116aa62 gluon-ffac-2019.1.3-1-beta-avm-fritz-wlan-repeater-450e-sysupgrade.bin
+buffalo-wzr-hp-g300nh 2019.1.3-1-beta 2d31e7fd6465de78d170fb0aa17c0fe7ab044994904072d31a78e305b82afaa3 3932164 gluon-ffac-2019.1.3-1-beta-buffalo-wzr-hp-g300nh-sysupgrade.bin
+buffalo-wzr-hp-g300nh 2019.1.3-1-beta 2d31e7fd6465de78d170fb0aa17c0fe7ab044994904072d31a78e305b82afaa3 gluon-ffac-2019.1.3-1-beta-buffalo-wzr-hp-g300nh-sysupgrade.bin
+buffalo-wzr-hp-g300nh 2019.1.3-1-beta 0a65a602bdbf9ff50a41473437de6139f14f90340413172a61cf166940821625f1f39694677c637550dfbed1f1778e4581c98386a38a2e530afe9e33355dc07e gluon-ffac-2019.1.3-1-beta-buffalo-wzr-hp-g300nh-sysupgrade.bin
+buffalo-wzr-hp-g300nh2 2019.1.3-1-beta b10a129a26bb1ae79147a23643a20cc7f2743c953e8cdbd8414f01e374be4d48 3866628 gluon-ffac-2019.1.3-1-beta-buffalo-wzr-hp-g300nh2-sysupgrade.bin
+buffalo-wzr-hp-g300nh2 2019.1.3-1-beta b10a129a26bb1ae79147a23643a20cc7f2743c953e8cdbd8414f01e374be4d48 gluon-ffac-2019.1.3-1-beta-buffalo-wzr-hp-g300nh2-sysupgrade.bin
+buffalo-wzr-hp-g300nh2 2019.1.3-1-beta b3f1539b29ed199092c156eab2f4190e90aa18adaf8daa2a693cffb4f5a9ff2f5e2319f587495a71342a7e6616e2e6d7d73d678eb4c9e0117a5a9b347780cb36 gluon-ffac-2019.1.3-1-beta-buffalo-wzr-hp-g300nh2-sysupgrade.bin
+buffalo-wzr-hp-g450h 2019.1.3-1-beta ee22d3e6416f83f1c205f601e2d52f4ddc91f320664e572be3e332a66154f630 3866628 gluon-ffac-2019.1.3-1-beta-buffalo-wzr-hp-g450h-sysupgrade.bin
+buffalo-wzr-hp-g450h 2019.1.3-1-beta ee22d3e6416f83f1c205f601e2d52f4ddc91f320664e572be3e332a66154f630 gluon-ffac-2019.1.3-1-beta-buffalo-wzr-hp-g450h-sysupgrade.bin
+buffalo-wzr-hp-g450h 2019.1.3-1-beta d36f7d61e6540e125b8cbd28bdda499ad7347bd1b40fe48b54af15742821ba8bac6657a1de92099dd413b8433189b8c2873ece0bde21c303acd37e39dd9b4020 gluon-ffac-2019.1.3-1-beta-buffalo-wzr-hp-g450h-sysupgrade.bin
+buffalo-wzr-hp-ag300h-wzr-600dhp 2019.1.3-1-beta 73a33c5312c239563da25a73bb43eee994c66042a452db735f39ae27ded1974d 3866628 gluon-ffac-2019.1.3-1-beta-buffalo-wzr-hp-ag300h-wzr-600dhp-sysupgrade.bin
+buffalo-wzr-hp-ag300h-wzr-600dhp 2019.1.3-1-beta 73a33c5312c239563da25a73bb43eee994c66042a452db735f39ae27ded1974d gluon-ffac-2019.1.3-1-beta-buffalo-wzr-hp-ag300h-wzr-600dhp-sysupgrade.bin
+buffalo-wzr-hp-ag300h-wzr-600dhp 2019.1.3-1-beta 7e14a3bd2540958bac0f48980475001d80ded8f90560da8beb34f559296cedebd684bc14317f5b09b415d51f65af1b44b01bc0f4bb8949d2666cdd883827e5ea gluon-ffac-2019.1.3-1-beta-buffalo-wzr-hp-ag300h-wzr-600dhp-sysupgrade.bin
+d-link-dap-1330-rev-a1 2019.1.3-1-beta 5456135cc4ed046444cc30716670e7e8982fc7309437d95c7303b46b0a859dee 3801092 gluon-ffac-2019.1.3-1-beta-d-link-dap-1330-rev-a1-sysupgrade.bin
+d-link-dap-1330-rev-a1 2019.1.3-1-beta 5456135cc4ed046444cc30716670e7e8982fc7309437d95c7303b46b0a859dee gluon-ffac-2019.1.3-1-beta-d-link-dap-1330-rev-a1-sysupgrade.bin
+d-link-dap-1330-rev-a1 2019.1.3-1-beta 908052d7d6c7c00848f963020f4d4922ab6cd41f61ce38912a6abbef2123afc665d7a9e0442a667921ddeebfa73362a008ff6076ac145285737d6a5e18c2535b gluon-ffac-2019.1.3-1-beta-d-link-dap-1330-rev-a1-sysupgrade.bin
+d-link-dir-505-rev-a1 2019.1.3-1-beta 8b6e2b860448b590979ff9b38f701d5437becc3dfb1b181d2451a6155bf2b3ca 3866628 gluon-ffac-2019.1.3-1-beta-d-link-dir-505-rev-a1-sysupgrade.bin
+d-link-dir-505-rev-a1 2019.1.3-1-beta 8b6e2b860448b590979ff9b38f701d5437becc3dfb1b181d2451a6155bf2b3ca gluon-ffac-2019.1.3-1-beta-d-link-dir-505-rev-a1-sysupgrade.bin
+d-link-dir-505-rev-a1 2019.1.3-1-beta f504017fb8c81c8d8be8ae2d53c296588e16cd6a756b29cf83dc09c92e26935ea517c284ec2a872e7b4b1023cfdd8115bae87bb1f6c54e308b603389245f928b gluon-ffac-2019.1.3-1-beta-d-link-dir-505-rev-a1-sysupgrade.bin
+d-link-dir-505-rev-a2 2019.1.3-1-beta 8b6e2b860448b590979ff9b38f701d5437becc3dfb1b181d2451a6155bf2b3ca 3866628 gluon-ffac-2019.1.3-1-beta-d-link-dir-505-rev-a2-sysupgrade.bin
+d-link-dir-505-rev-a2 2019.1.3-1-beta 8b6e2b860448b590979ff9b38f701d5437becc3dfb1b181d2451a6155bf2b3ca gluon-ffac-2019.1.3-1-beta-d-link-dir-505-rev-a2-sysupgrade.bin
+d-link-dir-505-rev-a2 2019.1.3-1-beta f504017fb8c81c8d8be8ae2d53c296588e16cd6a756b29cf83dc09c92e26935ea517c284ec2a872e7b4b1023cfdd8115bae87bb1f6c54e308b603389245f928b gluon-ffac-2019.1.3-1-beta-d-link-dir-505-rev-a2-sysupgrade.bin
+d-link-dir-825-rev-b1 2019.1.3-1-beta f1f9ba36d5bf4a3887930a4a5e132790cc6ed44173b127ef8ce8ddf3ba5ce6c7 3866628 gluon-ffac-2019.1.3-1-beta-d-link-dir-825-rev-b1-sysupgrade.bin
+d-link-dir-825-rev-b1 2019.1.3-1-beta f1f9ba36d5bf4a3887930a4a5e132790cc6ed44173b127ef8ce8ddf3ba5ce6c7 gluon-ffac-2019.1.3-1-beta-d-link-dir-825-rev-b1-sysupgrade.bin
+d-link-dir-825-rev-b1 2019.1.3-1-beta 0bc0a0497ab6036ed838cae8f052e42629fb4cafd17674fe0a1b5d68b073ee037986950940f7fce835d911ec179fbbb001d5f1ed81e35f54b00d29e1c816452e gluon-ffac-2019.1.3-1-beta-d-link-dir-825-rev-b1-sysupgrade.bin
+gl-inet-6408a-v1 2019.1.3-1-beta 290bbacdc4bb55bf5c46a823300568a1a297772672616ff886a4967e9008d319 3866628 gluon-ffac-2019.1.3-1-beta-gl-inet-6408a-v1-sysupgrade.bin
+gl-inet-6408a-v1 2019.1.3-1-beta 290bbacdc4bb55bf5c46a823300568a1a297772672616ff886a4967e9008d319 gluon-ffac-2019.1.3-1-beta-gl-inet-6408a-v1-sysupgrade.bin
+gl-inet-6408a-v1 2019.1.3-1-beta b944fc03a47742ba482f265a626b83d1d1c4b238b1ffdf92939d6c7309886379ee94bca1e94fe09c56ec932f719d02e9b2f45cf10e568d4e4d6496e7e322b413 gluon-ffac-2019.1.3-1-beta-gl-inet-6408a-v1-sysupgrade.bin
+gl-inet-6416a-v1 2019.1.3-1-beta 7cce3bfd2cc08693c22087cc2d11636eb01c2a96e1a6e00fd708595710309d3a 3866628 gluon-ffac-2019.1.3-1-beta-gl-inet-6416a-v1-sysupgrade.bin
+gl-inet-6416a-v1 2019.1.3-1-beta 7cce3bfd2cc08693c22087cc2d11636eb01c2a96e1a6e00fd708595710309d3a gluon-ffac-2019.1.3-1-beta-gl-inet-6416a-v1-sysupgrade.bin
+gl-inet-6416a-v1 2019.1.3-1-beta 6cc8f641698baba36ca73ef8c0aa80777110ab67b3735b5aaee78709ff37bf2f60099128c53d032ddaacfc93d8ab61aa1d975411a5dddbe2f0aa41d71880b08c gluon-ffac-2019.1.3-1-beta-gl-inet-6416a-v1-sysupgrade.bin
+gl.inet-gl-ar150 2019.1.3-1-beta 80ce5b6f758b576856c1c6ed82b3cbdf47e0e635affabdebe994da3b1b4f7c00 3866628 gluon-ffac-2019.1.3-1-beta-gl.inet-gl-ar150-sysupgrade.bin
+gl.inet-gl-ar150 2019.1.3-1-beta 80ce5b6f758b576856c1c6ed82b3cbdf47e0e635affabdebe994da3b1b4f7c00 gluon-ffac-2019.1.3-1-beta-gl.inet-gl-ar150-sysupgrade.bin
+gl.inet-gl-ar150 2019.1.3-1-beta 472f3d836fb2a63f2ec7e40d5d7831178ee7a439234d1025080174d2150df709ec71a91c4285c257ee4f0a3cae8e9196f0aa3f312a591da141ad8f012ce02ae3 gluon-ffac-2019.1.3-1-beta-gl.inet-gl-ar150-sysupgrade.bin
+gl-ar150 2019.1.3-1-beta 80ce5b6f758b576856c1c6ed82b3cbdf47e0e635affabdebe994da3b1b4f7c00 3866628 gluon-ffac-2019.1.3-1-beta-gl.inet-gl-ar150-sysupgrade.bin
+gl-ar150 2019.1.3-1-beta 80ce5b6f758b576856c1c6ed82b3cbdf47e0e635affabdebe994da3b1b4f7c00 gluon-ffac-2019.1.3-1-beta-gl.inet-gl-ar150-sysupgrade.bin
+gl-ar150 2019.1.3-1-beta 472f3d836fb2a63f2ec7e40d5d7831178ee7a439234d1025080174d2150df709ec71a91c4285c257ee4f0a3cae8e9196f0aa3f312a591da141ad8f012ce02ae3 gluon-ffac-2019.1.3-1-beta-gl.inet-gl-ar150-sysupgrade.bin
+gl.inet-gl-ar300m 2019.1.3-1-beta a30720b417101aa23d47f7bcbb794b2367749b399c7ac145ade0729deb6c6663 3866628 gluon-ffac-2019.1.3-1-beta-gl.inet-gl-ar300m-sysupgrade.bin
+gl.inet-gl-ar300m 2019.1.3-1-beta a30720b417101aa23d47f7bcbb794b2367749b399c7ac145ade0729deb6c6663 gluon-ffac-2019.1.3-1-beta-gl.inet-gl-ar300m-sysupgrade.bin
+gl.inet-gl-ar300m 2019.1.3-1-beta 4c6b6171fb9b24656d6aa98b3786b205386e5d61bedede4f9fb76f3f6000dd948bed0bfe18d7794b2caa4ceb00783782f646ec0eab16414199ee59203dac819c gluon-ffac-2019.1.3-1-beta-gl.inet-gl-ar300m-sysupgrade.bin
+gl-ar300m 2019.1.3-1-beta a30720b417101aa23d47f7bcbb794b2367749b399c7ac145ade0729deb6c6663 3866628 gluon-ffac-2019.1.3-1-beta-gl.inet-gl-ar300m-sysupgrade.bin
+gl-ar300m 2019.1.3-1-beta a30720b417101aa23d47f7bcbb794b2367749b399c7ac145ade0729deb6c6663 gluon-ffac-2019.1.3-1-beta-gl.inet-gl-ar300m-sysupgrade.bin
+gl-ar300m 2019.1.3-1-beta 4c6b6171fb9b24656d6aa98b3786b205386e5d61bedede4f9fb76f3f6000dd948bed0bfe18d7794b2caa4ceb00783782f646ec0eab16414199ee59203dac819c gluon-ffac-2019.1.3-1-beta-gl.inet-gl-ar300m-sysupgrade.bin
+gl.inet-gl-ar750 2019.1.3-1-beta d1534bc8633c8d5c19230ced7a5936fcd3259aa86e13f548535d19156e06983d 4260020 gluon-ffac-2019.1.3-1-beta-gl.inet-gl-ar750-sysupgrade.bin
+gl.inet-gl-ar750 2019.1.3-1-beta d1534bc8633c8d5c19230ced7a5936fcd3259aa86e13f548535d19156e06983d gluon-ffac-2019.1.3-1-beta-gl.inet-gl-ar750-sysupgrade.bin
+gl.inet-gl-ar750 2019.1.3-1-beta 9b8b7537ccf9b9463de89b3f45271967ed6a6905bda18d0d62a75b6a7128e1df79da1a74ac8266f6f00bd6768cc5ffe1dc867242175366a9151a3dcfce085550 gluon-ffac-2019.1.3-1-beta-gl.inet-gl-ar750-sysupgrade.bin
+gl-ar750 2019.1.3-1-beta d1534bc8633c8d5c19230ced7a5936fcd3259aa86e13f548535d19156e06983d 4260020 gluon-ffac-2019.1.3-1-beta-gl.inet-gl-ar750-sysupgrade.bin
+gl-ar750 2019.1.3-1-beta d1534bc8633c8d5c19230ced7a5936fcd3259aa86e13f548535d19156e06983d gluon-ffac-2019.1.3-1-beta-gl.inet-gl-ar750-sysupgrade.bin
+gl-ar750 2019.1.3-1-beta 9b8b7537ccf9b9463de89b3f45271967ed6a6905bda18d0d62a75b6a7128e1df79da1a74ac8266f6f00bd6768cc5ffe1dc867242175366a9151a3dcfce085550 gluon-ffac-2019.1.3-1-beta-gl.inet-gl-ar750-sysupgrade.bin
+linksys-wrt160nl 2019.1.3-1-beta d3b3c67501f7034a278dbba730e34f7024cc17c01bc165a602915d3066ba0cdc 3866656 gluon-ffac-2019.1.3-1-beta-linksys-wrt160nl-sysupgrade.bin
+linksys-wrt160nl 2019.1.3-1-beta d3b3c67501f7034a278dbba730e34f7024cc17c01bc165a602915d3066ba0cdc gluon-ffac-2019.1.3-1-beta-linksys-wrt160nl-sysupgrade.bin
+linksys-wrt160nl 2019.1.3-1-beta 57a10c982ae89c5a2b0cd27e723cfcf340533a863a9e0676794c6b9f23ccef23df1d9ff3af7aec30f4286b9c841e2bca3ffaf6af409580fceb640ed017b3bd9e gluon-ffac-2019.1.3-1-beta-linksys-wrt160nl-sysupgrade.bin
+meraki-mr12 2019.1.3-1-beta b00d46745d3e7767b9d5ff3ef519a0cad2a88c66923f9d8166ebd3cd466fe764 15329575 gluon-ffac-2019.1.3-1-beta-meraki-mr12-sysupgrade.bin
+meraki-mr12 2019.1.3-1-beta b00d46745d3e7767b9d5ff3ef519a0cad2a88c66923f9d8166ebd3cd466fe764 gluon-ffac-2019.1.3-1-beta-meraki-mr12-sysupgrade.bin
+meraki-mr12 2019.1.3-1-beta abc29f3e7bfa15a136204747e052e7b266a159330b20d863c223d3b954c9389460d112624490be7668dcd47a08d2fe54aaaa2174819d62aca9ef31b00132b130 gluon-ffac-2019.1.3-1-beta-meraki-mr12-sysupgrade.bin
+meraki-mr62 2019.1.3-1-beta b00d46745d3e7767b9d5ff3ef519a0cad2a88c66923f9d8166ebd3cd466fe764 15329575 gluon-ffac-2019.1.3-1-beta-meraki-mr62-sysupgrade.bin
+meraki-mr62 2019.1.3-1-beta b00d46745d3e7767b9d5ff3ef519a0cad2a88c66923f9d8166ebd3cd466fe764 gluon-ffac-2019.1.3-1-beta-meraki-mr62-sysupgrade.bin
+meraki-mr62 2019.1.3-1-beta abc29f3e7bfa15a136204747e052e7b266a159330b20d863c223d3b954c9389460d112624490be7668dcd47a08d2fe54aaaa2174819d62aca9ef31b00132b130 gluon-ffac-2019.1.3-1-beta-meraki-mr62-sysupgrade.bin
+meraki-mr16 2019.1.3-1-beta 90cd86982c2ae5977a78f1cc25e4fdf9ae070cb0bdf88535be5a244ae6c38583 15329886 gluon-ffac-2019.1.3-1-beta-meraki-mr16-sysupgrade.bin
+meraki-mr16 2019.1.3-1-beta 90cd86982c2ae5977a78f1cc25e4fdf9ae070cb0bdf88535be5a244ae6c38583 gluon-ffac-2019.1.3-1-beta-meraki-mr16-sysupgrade.bin
+meraki-mr16 2019.1.3-1-beta da244b527faee6a2e88aa32fd11ab1e88a98cce784a740e030225f42756ec657ff23de93b3971e78560f1575f08071725d740daefd139133761a829ad1c731fc gluon-ffac-2019.1.3-1-beta-meraki-mr16-sysupgrade.bin
+meraki-mr66 2019.1.3-1-beta 90cd86982c2ae5977a78f1cc25e4fdf9ae070cb0bdf88535be5a244ae6c38583 15329886 gluon-ffac-2019.1.3-1-beta-meraki-mr66-sysupgrade.bin
+meraki-mr66 2019.1.3-1-beta 90cd86982c2ae5977a78f1cc25e4fdf9ae070cb0bdf88535be5a244ae6c38583 gluon-ffac-2019.1.3-1-beta-meraki-mr66-sysupgrade.bin
+meraki-mr66 2019.1.3-1-beta da244b527faee6a2e88aa32fd11ab1e88a98cce784a740e030225f42756ec657ff23de93b3971e78560f1575f08071725d740daefd139133761a829ad1c731fc gluon-ffac-2019.1.3-1-beta-meraki-mr66-sysupgrade.bin
+netgear-wndr3700 2019.1.3-1-beta e142a9056b6b57f48028f5bbaf71c9e183bca3d563f9912f0e8be1b6c3a9c239 3932164 gluon-ffac-2019.1.3-1-beta-netgear-wndr3700-sysupgrade.bin
+netgear-wndr3700 2019.1.3-1-beta e142a9056b6b57f48028f5bbaf71c9e183bca3d563f9912f0e8be1b6c3a9c239 gluon-ffac-2019.1.3-1-beta-netgear-wndr3700-sysupgrade.bin
+netgear-wndr3700 2019.1.3-1-beta 2be855856185bc1a922549fb815607f4f66f331527bf566141ab968824c92ab7d5ac57b21ff719c410e84e84b73a34c0e323502a038d1821cb791993d7eed648 gluon-ffac-2019.1.3-1-beta-netgear-wndr3700-sysupgrade.bin
+netgear-wndr3700v2 2019.1.3-1-beta 05558b5c0c465be7ef372f7e712663ed4a9736e5f13b63c26c8a52640471274d 3932164 gluon-ffac-2019.1.3-1-beta-netgear-wndr3700v2-sysupgrade.bin
+netgear-wndr3700v2 2019.1.3-1-beta 05558b5c0c465be7ef372f7e712663ed4a9736e5f13b63c26c8a52640471274d gluon-ffac-2019.1.3-1-beta-netgear-wndr3700v2-sysupgrade.bin
+netgear-wndr3700v2 2019.1.3-1-beta 67722717c2973048f57e2248ad7b90a328c899bd7bf39540278bd1b5421a4e7ee68827aead31b6322d540f7049a5a300cb60fad7ead01d0d7a1d5c095ea4eb3b gluon-ffac-2019.1.3-1-beta-netgear-wndr3700v2-sysupgrade.bin
+netgear-wndr3800 2019.1.3-1-beta 05558b5c0c465be7ef372f7e712663ed4a9736e5f13b63c26c8a52640471274d 3932164 gluon-ffac-2019.1.3-1-beta-netgear-wndr3800-sysupgrade.bin
+netgear-wndr3800 2019.1.3-1-beta 05558b5c0c465be7ef372f7e712663ed4a9736e5f13b63c26c8a52640471274d gluon-ffac-2019.1.3-1-beta-netgear-wndr3800-sysupgrade.bin
+netgear-wndr3800 2019.1.3-1-beta 67722717c2973048f57e2248ad7b90a328c899bd7bf39540278bd1b5421a4e7ee68827aead31b6322d540f7049a5a300cb60fad7ead01d0d7a1d5c095ea4eb3b gluon-ffac-2019.1.3-1-beta-netgear-wndr3800-sysupgrade.bin
+netgear-wndrmacv2 2019.1.3-1-beta 05558b5c0c465be7ef372f7e712663ed4a9736e5f13b63c26c8a52640471274d 3932164 gluon-ffac-2019.1.3-1-beta-netgear-wndrmacv2-sysupgrade.bin
+netgear-wndrmacv2 2019.1.3-1-beta 05558b5c0c465be7ef372f7e712663ed4a9736e5f13b63c26c8a52640471274d gluon-ffac-2019.1.3-1-beta-netgear-wndrmacv2-sysupgrade.bin
+netgear-wndrmacv2 2019.1.3-1-beta 67722717c2973048f57e2248ad7b90a328c899bd7bf39540278bd1b5421a4e7ee68827aead31b6322d540f7049a5a300cb60fad7ead01d0d7a1d5c095ea4eb3b gluon-ffac-2019.1.3-1-beta-netgear-wndrmacv2-sysupgrade.bin
+netgear-wndrmac 2019.1.3-1-beta 05558b5c0c465be7ef372f7e712663ed4a9736e5f13b63c26c8a52640471274d 3932164 gluon-ffac-2019.1.3-1-beta-netgear-wndrmac-sysupgrade.bin
+netgear-wndrmac 2019.1.3-1-beta 05558b5c0c465be7ef372f7e712663ed4a9736e5f13b63c26c8a52640471274d gluon-ffac-2019.1.3-1-beta-netgear-wndrmac-sysupgrade.bin
+netgear-wndrmac 2019.1.3-1-beta 67722717c2973048f57e2248ad7b90a328c899bd7bf39540278bd1b5421a4e7ee68827aead31b6322d540f7049a5a300cb60fad7ead01d0d7a1d5c095ea4eb3b gluon-ffac-2019.1.3-1-beta-netgear-wndrmac-sysupgrade.bin
+netgear-wnr2200 2019.1.3-1-beta df95649b013cfb47056089e96b7b1b4974c5ff2a23d41ade1af4ba3c74e3d966 3866628 gluon-ffac-2019.1.3-1-beta-netgear-wnr2200-sysupgrade.bin
+netgear-wnr2200 2019.1.3-1-beta df95649b013cfb47056089e96b7b1b4974c5ff2a23d41ade1af4ba3c74e3d966 gluon-ffac-2019.1.3-1-beta-netgear-wnr2200-sysupgrade.bin
+netgear-wnr2200 2019.1.3-1-beta b6d674bbe4d8fded8c613fdbb3ca9c2d04d3910e6e0719a4ca9c26a9367076f5b25a24b144b6fdb44729d1cc4318473e28d8faaae2358318c93e43c23a0edeb6 gluon-ffac-2019.1.3-1-beta-netgear-wnr2200-sysupgrade.bin
+ocedo-koala 2019.1.3-1-beta 0ec273ef9cc7f53ae2e1f7dc6aaa16ee3bfa8696afd63accae9c0468de9f93be 4128772 gluon-ffac-2019.1.3-1-beta-ocedo-koala-sysupgrade.bin
+ocedo-koala 2019.1.3-1-beta 0ec273ef9cc7f53ae2e1f7dc6aaa16ee3bfa8696afd63accae9c0468de9f93be gluon-ffac-2019.1.3-1-beta-ocedo-koala-sysupgrade.bin
+ocedo-koala 2019.1.3-1-beta a30d6b5e7a2cebf063d8157e0cd99e9f24e777980f6b75717905d8c7be5e2905b16d71f6bab81f057068a034d2db722d0c3eb292e4fb9cb30679c09c89353660 gluon-ffac-2019.1.3-1-beta-ocedo-koala-sysupgrade.bin
+onion-omega 2019.1.3-1-beta b980cdda0dbaa2004d7f05e145c27e1a87c2dd4c6e9b3f4950faf379d5c6a71e 3997700 gluon-ffac-2019.1.3-1-beta-onion-omega-sysupgrade.bin
+onion-omega 2019.1.3-1-beta b980cdda0dbaa2004d7f05e145c27e1a87c2dd4c6e9b3f4950faf379d5c6a71e gluon-ffac-2019.1.3-1-beta-onion-omega-sysupgrade.bin
+onion-omega 2019.1.3-1-beta 63a5208384194e2bb946eebffc172cc50ab4a5fea18cd99daf6a2b98baecfc48582c3af90b88d6fe5193ac4932e2c480ad4b92cc0872c717e9d9100da1205dc5 gluon-ffac-2019.1.3-1-beta-onion-omega-sysupgrade.bin
+openmesh-a60 2019.1.3-1-beta a98879fcee35b78cd4ff585bbb1d3b2503580658869c935ca5969cd35fdcd087 4254546 gluon-ffac-2019.1.3-1-beta-openmesh-a60-sysupgrade.bin
+openmesh-a60 2019.1.3-1-beta a98879fcee35b78cd4ff585bbb1d3b2503580658869c935ca5969cd35fdcd087 gluon-ffac-2019.1.3-1-beta-openmesh-a60-sysupgrade.bin
+openmesh-a60 2019.1.3-1-beta 471cd61e09e9561670659a3e5f368cb3ca8d5654d3d6e006092c16b786f3798a4cb44cad3e837ca4dc01be6db90dd561cc6a4c8017f633942a1ac708254de7f1 gluon-ffac-2019.1.3-1-beta-openmesh-a60-sysupgrade.bin
+openmesh-a40 2019.1.3-1-beta a98879fcee35b78cd4ff585bbb1d3b2503580658869c935ca5969cd35fdcd087 4254546 gluon-ffac-2019.1.3-1-beta-openmesh-a40-sysupgrade.bin
+openmesh-a40 2019.1.3-1-beta a98879fcee35b78cd4ff585bbb1d3b2503580658869c935ca5969cd35fdcd087 gluon-ffac-2019.1.3-1-beta-openmesh-a40-sysupgrade.bin
+openmesh-a40 2019.1.3-1-beta 471cd61e09e9561670659a3e5f368cb3ca8d5654d3d6e006092c16b786f3798a4cb44cad3e837ca4dc01be6db90dd561cc6a4c8017f633942a1ac708254de7f1 gluon-ffac-2019.1.3-1-beta-openmesh-a40-sysupgrade.bin
+openmesh-mr1750 2019.1.3-1-beta 10db16d147f87ef19876dff146c3e2533ce8538b92682c21bcec06886acdae55 4254546 gluon-ffac-2019.1.3-1-beta-openmesh-mr1750-sysupgrade.bin
+openmesh-mr1750 2019.1.3-1-beta 10db16d147f87ef19876dff146c3e2533ce8538b92682c21bcec06886acdae55 gluon-ffac-2019.1.3-1-beta-openmesh-mr1750-sysupgrade.bin
+openmesh-mr1750 2019.1.3-1-beta 2ce073f63fe5efd17ee7dea47d183b35f420c590f12180714ce427269c5297159ac505b75c5675e0d6bd6d65befad0e8a409307c1eb102caf3a6cd4b0475daa8 gluon-ffac-2019.1.3-1-beta-openmesh-mr1750-sysupgrade.bin
+openmesh-mr1750v2 2019.1.3-1-beta 10db16d147f87ef19876dff146c3e2533ce8538b92682c21bcec06886acdae55 4254546 gluon-ffac-2019.1.3-1-beta-openmesh-mr1750v2-sysupgrade.bin
+openmesh-mr1750v2 2019.1.3-1-beta 10db16d147f87ef19876dff146c3e2533ce8538b92682c21bcec06886acdae55 gluon-ffac-2019.1.3-1-beta-openmesh-mr1750v2-sysupgrade.bin
+openmesh-mr1750v2 2019.1.3-1-beta 2ce073f63fe5efd17ee7dea47d183b35f420c590f12180714ce427269c5297159ac505b75c5675e0d6bd6d65befad0e8a409307c1eb102caf3a6cd4b0475daa8 gluon-ffac-2019.1.3-1-beta-openmesh-mr1750v2-sysupgrade.bin
+openmesh-mr600 2019.1.3-1-beta eff721be5ee4b899a167657c18ae0016c0d0e8f2e28f6f1c159df96b975dc817 3992402 gluon-ffac-2019.1.3-1-beta-openmesh-mr600-sysupgrade.bin
+openmesh-mr600 2019.1.3-1-beta eff721be5ee4b899a167657c18ae0016c0d0e8f2e28f6f1c159df96b975dc817 gluon-ffac-2019.1.3-1-beta-openmesh-mr600-sysupgrade.bin
+openmesh-mr600 2019.1.3-1-beta b39a3c2293a89de9ea8d44acdd8da6b70b7a99990afdda1686ef95bae82b0419f2e06369ff1f7cb318f98cb7f7ec06d23a205906ec60d2ee72838dc3f63b20d7 gluon-ffac-2019.1.3-1-beta-openmesh-mr600-sysupgrade.bin
+openmesh-mr600v2 2019.1.3-1-beta eff721be5ee4b899a167657c18ae0016c0d0e8f2e28f6f1c159df96b975dc817 3992402 gluon-ffac-2019.1.3-1-beta-openmesh-mr600v2-sysupgrade.bin
+openmesh-mr600v2 2019.1.3-1-beta eff721be5ee4b899a167657c18ae0016c0d0e8f2e28f6f1c159df96b975dc817 gluon-ffac-2019.1.3-1-beta-openmesh-mr600v2-sysupgrade.bin
+openmesh-mr600v2 2019.1.3-1-beta b39a3c2293a89de9ea8d44acdd8da6b70b7a99990afdda1686ef95bae82b0419f2e06369ff1f7cb318f98cb7f7ec06d23a205906ec60d2ee72838dc3f63b20d7 gluon-ffac-2019.1.3-1-beta-openmesh-mr600v2-sysupgrade.bin
+openmesh-mr900 2019.1.3-1-beta 2d533e27cba8080544dc18564c922bcc881b178cede8939e26c21a5b4fb8ffba 3992402 gluon-ffac-2019.1.3-1-beta-openmesh-mr900-sysupgrade.bin
+openmesh-mr900 2019.1.3-1-beta 2d533e27cba8080544dc18564c922bcc881b178cede8939e26c21a5b4fb8ffba gluon-ffac-2019.1.3-1-beta-openmesh-mr900-sysupgrade.bin
+openmesh-mr900 2019.1.3-1-beta 26ae0f2279a1990f51192f6d40ff35698b87ae01257ae5a9990ebda83327376b96b179b871b5eaf2eeda84a60fc8cdd88c6d3a8c18a9d43c6d7037697d49e7f6 gluon-ffac-2019.1.3-1-beta-openmesh-mr900-sysupgrade.bin
+openmesh-mr900v2 2019.1.3-1-beta 2d533e27cba8080544dc18564c922bcc881b178cede8939e26c21a5b4fb8ffba 3992402 gluon-ffac-2019.1.3-1-beta-openmesh-mr900v2-sysupgrade.bin
+openmesh-mr900v2 2019.1.3-1-beta 2d533e27cba8080544dc18564c922bcc881b178cede8939e26c21a5b4fb8ffba gluon-ffac-2019.1.3-1-beta-openmesh-mr900v2-sysupgrade.bin
+openmesh-mr900v2 2019.1.3-1-beta 26ae0f2279a1990f51192f6d40ff35698b87ae01257ae5a9990ebda83327376b96b179b871b5eaf2eeda84a60fc8cdd88c6d3a8c18a9d43c6d7037697d49e7f6 gluon-ffac-2019.1.3-1-beta-openmesh-mr900v2-sysupgrade.bin
+openmesh-om2p 2019.1.3-1-beta b8a50c9427392845e1050c65de763ab9e698787c0ad4b9a4c304bd79aef75b07 3992403 gluon-ffac-2019.1.3-1-beta-openmesh-om2p-sysupgrade.bin
+openmesh-om2p 2019.1.3-1-beta b8a50c9427392845e1050c65de763ab9e698787c0ad4b9a4c304bd79aef75b07 gluon-ffac-2019.1.3-1-beta-openmesh-om2p-sysupgrade.bin
+openmesh-om2p 2019.1.3-1-beta 5e10dd1fcd126e5197aa5b77df3378d2f97e7b6253db9b5b17e0910da3ef74b636fb9270c5a907d2aaac25a9fe3f8507fd7b635ed7bc94f867aec610299aaab9 gluon-ffac-2019.1.3-1-beta-openmesh-om2p-sysupgrade.bin
+openmesh-om2pv2 2019.1.3-1-beta b8a50c9427392845e1050c65de763ab9e698787c0ad4b9a4c304bd79aef75b07 3992403 gluon-ffac-2019.1.3-1-beta-openmesh-om2pv2-sysupgrade.bin
+openmesh-om2pv2 2019.1.3-1-beta b8a50c9427392845e1050c65de763ab9e698787c0ad4b9a4c304bd79aef75b07 gluon-ffac-2019.1.3-1-beta-openmesh-om2pv2-sysupgrade.bin
+openmesh-om2pv2 2019.1.3-1-beta 5e10dd1fcd126e5197aa5b77df3378d2f97e7b6253db9b5b17e0910da3ef74b636fb9270c5a907d2aaac25a9fe3f8507fd7b635ed7bc94f867aec610299aaab9 gluon-ffac-2019.1.3-1-beta-openmesh-om2pv2-sysupgrade.bin
+openmesh-om2pv4 2019.1.3-1-beta b8a50c9427392845e1050c65de763ab9e698787c0ad4b9a4c304bd79aef75b07 3992403 gluon-ffac-2019.1.3-1-beta-openmesh-om2pv4-sysupgrade.bin
+openmesh-om2pv4 2019.1.3-1-beta b8a50c9427392845e1050c65de763ab9e698787c0ad4b9a4c304bd79aef75b07 gluon-ffac-2019.1.3-1-beta-openmesh-om2pv4-sysupgrade.bin
+openmesh-om2pv4 2019.1.3-1-beta 5e10dd1fcd126e5197aa5b77df3378d2f97e7b6253db9b5b17e0910da3ef74b636fb9270c5a907d2aaac25a9fe3f8507fd7b635ed7bc94f867aec610299aaab9 gluon-ffac-2019.1.3-1-beta-openmesh-om2pv4-sysupgrade.bin
+openmesh-om2p-hs 2019.1.3-1-beta b8a50c9427392845e1050c65de763ab9e698787c0ad4b9a4c304bd79aef75b07 3992403 gluon-ffac-2019.1.3-1-beta-openmesh-om2p-hs-sysupgrade.bin
+openmesh-om2p-hs 2019.1.3-1-beta b8a50c9427392845e1050c65de763ab9e698787c0ad4b9a4c304bd79aef75b07 gluon-ffac-2019.1.3-1-beta-openmesh-om2p-hs-sysupgrade.bin
+openmesh-om2p-hs 2019.1.3-1-beta 5e10dd1fcd126e5197aa5b77df3378d2f97e7b6253db9b5b17e0910da3ef74b636fb9270c5a907d2aaac25a9fe3f8507fd7b635ed7bc94f867aec610299aaab9 gluon-ffac-2019.1.3-1-beta-openmesh-om2p-hs-sysupgrade.bin
+openmesh-om2p-hsv2 2019.1.3-1-beta b8a50c9427392845e1050c65de763ab9e698787c0ad4b9a4c304bd79aef75b07 3992403 gluon-ffac-2019.1.3-1-beta-openmesh-om2p-hsv2-sysupgrade.bin
+openmesh-om2p-hsv2 2019.1.3-1-beta b8a50c9427392845e1050c65de763ab9e698787c0ad4b9a4c304bd79aef75b07 gluon-ffac-2019.1.3-1-beta-openmesh-om2p-hsv2-sysupgrade.bin
+openmesh-om2p-hsv2 2019.1.3-1-beta 5e10dd1fcd126e5197aa5b77df3378d2f97e7b6253db9b5b17e0910da3ef74b636fb9270c5a907d2aaac25a9fe3f8507fd7b635ed7bc94f867aec610299aaab9 gluon-ffac-2019.1.3-1-beta-openmesh-om2p-hsv2-sysupgrade.bin
+openmesh-om2p-hsv3 2019.1.3-1-beta b8a50c9427392845e1050c65de763ab9e698787c0ad4b9a4c304bd79aef75b07 3992403 gluon-ffac-2019.1.3-1-beta-openmesh-om2p-hsv3-sysupgrade.bin
+openmesh-om2p-hsv3 2019.1.3-1-beta b8a50c9427392845e1050c65de763ab9e698787c0ad4b9a4c304bd79aef75b07 gluon-ffac-2019.1.3-1-beta-openmesh-om2p-hsv3-sysupgrade.bin
+openmesh-om2p-hsv3 2019.1.3-1-beta 5e10dd1fcd126e5197aa5b77df3378d2f97e7b6253db9b5b17e0910da3ef74b636fb9270c5a907d2aaac25a9fe3f8507fd7b635ed7bc94f867aec610299aaab9 gluon-ffac-2019.1.3-1-beta-openmesh-om2p-hsv3-sysupgrade.bin
+openmesh-om2p-hsv4 2019.1.3-1-beta b8a50c9427392845e1050c65de763ab9e698787c0ad4b9a4c304bd79aef75b07 3992403 gluon-ffac-2019.1.3-1-beta-openmesh-om2p-hsv4-sysupgrade.bin
+openmesh-om2p-hsv4 2019.1.3-1-beta b8a50c9427392845e1050c65de763ab9e698787c0ad4b9a4c304bd79aef75b07 gluon-ffac-2019.1.3-1-beta-openmesh-om2p-hsv4-sysupgrade.bin
+openmesh-om2p-hsv4 2019.1.3-1-beta 5e10dd1fcd126e5197aa5b77df3378d2f97e7b6253db9b5b17e0910da3ef74b636fb9270c5a907d2aaac25a9fe3f8507fd7b635ed7bc94f867aec610299aaab9 gluon-ffac-2019.1.3-1-beta-openmesh-om2p-hsv4-sysupgrade.bin
+openmesh-om2p-lc 2019.1.3-1-beta b8a50c9427392845e1050c65de763ab9e698787c0ad4b9a4c304bd79aef75b07 3992403 gluon-ffac-2019.1.3-1-beta-openmesh-om2p-lc-sysupgrade.bin
+openmesh-om2p-lc 2019.1.3-1-beta b8a50c9427392845e1050c65de763ab9e698787c0ad4b9a4c304bd79aef75b07 gluon-ffac-2019.1.3-1-beta-openmesh-om2p-lc-sysupgrade.bin
+openmesh-om2p-lc 2019.1.3-1-beta 5e10dd1fcd126e5197aa5b77df3378d2f97e7b6253db9b5b17e0910da3ef74b636fb9270c5a907d2aaac25a9fe3f8507fd7b635ed7bc94f867aec610299aaab9 gluon-ffac-2019.1.3-1-beta-openmesh-om2p-lc-sysupgrade.bin
+openmesh-om5p 2019.1.3-1-beta 509f5f0eca8614bb6690a293a84544ea96ecab140611a5f124ea1e17242c8c3b 3992402 gluon-ffac-2019.1.3-1-beta-openmesh-om5p-sysupgrade.bin
+openmesh-om5p 2019.1.3-1-beta 509f5f0eca8614bb6690a293a84544ea96ecab140611a5f124ea1e17242c8c3b gluon-ffac-2019.1.3-1-beta-openmesh-om5p-sysupgrade.bin
+openmesh-om5p 2019.1.3-1-beta 499cc443bb770a61862242c94061e578f011417cd0a35a0b0109675c4688ec34c4d9b799c6565784dd1f77a5bd2554d1dec020fb08891544df2d981c1070340f gluon-ffac-2019.1.3-1-beta-openmesh-om5p-sysupgrade.bin
+openmesh-om5p-an 2019.1.3-1-beta 509f5f0eca8614bb6690a293a84544ea96ecab140611a5f124ea1e17242c8c3b 3992402 gluon-ffac-2019.1.3-1-beta-openmesh-om5p-an-sysupgrade.bin
+openmesh-om5p-an 2019.1.3-1-beta 509f5f0eca8614bb6690a293a84544ea96ecab140611a5f124ea1e17242c8c3b gluon-ffac-2019.1.3-1-beta-openmesh-om5p-an-sysupgrade.bin
+openmesh-om5p-an 2019.1.3-1-beta 499cc443bb770a61862242c94061e578f011417cd0a35a0b0109675c4688ec34c4d9b799c6565784dd1f77a5bd2554d1dec020fb08891544df2d981c1070340f gluon-ffac-2019.1.3-1-beta-openmesh-om5p-an-sysupgrade.bin
+openmesh-om5p-ac 2019.1.3-1-beta 9137886b440b84dc604ec990c8663cc6bdcd2d8cef4d28e5eaa2c3412e08bc72 4254546 gluon-ffac-2019.1.3-1-beta-openmesh-om5p-ac-sysupgrade.bin
+openmesh-om5p-ac 2019.1.3-1-beta 9137886b440b84dc604ec990c8663cc6bdcd2d8cef4d28e5eaa2c3412e08bc72 gluon-ffac-2019.1.3-1-beta-openmesh-om5p-ac-sysupgrade.bin
+openmesh-om5p-ac 2019.1.3-1-beta e1ec0e842ed0a2bb4217457e968c7afdf7164741f36a74f2ed8ea47463b1ed69bb173d9dc31cca947309a3a4564b90ba01414c2a97a81cd6274007a0fd3a8f4b gluon-ffac-2019.1.3-1-beta-openmesh-om5p-ac-sysupgrade.bin
+openmesh-om5p-acv2 2019.1.3-1-beta 9137886b440b84dc604ec990c8663cc6bdcd2d8cef4d28e5eaa2c3412e08bc72 4254546 gluon-ffac-2019.1.3-1-beta-openmesh-om5p-acv2-sysupgrade.bin
+openmesh-om5p-acv2 2019.1.3-1-beta 9137886b440b84dc604ec990c8663cc6bdcd2d8cef4d28e5eaa2c3412e08bc72 gluon-ffac-2019.1.3-1-beta-openmesh-om5p-acv2-sysupgrade.bin
+openmesh-om5p-acv2 2019.1.3-1-beta e1ec0e842ed0a2bb4217457e968c7afdf7164741f36a74f2ed8ea47463b1ed69bb173d9dc31cca947309a3a4564b90ba01414c2a97a81cd6274007a0fd3a8f4b gluon-ffac-2019.1.3-1-beta-openmesh-om5p-acv2-sysupgrade.bin
+tp-link-cpe210-v1.0 2019.1.3-1-beta 9a164701bb1cd8544e89400b3af8e05639fa646ead1c373fd39c94776e4eb464 7803120 gluon-ffac-2019.1.3-1-beta-tp-link-cpe210-v1.0-sysupgrade.bin
+tp-link-cpe210-v1.0 2019.1.3-1-beta 9a164701bb1cd8544e89400b3af8e05639fa646ead1c373fd39c94776e4eb464 gluon-ffac-2019.1.3-1-beta-tp-link-cpe210-v1.0-sysupgrade.bin
+tp-link-cpe210-v1.0 2019.1.3-1-beta 528c5c2f852ad6ab47c23ec6880446000d5013fed8cbe76ddfbb1f1c3bf471e79841d12af82530c07cdbd1e45553164b707f7c3b246b03492bfff0e932a91eb6 gluon-ffac-2019.1.3-1-beta-tp-link-cpe210-v1.0-sysupgrade.bin
+tp-link-cpe210-v1.1 2019.1.3-1-beta 9a164701bb1cd8544e89400b3af8e05639fa646ead1c373fd39c94776e4eb464 7803120 gluon-ffac-2019.1.3-1-beta-tp-link-cpe210-v1.1-sysupgrade.bin
+tp-link-cpe210-v1.1 2019.1.3-1-beta 9a164701bb1cd8544e89400b3af8e05639fa646ead1c373fd39c94776e4eb464 gluon-ffac-2019.1.3-1-beta-tp-link-cpe210-v1.1-sysupgrade.bin
+tp-link-cpe210-v1.1 2019.1.3-1-beta 528c5c2f852ad6ab47c23ec6880446000d5013fed8cbe76ddfbb1f1c3bf471e79841d12af82530c07cdbd1e45553164b707f7c3b246b03492bfff0e932a91eb6 gluon-ffac-2019.1.3-1-beta-tp-link-cpe210-v1.1-sysupgrade.bin
+tp-link-cpe220-v1.1 2019.1.3-1-beta 9a164701bb1cd8544e89400b3af8e05639fa646ead1c373fd39c94776e4eb464 7803120 gluon-ffac-2019.1.3-1-beta-tp-link-cpe220-v1.1-sysupgrade.bin
+tp-link-cpe220-v1.1 2019.1.3-1-beta 9a164701bb1cd8544e89400b3af8e05639fa646ead1c373fd39c94776e4eb464 gluon-ffac-2019.1.3-1-beta-tp-link-cpe220-v1.1-sysupgrade.bin
+tp-link-cpe220-v1.1 2019.1.3-1-beta 528c5c2f852ad6ab47c23ec6880446000d5013fed8cbe76ddfbb1f1c3bf471e79841d12af82530c07cdbd1e45553164b707f7c3b246b03492bfff0e932a91eb6 gluon-ffac-2019.1.3-1-beta-tp-link-cpe220-v1.1-sysupgrade.bin
+tp-link-cpe210-v2.0 2019.1.3-1-beta 7e31f4c94d81c650a8e359dc6b49b451cf33173c69ba1ed66fc936f7760fd066 7803276 gluon-ffac-2019.1.3-1-beta-tp-link-cpe210-v2.0-sysupgrade.bin
+tp-link-cpe210-v2.0 2019.1.3-1-beta 7e31f4c94d81c650a8e359dc6b49b451cf33173c69ba1ed66fc936f7760fd066 gluon-ffac-2019.1.3-1-beta-tp-link-cpe210-v2.0-sysupgrade.bin
+tp-link-cpe210-v2.0 2019.1.3-1-beta 3ae68607bbb0792d4b55b945623e22d736c0b8716cf2de80c0744acca88921aae1538aee76895771cb55b6c3da1480517eb0d5e2db0eae79919ef68678341816 gluon-ffac-2019.1.3-1-beta-tp-link-cpe210-v2.0-sysupgrade.bin
+tp-link-cpe210-v3.0 2019.1.3-1-beta 900061a65551a5aca09f0b9b8adc61731226bae0988953f44b58857824b118b7 7803045 gluon-ffac-2019.1.3-1-beta-tp-link-cpe210-v3.0-sysupgrade.bin
+tp-link-cpe210-v3.0 2019.1.3-1-beta 900061a65551a5aca09f0b9b8adc61731226bae0988953f44b58857824b118b7 gluon-ffac-2019.1.3-1-beta-tp-link-cpe210-v3.0-sysupgrade.bin
+tp-link-cpe210-v3.0 2019.1.3-1-beta 768499c27161b96fac0005061799d836cab51b697201c7200ccec75b2a25d2c259a124d34074b97099e1886a518f585654e32dc3c652480758fb970cf5167fb1 gluon-ffac-2019.1.3-1-beta-tp-link-cpe210-v3.0-sysupgrade.bin
+tp-link-cpe510-v1.0 2019.1.3-1-beta d78d369afb44dbd0db0e9cc1622a0fc74cb20fdbe46ffcb82bb8d3431b66f7a3 7803151 gluon-ffac-2019.1.3-1-beta-tp-link-cpe510-v1.0-sysupgrade.bin
+tp-link-cpe510-v1.0 2019.1.3-1-beta d78d369afb44dbd0db0e9cc1622a0fc74cb20fdbe46ffcb82bb8d3431b66f7a3 gluon-ffac-2019.1.3-1-beta-tp-link-cpe510-v1.0-sysupgrade.bin
+tp-link-cpe510-v1.0 2019.1.3-1-beta d8dc0366c2b027bd6bbb84fdb9a0fe05f470aac4a29c69a9c0a7a6ce4fb6110f886f87e5625b74112ea8247eaf22ef72e21a15dc5de226e090fe92e493274860 gluon-ffac-2019.1.3-1-beta-tp-link-cpe510-v1.0-sysupgrade.bin
+tp-link-cpe510-v1.1 2019.1.3-1-beta d78d369afb44dbd0db0e9cc1622a0fc74cb20fdbe46ffcb82bb8d3431b66f7a3 7803151 gluon-ffac-2019.1.3-1-beta-tp-link-cpe510-v1.1-sysupgrade.bin
+tp-link-cpe510-v1.1 2019.1.3-1-beta d78d369afb44dbd0db0e9cc1622a0fc74cb20fdbe46ffcb82bb8d3431b66f7a3 gluon-ffac-2019.1.3-1-beta-tp-link-cpe510-v1.1-sysupgrade.bin
+tp-link-cpe510-v1.1 2019.1.3-1-beta d8dc0366c2b027bd6bbb84fdb9a0fe05f470aac4a29c69a9c0a7a6ce4fb6110f886f87e5625b74112ea8247eaf22ef72e21a15dc5de226e090fe92e493274860 gluon-ffac-2019.1.3-1-beta-tp-link-cpe510-v1.1-sysupgrade.bin
+tp-link-cpe520-v1.1 2019.1.3-1-beta d78d369afb44dbd0db0e9cc1622a0fc74cb20fdbe46ffcb82bb8d3431b66f7a3 7803151 gluon-ffac-2019.1.3-1-beta-tp-link-cpe520-v1.1-sysupgrade.bin
+tp-link-cpe520-v1.1 2019.1.3-1-beta d78d369afb44dbd0db0e9cc1622a0fc74cb20fdbe46ffcb82bb8d3431b66f7a3 gluon-ffac-2019.1.3-1-beta-tp-link-cpe520-v1.1-sysupgrade.bin
+tp-link-cpe520-v1.1 2019.1.3-1-beta d8dc0366c2b027bd6bbb84fdb9a0fe05f470aac4a29c69a9c0a7a6ce4fb6110f886f87e5625b74112ea8247eaf22ef72e21a15dc5de226e090fe92e493274860 gluon-ffac-2019.1.3-1-beta-tp-link-cpe520-v1.1-sysupgrade.bin
+tp-link-wbs210-v1.20 2019.1.3-1-beta 4f2307031a44c954ce719ced2c97a78ee9f92a00994e89d75418a8de7ec3d3c9 7802999 gluon-ffac-2019.1.3-1-beta-tp-link-wbs210-v1.20-sysupgrade.bin
+tp-link-wbs210-v1.20 2019.1.3-1-beta 4f2307031a44c954ce719ced2c97a78ee9f92a00994e89d75418a8de7ec3d3c9 gluon-ffac-2019.1.3-1-beta-tp-link-wbs210-v1.20-sysupgrade.bin
+tp-link-wbs210-v1.20 2019.1.3-1-beta 3171e77009fef053584cd7e23e7840865e90b2b85a2af82902acd0563c2859c60c37da412378487fcbde3e8d459b3f502a01e844ed530444a2ae9b12a24d8efb gluon-ffac-2019.1.3-1-beta-tp-link-wbs210-v1.20-sysupgrade.bin
+tp-link-wbs510-v1.20 2019.1.3-1-beta e28725a261138a1b1a27c6e081ea0e50a57be8214b01f4b1177e9a216551e859 7802999 gluon-ffac-2019.1.3-1-beta-tp-link-wbs510-v1.20-sysupgrade.bin
+tp-link-wbs510-v1.20 2019.1.3-1-beta e28725a261138a1b1a27c6e081ea0e50a57be8214b01f4b1177e9a216551e859 gluon-ffac-2019.1.3-1-beta-tp-link-wbs510-v1.20-sysupgrade.bin
+tp-link-wbs510-v1.20 2019.1.3-1-beta ffe83a68bf3a61dbc94ecbe6fd16cbbd2d1d4e1e40a31132eaa8a52f28e7675bebcefec0490438f5c304b3d5c3074c859a9230e7c1c74fee7a973100dd2ab2be gluon-ffac-2019.1.3-1-beta-tp-link-wbs510-v1.20-sysupgrade.bin
+tp-link-tl-wr710n-v1 2019.1.3-1-beta 15f3f68998f87c4464e571841b59253517437ceeaf7e917dabb09a5e5c913eb8 3866628 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr710n-v1-sysupgrade.bin
+tp-link-tl-wr710n-v1 2019.1.3-1-beta 15f3f68998f87c4464e571841b59253517437ceeaf7e917dabb09a5e5c913eb8 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr710n-v1-sysupgrade.bin
+tp-link-tl-wr710n-v1 2019.1.3-1-beta ee575f8e4432dd8f8d17743b492d3de7b7976cd5e32154c2423cae3e5003985ed6864a3d4aab51a86a1ee1ec454806c510d672c4abb5a8fd2cf4bbdff17f2988 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr710n-v1-sysupgrade.bin
+tp-link-tl-wr710n-v2.1 2019.1.3-1-beta 9b6b5d4739ecbc9788a5b80ab1fc510014ecb4d5dc9029ece035b2df6b5e6e29 3866628 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr710n-v2.1-sysupgrade.bin
+tp-link-tl-wr710n-v2.1 2019.1.3-1-beta 9b6b5d4739ecbc9788a5b80ab1fc510014ecb4d5dc9029ece035b2df6b5e6e29 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr710n-v2.1-sysupgrade.bin
+tp-link-tl-wr710n-v2.1 2019.1.3-1-beta f3f3d7aa425e14b9b21e822a360a5907bb49370a5bd472c12e7f0a5bc0586820554e9f92832906d6ca8ade46a191862378b0cbb4d57b3c6672d2ca42f6347a77 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr710n-v2.1-sysupgrade.bin
+tp-link-tl-wr810n-v1 2019.1.3-1-beta 009d7bbac50fcf242144ffab790eaa8046375bc066997bcca4b6d6cea1c50ce4 3866628 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr810n-v1-sysupgrade.bin
+tp-link-tl-wr810n-v1 2019.1.3-1-beta 009d7bbac50fcf242144ffab790eaa8046375bc066997bcca4b6d6cea1c50ce4 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr810n-v1-sysupgrade.bin
+tp-link-tl-wr810n-v1 2019.1.3-1-beta 644902afc5611fb83b7661fb4c7998273979618fcc7aba82b62501f51b77756763dc15d67fd29ebe8839fc6cd3d8f91a81db2c8165afce7cf986a6d6a7b034e7 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr810n-v1-sysupgrade.bin
+tp-link-tl-wr842n-nd-v1 2019.1.3-1-beta b9dc38858d6f4c0621c9dd6b17cbd50041ad405f83393aa997a88c0e574e602e 3866628 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr842n-nd-v1-sysupgrade.bin
+tp-link-tl-wr842n-nd-v1 2019.1.3-1-beta b9dc38858d6f4c0621c9dd6b17cbd50041ad405f83393aa997a88c0e574e602e gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr842n-nd-v1-sysupgrade.bin
+tp-link-tl-wr842n-nd-v1 2019.1.3-1-beta 27edca5732e659dd91283a6777c41fca3e2ab9be8b7c5d3813cccdf29a1f0740d74f1c81835277222241d404f2040a6aa573763bc28df07c440b6feeb0663300 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr842n-nd-v1-sysupgrade.bin
+tp-link-tl-wr842n-nd-v2 2019.1.3-1-beta eedb01ab9a002e7459b95f7fe91ab3ac5f18513995d58ddec65746bebece7841 3866628 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr842n-nd-v2-sysupgrade.bin
+tp-link-tl-wr842n-nd-v2 2019.1.3-1-beta eedb01ab9a002e7459b95f7fe91ab3ac5f18513995d58ddec65746bebece7841 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr842n-nd-v2-sysupgrade.bin
+tp-link-tl-wr842n-nd-v2 2019.1.3-1-beta d1a7f2d03ee50a83a3295f2caa755c35a7c82904483552036e63674c3f345dca21eecbc613f9a5a7024558ddbdc171d58eb348388a4e45ba3f824deeb6f33d80 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr842n-nd-v2-sysupgrade.bin
+tp-link-tl-wr842n-nd-v3 2019.1.3-1-beta 1e4903928bc2940c953e7635c6b8bc373d977fd2e7db4f6c2e100f1e741d00a8 3866628 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr842n-nd-v3-sysupgrade.bin
+tp-link-tl-wr842n-nd-v3 2019.1.3-1-beta 1e4903928bc2940c953e7635c6b8bc373d977fd2e7db4f6c2e100f1e741d00a8 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr842n-nd-v3-sysupgrade.bin
+tp-link-tl-wr842n-nd-v3 2019.1.3-1-beta 2f95e0a504ae3a790dda5e46d840a67f0f591f50275fc7eb950b16ae822e87037fbca6261bccf8a71c16390c7532901f604b015962d4c262166d93bff53f579d gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr842n-nd-v3-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v1 2019.1.3-1-beta ec7c218bd4f8b94b5697007cef61b902d41a582aa31c94b529435cfb51c2379e 3866628 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr1043n-nd-v1-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v1 2019.1.3-1-beta ec7c218bd4f8b94b5697007cef61b902d41a582aa31c94b529435cfb51c2379e gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr1043n-nd-v1-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v1 2019.1.3-1-beta 4ca7b92da39bd38381ed0d55d23867ce09bee475be9304bc8685819fdb27f66020c56d044f42fc46ce0870b0dcc9ef5f8b761679448e040b3ca2dd172fab3f65 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr1043n-nd-v1-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v2 2019.1.3-1-beta 969fcf66ccc42afe2f1a6a1b99547b9da69eb69df4402b43f7d4e78415e83520 3866628 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr1043n-nd-v2-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v2 2019.1.3-1-beta 969fcf66ccc42afe2f1a6a1b99547b9da69eb69df4402b43f7d4e78415e83520 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr1043n-nd-v2-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v2 2019.1.3-1-beta d45c0eb068713dcb53b6e626cd9a350cc6ec1565564859e9bdcd87e6305968a0c21884aa8daa6499951d3aa8d25f1e31081c34c998baaf10816de92fe410a3ef gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr1043n-nd-v2-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v3 2019.1.3-1-beta 700aef376c3d64c5d7e610cf6b1376e37e0b2a951105f84e2bbe685926a4dc06 3866628 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr1043n-nd-v3-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v3 2019.1.3-1-beta 700aef376c3d64c5d7e610cf6b1376e37e0b2a951105f84e2bbe685926a4dc06 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr1043n-nd-v3-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v3 2019.1.3-1-beta b64525e910876960f8ff801132efddbf449386040d1b732ca43fecfb5aa22f1c4367bc2652e1290406ef112424e82664a4117b56dd99be882cba7bbda10b88b0 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr1043n-nd-v3-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v4 2019.1.3-1-beta 16ad0830ed99171d52081739173a0936c54a73747a6679d7a277b42a6587a950 3866628 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr1043n-nd-v4-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v4 2019.1.3-1-beta 16ad0830ed99171d52081739173a0936c54a73747a6679d7a277b42a6587a950 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr1043n-nd-v4-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v4 2019.1.3-1-beta b2ee1e4d90b775d70347593376266790a216a3063b1b94bde62555acb6b112403202ffc76f11fce4bd1b945e0c4ce7c0dfe95f95c6c39394f6ebc85f5dc8bf3a gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr1043n-nd-v4-sysupgrade.bin
+tp-link-tl-wr1043n-v5 2019.1.3-1-beta 86155d0cfc017aa4309b330c31ec2c4aa1a948eb8166cb54946ce68ae25be605 3801273 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr1043n-v5-sysupgrade.bin
+tp-link-tl-wr1043n-v5 2019.1.3-1-beta 86155d0cfc017aa4309b330c31ec2c4aa1a948eb8166cb54946ce68ae25be605 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr1043n-v5-sysupgrade.bin
+tp-link-tl-wr1043n-v5 2019.1.3-1-beta 9f4e32732d561312b1881eba9fe85604d9dc7b9fa01a1f38740d5b5f16d86e1abc4b2c3e43d8d1550a958c9ade6e2700620ea3b3ef24f8beb009ebaac36e6a18 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr1043n-v5-sysupgrade.bin
+tp-link-tl-wdr3500-v1 2019.1.3-1-beta d6e05dec975bf6134caaa1fc737bd1a0a465ce60cf11987983e69eb9450cc429 3866628 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wdr3500-v1-sysupgrade.bin
+tp-link-tl-wdr3500-v1 2019.1.3-1-beta d6e05dec975bf6134caaa1fc737bd1a0a465ce60cf11987983e69eb9450cc429 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wdr3500-v1-sysupgrade.bin
+tp-link-tl-wdr3500-v1 2019.1.3-1-beta 92d0582a5aa24315cf32d7699f35589351cd7743768f559f324881e5675f31d2816afd8fd3988d12a7dc0474f9563d67dab4d06560c9e421a4bfc3b5d60ff58f gluon-ffac-2019.1.3-1-beta-tp-link-tl-wdr3500-v1-sysupgrade.bin
+tp-link-tl-wdr3600-v1 2019.1.3-1-beta 46d577cb830da5b0b67a5b137f9981706e00f2914863fd34b31df1da9fea51b5 3866628 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wdr3600-v1-sysupgrade.bin
+tp-link-tl-wdr3600-v1 2019.1.3-1-beta 46d577cb830da5b0b67a5b137f9981706e00f2914863fd34b31df1da9fea51b5 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wdr3600-v1-sysupgrade.bin
+tp-link-tl-wdr3600-v1 2019.1.3-1-beta 22da7e0186a19386ad37749f00a67b19751f18cb1662e8a240310039cf669c1ff9b8a19e875b85ce98201e2a76603281978c7a48c5433d6ef771cb5a000e4713 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wdr3600-v1-sysupgrade.bin
+tp-link-tl-wdr4300-v1 2019.1.3-1-beta 3d81cb2fa308f570244d0958b4b951a729adba72aca25c12cab8cc4c19b82f86 3866628 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wdr4300-v1-sysupgrade.bin
+tp-link-tl-wdr4300-v1 2019.1.3-1-beta 3d81cb2fa308f570244d0958b4b951a729adba72aca25c12cab8cc4c19b82f86 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wdr4300-v1-sysupgrade.bin
+tp-link-tl-wdr4300-v1 2019.1.3-1-beta d8d804ec58b1e1770b374785c852427a0f849e5a37102441b97b14eb802b945d700ae5c0918ca98251b656897d5a53de4ef35582175ae94b5bba9a20a876db97 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wdr4300-v1-sysupgrade.bin
+tp-link-tl-wr2543n-nd-v1 2019.1.3-1-beta 5b9a5c688bc8e17806e22ac643102af64e1955b66cb358e17b6dbeb870a119ef 3866628 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr2543n-nd-v1-sysupgrade.bin
+tp-link-tl-wr2543n-nd-v1 2019.1.3-1-beta 5b9a5c688bc8e17806e22ac643102af64e1955b66cb358e17b6dbeb870a119ef gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr2543n-nd-v1-sysupgrade.bin
+tp-link-tl-wr2543n-nd-v1 2019.1.3-1-beta cbf3f3bc2f74cbcd090106e90074b0f294798a4d817d17e8304a46afbba3a072f6bc2c872abf82a762daa27e0dec0382449865b9be876b0bd9edcb03eb7eb22f gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr2543n-nd-v1-sysupgrade.bin
+tp-link-archer-c5-v1 2019.1.3-1-beta eaa1a50e70f77370ea46015148bd7ae71071827df43fb3a895d13dba2d4e14bd 4194308 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c5-v1-sysupgrade.bin
+tp-link-archer-c5-v1 2019.1.3-1-beta eaa1a50e70f77370ea46015148bd7ae71071827df43fb3a895d13dba2d4e14bd gluon-ffac-2019.1.3-1-beta-tp-link-archer-c5-v1-sysupgrade.bin
+tp-link-archer-c5-v1 2019.1.3-1-beta 84859234fd60ca50062360909afc3e071074cc7aafd828a50938af5b6005f58178e8c98ac786b2feb74a5732f3aeaab03461db7ee2d9a5f40ce1ecbad55ff9f7 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c5-v1-sysupgrade.bin
+tp-link-archer-c7-v2 2019.1.3-1-beta 69ddf94d8f5dc6a14a08ff15679d2d0cee633760c74094dbb0ef2857d95aceb2 4194308 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c7-v2-sysupgrade.bin
+tp-link-archer-c7-v2 2019.1.3-1-beta 69ddf94d8f5dc6a14a08ff15679d2d0cee633760c74094dbb0ef2857d95aceb2 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c7-v2-sysupgrade.bin
+tp-link-archer-c7-v2 2019.1.3-1-beta 53ff707b549cbe7e333036fc649727f64a34eb995a6bc5bdbd8385acf952287a0c1ae10c6cd31a4d0d5d821b23d69da4fd21c59fc83becd7f7c4e5e918efdfd1 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c7-v2-sysupgrade.bin
+tp-link-archer-c7-v4 2019.1.3-1-beta fce43d628491b55b353f41ba0b2cf7f1a8ada895df3b0d234d297388738d6720 4194488 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c7-v4-sysupgrade.bin
+tp-link-archer-c7-v4 2019.1.3-1-beta fce43d628491b55b353f41ba0b2cf7f1a8ada895df3b0d234d297388738d6720 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c7-v4-sysupgrade.bin
+tp-link-archer-c7-v4 2019.1.3-1-beta 3f6ab6f3ebca98801e1c8aa05149fd06ca588e60dd73536c4b39ff739539291e7a4b79305e16383c4f4337b4b04e59dcc35df8d0ace7116b7f71ba0a4627d481 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c7-v4-sysupgrade.bin
+tp-link-archer-c7-v5 2019.1.3-1-beta 295c6a7fede9c3889239bd73f908e0edcdbbe443dc5137c90fce47bb4bdce6be 4194488 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c7-v5-sysupgrade.bin
+tp-link-archer-c7-v5 2019.1.3-1-beta 295c6a7fede9c3889239bd73f908e0edcdbbe443dc5137c90fce47bb4bdce6be gluon-ffac-2019.1.3-1-beta-tp-link-archer-c7-v5-sysupgrade.bin
+tp-link-archer-c7-v5 2019.1.3-1-beta 3cb63d88a1a791c690a4229e8f9c3ca05a4a5e77b8bd9adab49ac9f627fb4c246b75ac0e5709d77cebbbb3243477db5ce106912a6880444ac827ec2539103c44 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c7-v5-sysupgrade.bin
+tp-link-archer-c25-v1 2019.1.3-1-beta a2657a97f1d5ffd420a148fcd5948f5e1bb8389861f7461705bcca42471732d5 4128953 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c25-v1-sysupgrade.bin
+tp-link-archer-c25-v1 2019.1.3-1-beta a2657a97f1d5ffd420a148fcd5948f5e1bb8389861f7461705bcca42471732d5 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c25-v1-sysupgrade.bin
+tp-link-archer-c25-v1 2019.1.3-1-beta c262f8570e5e0cd358545f753589c062f098fd9dc6e6713d295aaf43cde56cbd558450c402faef3680dfc19da66da06c1c4e10c0732383530c073139abca0f6d gluon-ffac-2019.1.3-1-beta-tp-link-archer-c25-v1-sysupgrade.bin
+tp-link-archer-c58-v1 2019.1.3-1-beta 96d0280b26a14ff92ad822037f2f0f70b667ab07476b219a0a9bb4aa55c416bf 4391097 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c58-v1-sysupgrade.bin
+tp-link-archer-c58-v1 2019.1.3-1-beta 96d0280b26a14ff92ad822037f2f0f70b667ab07476b219a0a9bb4aa55c416bf gluon-ffac-2019.1.3-1-beta-tp-link-archer-c58-v1-sysupgrade.bin
+tp-link-archer-c58-v1 2019.1.3-1-beta 373f7a122c92f76543ebff101206a4337eef58766bca86ab0e44f7915194147373e721e9dd47466d71d0c72fc5c1de4df92f8089878d73766361d05fc9bd5e00 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c58-v1-sysupgrade.bin
+tp-link-archer-c59-v1 2019.1.3-1-beta 40a0a913cbbea4c2156793f188bfe462953d15a54088a438552731d22ffdefa1 4522169 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c59-v1-sysupgrade.bin
+tp-link-archer-c59-v1 2019.1.3-1-beta 40a0a913cbbea4c2156793f188bfe462953d15a54088a438552731d22ffdefa1 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c59-v1-sysupgrade.bin
+tp-link-archer-c59-v1 2019.1.3-1-beta 549547895726db92ef962bf6911117dc551cd0b8d199dd6b82beb611783347c78c3f980f3e97e96cc640ae46171bfff27955e7ffbfec42c2a92959e3ecc9d9cc gluon-ffac-2019.1.3-1-beta-tp-link-archer-c59-v1-sysupgrade.bin
+tp-link-archer-c60-v1 2019.1.3-1-beta 9fe71429d5fe8aa94a9821a6ad20562963c6ae7c8b5dd5c49c5d7872e61e2d4f 4391097 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c60-v1-sysupgrade.bin
+tp-link-archer-c60-v1 2019.1.3-1-beta 9fe71429d5fe8aa94a9821a6ad20562963c6ae7c8b5dd5c49c5d7872e61e2d4f gluon-ffac-2019.1.3-1-beta-tp-link-archer-c60-v1-sysupgrade.bin
+tp-link-archer-c60-v1 2019.1.3-1-beta d533939ac23f2fd1e1b5b1c908f8b1a6be60d1b9426c90b40434de26f9b1ecc5facfb2998ed9550ca6cb683d3e866f9c7775e15354b7b6d37b2930a11ef0ef05 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c60-v1-sysupgrade.bin
+tp-link-re355 2019.1.3-1-beta 7337057db99ca17b0d452c5caa558666cf61d7d58adeb01a21fa13cc62c330dc 4128772 gluon-ffac-2019.1.3-1-beta-tp-link-re355-sysupgrade.bin
+tp-link-re355 2019.1.3-1-beta 7337057db99ca17b0d452c5caa558666cf61d7d58adeb01a21fa13cc62c330dc gluon-ffac-2019.1.3-1-beta-tp-link-re355-sysupgrade.bin
+tp-link-re355 2019.1.3-1-beta 3fe0120f85e331a2187a74a2f79b8c142b1adab87966f82bb2ebd0f8fd0f937df506fd38d50c42cb405475a50f16536720dd6b8789c94ea8590c8a4ed23b4ab8 gluon-ffac-2019.1.3-1-beta-tp-link-re355-sysupgrade.bin
+tp-link-tl-wr902ac-v1 2019.1.3-1-beta ecaf25b6052b1779ea564b0371bedb37ad626e8a77fa4e77844b40c391b78a4e 4194489 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr902ac-v1-sysupgrade.bin
+tp-link-tl-wr902ac-v1 2019.1.3-1-beta ecaf25b6052b1779ea564b0371bedb37ad626e8a77fa4e77844b40c391b78a4e gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr902ac-v1-sysupgrade.bin
+tp-link-tl-wr902ac-v1 2019.1.3-1-beta 4f43b7f4d7939c705c7ad5ab6701a2b90402f7ce503b39e7d1c52a279fb3144d12d70fcd595cfb837607bbea755b652e1f8740c29195e37d2d996764c99f45fa gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr902ac-v1-sysupgrade.bin
+tp-link-re450 2019.1.3-1-beta db45cab9e20b6e2877dd58e80f4f178d3deb0a611b8e6e900a1bc32e4a7e3a0f 4128772 gluon-ffac-2019.1.3-1-beta-tp-link-re450-sysupgrade.bin
+tp-link-re450 2019.1.3-1-beta db45cab9e20b6e2877dd58e80f4f178d3deb0a611b8e6e900a1bc32e4a7e3a0f gluon-ffac-2019.1.3-1-beta-tp-link-re450-sysupgrade.bin
+tp-link-re450 2019.1.3-1-beta cbcc2dcf4843a770f142bbeed7c369eef3020e99240459d5a714ada6081b7f3b1bb077e28f7d6d29affa8daa38ca639dc40e289035fa6d70af1f39215b2d5071 gluon-ffac-2019.1.3-1-beta-tp-link-re450-sysupgrade.bin
+ubiquiti-airgateway 2019.1.3-1-beta 9dd8f5e403864cb7d3857e408691506bdc41ec85e77141712bec8644229ed344 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-airgateway-sysupgrade.bin
+ubiquiti-airgateway 2019.1.3-1-beta 9dd8f5e403864cb7d3857e408691506bdc41ec85e77141712bec8644229ed344 gluon-ffac-2019.1.3-1-beta-ubiquiti-airgateway-sysupgrade.bin
+ubiquiti-airgateway 2019.1.3-1-beta 204fc01bf7e95fe1bfe8a133d7462ec54a7eca8f182463b277cac64536c1a2b980f3905d6abea0737ae451431b834c1dc441ddacd053647084ef131aa9294fac gluon-ffac-2019.1.3-1-beta-ubiquiti-airgateway-sysupgrade.bin
+ubiquiti-airgateway-lr 2019.1.3-1-beta 9dd8f5e403864cb7d3857e408691506bdc41ec85e77141712bec8644229ed344 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-airgateway-lr-sysupgrade.bin
+ubiquiti-airgateway-lr 2019.1.3-1-beta 9dd8f5e403864cb7d3857e408691506bdc41ec85e77141712bec8644229ed344 gluon-ffac-2019.1.3-1-beta-ubiquiti-airgateway-lr-sysupgrade.bin
+ubiquiti-airgateway-lr 2019.1.3-1-beta 204fc01bf7e95fe1bfe8a133d7462ec54a7eca8f182463b277cac64536c1a2b980f3905d6abea0737ae451431b834c1dc441ddacd053647084ef131aa9294fac gluon-ffac-2019.1.3-1-beta-ubiquiti-airgateway-lr-sysupgrade.bin
+ubiquiti-airgateway-pro 2019.1.3-1-beta 375d3543f6c6be547f4ed818c184b8f843dc0673d78a761232b31bff9c0633d5 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-airgateway-pro-sysupgrade.bin
+ubiquiti-airgateway-pro 2019.1.3-1-beta 375d3543f6c6be547f4ed818c184b8f843dc0673d78a761232b31bff9c0633d5 gluon-ffac-2019.1.3-1-beta-ubiquiti-airgateway-pro-sysupgrade.bin
+ubiquiti-airgateway-pro 2019.1.3-1-beta 6019e35c5aca4b3c8bf537e816e8ada8ec9dffb620a9a8b6911d3a24c3b26a1023a6d1e6469f1af4abae41867668e27144edfe5d6bb085ca7aacadd866b7a837 gluon-ffac-2019.1.3-1-beta-ubiquiti-airgateway-pro-sysupgrade.bin
+ubiquiti-airrouter 2019.1.3-1-beta 984ca15074ea5e5a1d31b6f70fbd33ba1de36e1af5cbbcf3777a19878b040a28 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-airrouter-sysupgrade.bin
+ubiquiti-airrouter 2019.1.3-1-beta 984ca15074ea5e5a1d31b6f70fbd33ba1de36e1af5cbbcf3777a19878b040a28 gluon-ffac-2019.1.3-1-beta-ubiquiti-airrouter-sysupgrade.bin
+ubiquiti-airrouter 2019.1.3-1-beta 5e29c68cd30ddc0cf23a95f8aa6d94b10124cdc8fa61f80f669482495da66cbcc73f6f91c3f9c9c22278177ebe174e785276f90ea6b69cbb9845dc657696bb11 gluon-ffac-2019.1.3-1-beta-ubiquiti-airrouter-sysupgrade.bin
+ubiquiti-bullet-m 2019.1.3-1-beta 72221b1ed7096042969567ab665005d6745c95b83d0625ff29339fc067594024 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-bullet-m-sysupgrade.bin
+ubiquiti-bullet-m 2019.1.3-1-beta 72221b1ed7096042969567ab665005d6745c95b83d0625ff29339fc067594024 gluon-ffac-2019.1.3-1-beta-ubiquiti-bullet-m-sysupgrade.bin
+ubiquiti-bullet-m 2019.1.3-1-beta ef685b4867284cb22a62bf2744b235b27acbe72266730affd39d64cd6e7c1723c2c7b585fc25f18bd9a0328548e98f85166f79501ebc29e031e77c4ef0be73aa gluon-ffac-2019.1.3-1-beta-ubiquiti-bullet-m-sysupgrade.bin
+ubiquiti-nanostation-loco-m2 2019.1.3-1-beta 72221b1ed7096042969567ab665005d6745c95b83d0625ff29339fc067594024 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-loco-m2-sysupgrade.bin
+ubiquiti-nanostation-loco-m2 2019.1.3-1-beta 72221b1ed7096042969567ab665005d6745c95b83d0625ff29339fc067594024 gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-loco-m2-sysupgrade.bin
+ubiquiti-nanostation-loco-m2 2019.1.3-1-beta ef685b4867284cb22a62bf2744b235b27acbe72266730affd39d64cd6e7c1723c2c7b585fc25f18bd9a0328548e98f85166f79501ebc29e031e77c4ef0be73aa gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-loco-m2-sysupgrade.bin
+ubiquiti-nanostation-loco-m5 2019.1.3-1-beta 72221b1ed7096042969567ab665005d6745c95b83d0625ff29339fc067594024 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-loco-m5-sysupgrade.bin
+ubiquiti-nanostation-loco-m5 2019.1.3-1-beta 72221b1ed7096042969567ab665005d6745c95b83d0625ff29339fc067594024 gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-loco-m5-sysupgrade.bin
+ubiquiti-nanostation-loco-m5 2019.1.3-1-beta ef685b4867284cb22a62bf2744b235b27acbe72266730affd39d64cd6e7c1723c2c7b585fc25f18bd9a0328548e98f85166f79501ebc29e031e77c4ef0be73aa gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-loco-m5-sysupgrade.bin
+ubiquiti-bullet-m2 2019.1.3-1-beta 72221b1ed7096042969567ab665005d6745c95b83d0625ff29339fc067594024 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-bullet-m2-sysupgrade.bin
+ubiquiti-bullet-m2 2019.1.3-1-beta 72221b1ed7096042969567ab665005d6745c95b83d0625ff29339fc067594024 gluon-ffac-2019.1.3-1-beta-ubiquiti-bullet-m2-sysupgrade.bin
+ubiquiti-bullet-m2 2019.1.3-1-beta ef685b4867284cb22a62bf2744b235b27acbe72266730affd39d64cd6e7c1723c2c7b585fc25f18bd9a0328548e98f85166f79501ebc29e031e77c4ef0be73aa gluon-ffac-2019.1.3-1-beta-ubiquiti-bullet-m2-sysupgrade.bin
+ubiquiti-bullet-m5 2019.1.3-1-beta 72221b1ed7096042969567ab665005d6745c95b83d0625ff29339fc067594024 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-bullet-m5-sysupgrade.bin
+ubiquiti-bullet-m5 2019.1.3-1-beta 72221b1ed7096042969567ab665005d6745c95b83d0625ff29339fc067594024 gluon-ffac-2019.1.3-1-beta-ubiquiti-bullet-m5-sysupgrade.bin
+ubiquiti-bullet-m5 2019.1.3-1-beta ef685b4867284cb22a62bf2744b235b27acbe72266730affd39d64cd6e7c1723c2c7b585fc25f18bd9a0328548e98f85166f79501ebc29e031e77c4ef0be73aa gluon-ffac-2019.1.3-1-beta-ubiquiti-bullet-m5-sysupgrade.bin
+ubiquiti-picostation-m2 2019.1.3-1-beta 72221b1ed7096042969567ab665005d6745c95b83d0625ff29339fc067594024 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-picostation-m2-sysupgrade.bin
+ubiquiti-picostation-m2 2019.1.3-1-beta 72221b1ed7096042969567ab665005d6745c95b83d0625ff29339fc067594024 gluon-ffac-2019.1.3-1-beta-ubiquiti-picostation-m2-sysupgrade.bin
+ubiquiti-picostation-m2 2019.1.3-1-beta ef685b4867284cb22a62bf2744b235b27acbe72266730affd39d64cd6e7c1723c2c7b585fc25f18bd9a0328548e98f85166f79501ebc29e031e77c4ef0be73aa gluon-ffac-2019.1.3-1-beta-ubiquiti-picostation-m2-sysupgrade.bin
+ubiquiti-rocket-m 2019.1.3-1-beta ebacbf88a433dfb1733677adc9880287f8b3e11ecadc312fe0ae48e78b2ffc9d 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m-sysupgrade.bin
+ubiquiti-rocket-m 2019.1.3-1-beta ebacbf88a433dfb1733677adc9880287f8b3e11ecadc312fe0ae48e78b2ffc9d gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m-sysupgrade.bin
+ubiquiti-rocket-m 2019.1.3-1-beta a15f6233683869ccec0f20aaeea405c13c8d607b9abc91b33049c5391c70b42f6b5306a9ea9e43fb69bd4bbef6fccc84ffd5334ceb7c31cfd040756ce7637706 gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m-sysupgrade.bin
+ubiquiti-rocket-m2 2019.1.3-1-beta ebacbf88a433dfb1733677adc9880287f8b3e11ecadc312fe0ae48e78b2ffc9d 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m2-sysupgrade.bin
+ubiquiti-rocket-m2 2019.1.3-1-beta ebacbf88a433dfb1733677adc9880287f8b3e11ecadc312fe0ae48e78b2ffc9d gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m2-sysupgrade.bin
+ubiquiti-rocket-m2 2019.1.3-1-beta a15f6233683869ccec0f20aaeea405c13c8d607b9abc91b33049c5391c70b42f6b5306a9ea9e43fb69bd4bbef6fccc84ffd5334ceb7c31cfd040756ce7637706 gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m2-sysupgrade.bin
+ubiquiti-rocket-m5 2019.1.3-1-beta ebacbf88a433dfb1733677adc9880287f8b3e11ecadc312fe0ae48e78b2ffc9d 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m5-sysupgrade.bin
+ubiquiti-rocket-m5 2019.1.3-1-beta ebacbf88a433dfb1733677adc9880287f8b3e11ecadc312fe0ae48e78b2ffc9d gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m5-sysupgrade.bin
+ubiquiti-rocket-m5 2019.1.3-1-beta a15f6233683869ccec0f20aaeea405c13c8d607b9abc91b33049c5391c70b42f6b5306a9ea9e43fb69bd4bbef6fccc84ffd5334ceb7c31cfd040756ce7637706 gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m5-sysupgrade.bin
+ubiquiti-nanostation-m 2019.1.3-1-beta 02835814a9883038cc90dd463802017f0807753f2d7a6e6ad9a38b8d3842a5b7 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-m-sysupgrade.bin
+ubiquiti-nanostation-m 2019.1.3-1-beta 02835814a9883038cc90dd463802017f0807753f2d7a6e6ad9a38b8d3842a5b7 gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-m-sysupgrade.bin
+ubiquiti-nanostation-m 2019.1.3-1-beta 64f635300ad31c62ca84a14b62d04ea25c525949db37ab8ec246bb0e872b364939dcea34650ce0d05ab8ff527955465e519c9bb96ad80a38cb5ef4a8a6facc72 gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-m-sysupgrade.bin
+ubiquiti-nanostation-m2 2019.1.3-1-beta 02835814a9883038cc90dd463802017f0807753f2d7a6e6ad9a38b8d3842a5b7 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-m2-sysupgrade.bin
+ubiquiti-nanostation-m2 2019.1.3-1-beta 02835814a9883038cc90dd463802017f0807753f2d7a6e6ad9a38b8d3842a5b7 gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-m2-sysupgrade.bin
+ubiquiti-nanostation-m2 2019.1.3-1-beta 64f635300ad31c62ca84a14b62d04ea25c525949db37ab8ec246bb0e872b364939dcea34650ce0d05ab8ff527955465e519c9bb96ad80a38cb5ef4a8a6facc72 gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-m2-sysupgrade.bin
+ubiquiti-nanostation-m5 2019.1.3-1-beta 02835814a9883038cc90dd463802017f0807753f2d7a6e6ad9a38b8d3842a5b7 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-m5-sysupgrade.bin
+ubiquiti-nanostation-m5 2019.1.3-1-beta 02835814a9883038cc90dd463802017f0807753f2d7a6e6ad9a38b8d3842a5b7 gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-m5-sysupgrade.bin
+ubiquiti-nanostation-m5 2019.1.3-1-beta 64f635300ad31c62ca84a14b62d04ea25c525949db37ab8ec246bb0e872b364939dcea34650ce0d05ab8ff527955465e519c9bb96ad80a38cb5ef4a8a6facc72 gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-m5-sysupgrade.bin
+ubiquiti-loco-m-xw 2019.1.3-1-beta 7b866ce813e9cb7a09bb36137fe7c83383ba188500c3a97c281b534f2c068f4d 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-loco-m-xw-sysupgrade.bin
+ubiquiti-loco-m-xw 2019.1.3-1-beta 7b866ce813e9cb7a09bb36137fe7c83383ba188500c3a97c281b534f2c068f4d gluon-ffac-2019.1.3-1-beta-ubiquiti-loco-m-xw-sysupgrade.bin
+ubiquiti-loco-m-xw 2019.1.3-1-beta 521ef8de532cc3dd428edd49ce853be0059ca3920c92e8ad5e6c3c30a084561e9e47e27af1988c9659a1c59149913732b4533e2ab294a93d32a0fdaa31e080a6 gluon-ffac-2019.1.3-1-beta-ubiquiti-loco-m-xw-sysupgrade.bin
+ubiquiti-nanostation-loco-m2-xw 2019.1.3-1-beta 7b866ce813e9cb7a09bb36137fe7c83383ba188500c3a97c281b534f2c068f4d 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-loco-m2-xw-sysupgrade.bin
+ubiquiti-nanostation-loco-m2-xw 2019.1.3-1-beta 7b866ce813e9cb7a09bb36137fe7c83383ba188500c3a97c281b534f2c068f4d gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-loco-m2-xw-sysupgrade.bin
+ubiquiti-nanostation-loco-m2-xw 2019.1.3-1-beta 521ef8de532cc3dd428edd49ce853be0059ca3920c92e8ad5e6c3c30a084561e9e47e27af1988c9659a1c59149913732b4533e2ab294a93d32a0fdaa31e080a6 gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-loco-m2-xw-sysupgrade.bin
+ubiquiti-nanostation-loco-m5-xw 2019.1.3-1-beta 7b866ce813e9cb7a09bb36137fe7c83383ba188500c3a97c281b534f2c068f4d 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-loco-m5-xw-sysupgrade.bin
+ubiquiti-nanostation-loco-m5-xw 2019.1.3-1-beta 7b866ce813e9cb7a09bb36137fe7c83383ba188500c3a97c281b534f2c068f4d gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-loco-m5-xw-sysupgrade.bin
+ubiquiti-nanostation-loco-m5-xw 2019.1.3-1-beta 521ef8de532cc3dd428edd49ce853be0059ca3920c92e8ad5e6c3c30a084561e9e47e27af1988c9659a1c59149913732b4533e2ab294a93d32a0fdaa31e080a6 gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-loco-m5-xw-sysupgrade.bin
+ubiquiti-nanostation-m-xw 2019.1.3-1-beta bf78a8ed8cd3d6a1b9db9f9265f8d2e05cbcda997a1a3c3a34f401b605abc02f 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-m-xw-sysupgrade.bin
+ubiquiti-nanostation-m-xw 2019.1.3-1-beta bf78a8ed8cd3d6a1b9db9f9265f8d2e05cbcda997a1a3c3a34f401b605abc02f gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-m-xw-sysupgrade.bin
+ubiquiti-nanostation-m-xw 2019.1.3-1-beta 8b1c61239826815df93969f14509a57f43b757ba1c177d224cffeb73fc6a22d73504470d147f5bfe15619e7875567fb5e27b529779aef67b414a21359c7f23f4 gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-m-xw-sysupgrade.bin
+ubiquiti-nanostation-m2-xw 2019.1.3-1-beta bf78a8ed8cd3d6a1b9db9f9265f8d2e05cbcda997a1a3c3a34f401b605abc02f 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-m2-xw-sysupgrade.bin
+ubiquiti-nanostation-m2-xw 2019.1.3-1-beta bf78a8ed8cd3d6a1b9db9f9265f8d2e05cbcda997a1a3c3a34f401b605abc02f gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-m2-xw-sysupgrade.bin
+ubiquiti-nanostation-m2-xw 2019.1.3-1-beta 8b1c61239826815df93969f14509a57f43b757ba1c177d224cffeb73fc6a22d73504470d147f5bfe15619e7875567fb5e27b529779aef67b414a21359c7f23f4 gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-m2-xw-sysupgrade.bin
+ubiquiti-nanostation-m5-xw 2019.1.3-1-beta bf78a8ed8cd3d6a1b9db9f9265f8d2e05cbcda997a1a3c3a34f401b605abc02f 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-m5-xw-sysupgrade.bin
+ubiquiti-nanostation-m5-xw 2019.1.3-1-beta bf78a8ed8cd3d6a1b9db9f9265f8d2e05cbcda997a1a3c3a34f401b605abc02f gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-m5-xw-sysupgrade.bin
+ubiquiti-nanostation-m5-xw 2019.1.3-1-beta 8b1c61239826815df93969f14509a57f43b757ba1c177d224cffeb73fc6a22d73504470d147f5bfe15619e7875567fb5e27b529779aef67b414a21359c7f23f4 gluon-ffac-2019.1.3-1-beta-ubiquiti-nanostation-m5-xw-sysupgrade.bin
+ubiquiti-rocket-m-xw 2019.1.3-1-beta 24fb79c10178a55d234077d33c1d97d399caa9a41d3a6e31041faca7dbc1dc11 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m-xw-sysupgrade.bin
+ubiquiti-rocket-m-xw 2019.1.3-1-beta 24fb79c10178a55d234077d33c1d97d399caa9a41d3a6e31041faca7dbc1dc11 gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m-xw-sysupgrade.bin
+ubiquiti-rocket-m-xw 2019.1.3-1-beta 0f5688fa0ba516f0dafacde783677caa2a8518ae448b499c4b9753f5ace0aac8b6a27f3d2433d09b49e4ace412df1da279e9cb1790a3e6431a66cb7a1a092b53 gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m-xw-sysupgrade.bin
+ubiquiti-rocket-m2-xw 2019.1.3-1-beta 24fb79c10178a55d234077d33c1d97d399caa9a41d3a6e31041faca7dbc1dc11 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m2-xw-sysupgrade.bin
+ubiquiti-rocket-m2-xw 2019.1.3-1-beta 24fb79c10178a55d234077d33c1d97d399caa9a41d3a6e31041faca7dbc1dc11 gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m2-xw-sysupgrade.bin
+ubiquiti-rocket-m2-xw 2019.1.3-1-beta 0f5688fa0ba516f0dafacde783677caa2a8518ae448b499c4b9753f5ace0aac8b6a27f3d2433d09b49e4ace412df1da279e9cb1790a3e6431a66cb7a1a092b53 gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m2-xw-sysupgrade.bin
+ubiquiti-rocket-m5-xw 2019.1.3-1-beta 24fb79c10178a55d234077d33c1d97d399caa9a41d3a6e31041faca7dbc1dc11 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m5-xw-sysupgrade.bin
+ubiquiti-rocket-m5-xw 2019.1.3-1-beta 24fb79c10178a55d234077d33c1d97d399caa9a41d3a6e31041faca7dbc1dc11 gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m5-xw-sysupgrade.bin
+ubiquiti-rocket-m5-xw 2019.1.3-1-beta 0f5688fa0ba516f0dafacde783677caa2a8518ae448b499c4b9753f5ace0aac8b6a27f3d2433d09b49e4ace412df1da279e9cb1790a3e6431a66cb7a1a092b53 gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m5-xw-sysupgrade.bin
+ubiquiti-rocket-m-ti 2019.1.3-1-beta 2130814fef65a834eedad7f089dbebde2f759e2bbe3e660e91281fc783f22aca 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m-ti-sysupgrade.bin
+ubiquiti-rocket-m-ti 2019.1.3-1-beta 2130814fef65a834eedad7f089dbebde2f759e2bbe3e660e91281fc783f22aca gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m-ti-sysupgrade.bin
+ubiquiti-rocket-m-ti 2019.1.3-1-beta 152e5c6a95e9d9f64edd716a0538818f7705b0e8d207c3677a332377dbb22dcfb290f175356154c013822b5310cdfaddeb1aac487adc4df70789094bad3faf25 gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m-ti-sysupgrade.bin
+ubiquiti-rocket-m2-ti 2019.1.3-1-beta 2130814fef65a834eedad7f089dbebde2f759e2bbe3e660e91281fc783f22aca 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m2-ti-sysupgrade.bin
+ubiquiti-rocket-m2-ti 2019.1.3-1-beta 2130814fef65a834eedad7f089dbebde2f759e2bbe3e660e91281fc783f22aca gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m2-ti-sysupgrade.bin
+ubiquiti-rocket-m2-ti 2019.1.3-1-beta 152e5c6a95e9d9f64edd716a0538818f7705b0e8d207c3677a332377dbb22dcfb290f175356154c013822b5310cdfaddeb1aac487adc4df70789094bad3faf25 gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m2-ti-sysupgrade.bin
+ubiquiti-rocket-m5-ti 2019.1.3-1-beta 2130814fef65a834eedad7f089dbebde2f759e2bbe3e660e91281fc783f22aca 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m5-ti-sysupgrade.bin
+ubiquiti-rocket-m5-ti 2019.1.3-1-beta 2130814fef65a834eedad7f089dbebde2f759e2bbe3e660e91281fc783f22aca gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m5-ti-sysupgrade.bin
+ubiquiti-rocket-m5-ti 2019.1.3-1-beta 152e5c6a95e9d9f64edd716a0538818f7705b0e8d207c3677a332377dbb22dcfb290f175356154c013822b5310cdfaddeb1aac487adc4df70789094bad3faf25 gluon-ffac-2019.1.3-1-beta-ubiquiti-rocket-m5-ti-sysupgrade.bin
+ubiquiti-unifi 2019.1.3-1-beta e5ffb5530fcb11bc94ef33a77a8ba025d4745e319a4cce47c1615d4b32e017ae 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-sysupgrade.bin
+ubiquiti-unifi 2019.1.3-1-beta e5ffb5530fcb11bc94ef33a77a8ba025d4745e319a4cce47c1615d4b32e017ae gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-sysupgrade.bin
+ubiquiti-unifi 2019.1.3-1-beta 3d2ca88ba259037ed032a1d358dc41ed26e4bd1e8c61946156691002cd05d0f94d1f91d7233164c7f4ce884152c8ada94f487ed4e132e64b777fa585b6a8c092 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-sysupgrade.bin
+ubiquiti-unifi-ap 2019.1.3-1-beta e5ffb5530fcb11bc94ef33a77a8ba025d4745e319a4cce47c1615d4b32e017ae 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ap-sysupgrade.bin
+ubiquiti-unifi-ap 2019.1.3-1-beta e5ffb5530fcb11bc94ef33a77a8ba025d4745e319a4cce47c1615d4b32e017ae gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ap-sysupgrade.bin
+ubiquiti-unifi-ap 2019.1.3-1-beta 3d2ca88ba259037ed032a1d358dc41ed26e4bd1e8c61946156691002cd05d0f94d1f91d7233164c7f4ce884152c8ada94f487ed4e132e64b777fa585b6a8c092 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ap-sysupgrade.bin
+ubiquiti-unifi-ap-lr 2019.1.3-1-beta e5ffb5530fcb11bc94ef33a77a8ba025d4745e319a4cce47c1615d4b32e017ae 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ap-lr-sysupgrade.bin
+ubiquiti-unifi-ap-lr 2019.1.3-1-beta e5ffb5530fcb11bc94ef33a77a8ba025d4745e319a4cce47c1615d4b32e017ae gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ap-lr-sysupgrade.bin
+ubiquiti-unifi-ap-lr 2019.1.3-1-beta 3d2ca88ba259037ed032a1d358dc41ed26e4bd1e8c61946156691002cd05d0f94d1f91d7233164c7f4ce884152c8ada94f487ed4e132e64b777fa585b6a8c092 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ap-lr-sysupgrade.bin
+ubiquiti-unifi-ap-pro 2019.1.3-1-beta 729f05fa12d3ab8ad475aeb76bf2c9686e58763564bc5bc19417e0b398603ef8 4063236 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ap-pro-sysupgrade.bin
+ubiquiti-unifi-ap-pro 2019.1.3-1-beta 729f05fa12d3ab8ad475aeb76bf2c9686e58763564bc5bc19417e0b398603ef8 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ap-pro-sysupgrade.bin
+ubiquiti-unifi-ap-pro 2019.1.3-1-beta cfa1b575794666c6a2c95932164c1a109023e58db078395908374b6e84fb17ebd343686f8a296b21a08255aec16fb332610b1f8da787a629cb7a7d6da5e2227d gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ap-pro-sysupgrade.bin
+ubiquiti-unifiap-outdoor 2019.1.3-1-beta 96228da81fd8cfdedeec0714571d600a0573045c4cc9e9d4f8bda2cb1c3c558c 3866628 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifiap-outdoor-sysupgrade.bin
+ubiquiti-unifiap-outdoor 2019.1.3-1-beta 96228da81fd8cfdedeec0714571d600a0573045c4cc9e9d4f8bda2cb1c3c558c gluon-ffac-2019.1.3-1-beta-ubiquiti-unifiap-outdoor-sysupgrade.bin
+ubiquiti-unifiap-outdoor 2019.1.3-1-beta 21298047267d946e5c54ab8cda8c0d7487bb1e353151c5405432656668bf9f308f8f9e34a91c94ae074aa47d61d5106e45d59471ebe659d716a4d3811dabd4bb gluon-ffac-2019.1.3-1-beta-ubiquiti-unifiap-outdoor-sysupgrade.bin
+ubiquiti-unifiap-outdoor+ 2019.1.3-1-beta 60c5c7d4620c807c82a5953f6361aa83505e6570f79be43f86c2b9afbbed5d84 4063236 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifiap-outdoor+-sysupgrade.bin
+ubiquiti-unifiap-outdoor+ 2019.1.3-1-beta 60c5c7d4620c807c82a5953f6361aa83505e6570f79be43f86c2b9afbbed5d84 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifiap-outdoor+-sysupgrade.bin
+ubiquiti-unifiap-outdoor+ 2019.1.3-1-beta 5c385fe25fa224442d0f80a35a2ebdf56c36c361ec766fe011ad925ab49767797627b5e6eb355a1275e95fc8632ad6fcf5731cee0d85bc8285a55f3a5ab53562 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifiap-outdoor+-sysupgrade.bin
+ubiquiti-ls-sr71 2019.1.3-1-beta 31300a6559de843ff499676057d0ca075802a05178fdac269d42d1591788f4f1 3997696 gluon-ffac-2019.1.3-1-beta-ubiquiti-ls-sr71-sysupgrade.bin
+ubiquiti-ls-sr71 2019.1.3-1-beta 31300a6559de843ff499676057d0ca075802a05178fdac269d42d1591788f4f1 gluon-ffac-2019.1.3-1-beta-ubiquiti-ls-sr71-sysupgrade.bin
+ubiquiti-ls-sr71 2019.1.3-1-beta cec1d6e96486f1305242c1e99249eb8389d1109a4a8813f8dcfc9553d4e6dc92340884c931824d87af4d5b9a920cdd459b674fce31fd09891cd6f5df07d2aef3 gluon-ffac-2019.1.3-1-beta-ubiquiti-ls-sr71-sysupgrade.bin
+ubiquiti-unifi-ac-lite 2019.1.3-1-beta f50cfc1fe876a9d69763e97be388f2f1daac1441c5eb0957f616fda45d0a42f8 4128772 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ac-lite-sysupgrade.bin
+ubiquiti-unifi-ac-lite 2019.1.3-1-beta f50cfc1fe876a9d69763e97be388f2f1daac1441c5eb0957f616fda45d0a42f8 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ac-lite-sysupgrade.bin
+ubiquiti-unifi-ac-lite 2019.1.3-1-beta 93529368b8261b5920a586c54e002aef32a3f8064640cb78fa8b3a9c8c151be1541733991656d1840c63601d125a3e32b51b08b974b0c0f4a61f4bb1fcc15860 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ac-lite-sysupgrade.bin
+ubiquiti-unifi-ac-lite-mesh 2019.1.3-1-beta f50cfc1fe876a9d69763e97be388f2f1daac1441c5eb0957f616fda45d0a42f8 4128772 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ac-lite-mesh-sysupgrade.bin
+ubiquiti-unifi-ac-lite-mesh 2019.1.3-1-beta f50cfc1fe876a9d69763e97be388f2f1daac1441c5eb0957f616fda45d0a42f8 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ac-lite-mesh-sysupgrade.bin
+ubiquiti-unifi-ac-lite-mesh 2019.1.3-1-beta 93529368b8261b5920a586c54e002aef32a3f8064640cb78fa8b3a9c8c151be1541733991656d1840c63601d125a3e32b51b08b974b0c0f4a61f4bb1fcc15860 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ac-lite-mesh-sysupgrade.bin
+ubiquiti-unifi-ac-pro 2019.1.3-1-beta dab0e6f5c725d2c40c505ae845a0a738918532de52cb856f99c8e1103a19b0dd 4194308 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ac-pro-sysupgrade.bin
+ubiquiti-unifi-ac-pro 2019.1.3-1-beta dab0e6f5c725d2c40c505ae845a0a738918532de52cb856f99c8e1103a19b0dd gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ac-pro-sysupgrade.bin
+ubiquiti-unifi-ac-pro 2019.1.3-1-beta 57a682654c09fe915ae80dfbde6d237e5cfe94029293dce97560af22655026994f5854bd6850eac410bc11fe4e9012513f0c459d5d5bfbb15000b28ad64ed080 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ac-pro-sysupgrade.bin
+ubiquiti-unifi-ac-mesh 2019.1.3-1-beta f50cfc1fe876a9d69763e97be388f2f1daac1441c5eb0957f616fda45d0a42f8 4128772 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ac-mesh-sysupgrade.bin
+ubiquiti-unifi-ac-mesh 2019.1.3-1-beta f50cfc1fe876a9d69763e97be388f2f1daac1441c5eb0957f616fda45d0a42f8 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ac-mesh-sysupgrade.bin
+ubiquiti-unifi-ac-mesh 2019.1.3-1-beta 93529368b8261b5920a586c54e002aef32a3f8064640cb78fa8b3a9c8c151be1541733991656d1840c63601d125a3e32b51b08b974b0c0f4a61f4bb1fcc15860 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ac-mesh-sysupgrade.bin
+ubiquiti-unifi-ac-mesh-pro 2019.1.3-1-beta dab0e6f5c725d2c40c505ae845a0a738918532de52cb856f99c8e1103a19b0dd 4194308 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ac-mesh-pro-sysupgrade.bin
+ubiquiti-unifi-ac-mesh-pro 2019.1.3-1-beta dab0e6f5c725d2c40c505ae845a0a738918532de52cb856f99c8e1103a19b0dd gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ac-mesh-pro-sysupgrade.bin
+ubiquiti-unifi-ac-mesh-pro 2019.1.3-1-beta 57a682654c09fe915ae80dfbde6d237e5cfe94029293dce97560af22655026994f5854bd6850eac410bc11fe4e9012513f0c459d5d5bfbb15000b28ad64ed080 gluon-ffac-2019.1.3-1-beta-ubiquiti-unifi-ac-mesh-pro-sysupgrade.bin
+wd-my-net-n600 2019.1.3-1-beta 99af37e977fe8019898f943d886646010be3c406b9764e02d388cbacb5ec6d8c 3866628 gluon-ffac-2019.1.3-1-beta-wd-my-net-n600-sysupgrade.bin
+wd-my-net-n600 2019.1.3-1-beta 99af37e977fe8019898f943d886646010be3c406b9764e02d388cbacb5ec6d8c gluon-ffac-2019.1.3-1-beta-wd-my-net-n600-sysupgrade.bin
+wd-my-net-n600 2019.1.3-1-beta 5352b13070a4c8faf20bfc20346f385bc7ce926e917942b6c4e17a7e2ffc873540dcdcc5733d518b568351c5b370c36dba71a283627402c65b609a952038d8df gluon-ffac-2019.1.3-1-beta-wd-my-net-n600-sysupgrade.bin
+wd-my-net-n750 2019.1.3-1-beta 1ee8f0f4eb50bb584a5d5f7c700a920e1bde5149fdb0e5bcbfdd646b2ca15859 3866628 gluon-ffac-2019.1.3-1-beta-wd-my-net-n750-sysupgrade.bin
+wd-my-net-n750 2019.1.3-1-beta 1ee8f0f4eb50bb584a5d5f7c700a920e1bde5149fdb0e5bcbfdd646b2ca15859 gluon-ffac-2019.1.3-1-beta-wd-my-net-n750-sysupgrade.bin
+wd-my-net-n750 2019.1.3-1-beta 20896b9b11f8aee3514e7cedb75af30b1ce7932b17a18d209d81434eb3a7cad66b5d908d2580f3d95fca4dba3e90dd7aa2720adb2ed1693ef1a286318b5964d4 gluon-ffac-2019.1.3-1-beta-wd-my-net-n750-sysupgrade.bin
+zyxel-nbg6616 2019.1.3-1-beta 90cbc2bd1edbc220cbc232edd5d4fb9dfd2ecc7f3479c492c4c699d848e63600 4849668 gluon-ffac-2019.1.3-1-beta-zyxel-nbg6616-sysupgrade.bin
+zyxel-nbg6616 2019.1.3-1-beta 90cbc2bd1edbc220cbc232edd5d4fb9dfd2ecc7f3479c492c4c699d848e63600 gluon-ffac-2019.1.3-1-beta-zyxel-nbg6616-sysupgrade.bin
+zyxel-nbg6616 2019.1.3-1-beta 988252044c80afbe4d55f4c4ac020d10bd3c853b445cab7fd3b5d73d136e43bb2512a2155ed815920daafa11e91b965a4e809d70c7f2b1e803807e654eaf6b6f gluon-ffac-2019.1.3-1-beta-zyxel-nbg6616-sysupgrade.bin
+d-link-dir-615-rev-c1 2019.1.3-1-beta c6fd0ee846e2679c2b8d2da39676c3f47ace4fecf663bf47f628c3b6f517c4a5 3473412 gluon-ffac-2019.1.3-1-beta-d-link-dir-615-rev-c1-sysupgrade.bin
+d-link-dir-615-rev-c1 2019.1.3-1-beta c6fd0ee846e2679c2b8d2da39676c3f47ace4fecf663bf47f628c3b6f517c4a5 gluon-ffac-2019.1.3-1-beta-d-link-dir-615-rev-c1-sysupgrade.bin
+d-link-dir-615-rev-c1 2019.1.3-1-beta f8362d540c2261b093f714a58c20fc7d6f98407841894a45a13d26aeba9d36b6b7e8e7e85352f8f66102fe9644ae47a441a426e88e08324fe9f93b4d12a2f610 gluon-ffac-2019.1.3-1-beta-d-link-dir-615-rev-c1-sysupgrade.bin
+tp-link-tl-wa701n-nd-v1 2019.1.3-1-beta 1d36ce567114b771c07241edeb9c8a074ca4199515d2c08c5701364d075277fe 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa701n-nd-v1-sysupgrade.bin
+tp-link-tl-wa701n-nd-v1 2019.1.3-1-beta 1d36ce567114b771c07241edeb9c8a074ca4199515d2c08c5701364d075277fe gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa701n-nd-v1-sysupgrade.bin
+tp-link-tl-wa701n-nd-v1 2019.1.3-1-beta 7bdc5bc88d9891ee0c60af94c8a6f5850795f5f793e484736390c1181fea3a82ccb3ea80e378dca588b1f0ffbb910ae871995b7b7fac461f26b1b9237974886c gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa701n-nd-v1-sysupgrade.bin
+tp-link-tl-wa701n-nd-v2 2019.1.3-1-beta c142445cc56f303b93c30906a17be17f492dd13b78d6898737cd7aa16e8ceaef 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa701n-nd-v2-sysupgrade.bin
+tp-link-tl-wa701n-nd-v2 2019.1.3-1-beta c142445cc56f303b93c30906a17be17f492dd13b78d6898737cd7aa16e8ceaef gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa701n-nd-v2-sysupgrade.bin
+tp-link-tl-wa701n-nd-v2 2019.1.3-1-beta 2a03951c41bcb234ed50d097d59f5a3ce525afa05d143a24d446b89d3663959a0e776ff95b0712ec9b835c3be793f23b5c156ae10018c40523aeabb4664e1376 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa701n-nd-v2-sysupgrade.bin
+tp-link-tl-wa7210n-v2 2019.1.3-1-beta 329e0a0907d37eb28b6978979e88d75fa2eecf50982ede00520d1918a847686a 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa7210n-v2-sysupgrade.bin
+tp-link-tl-wa7210n-v2 2019.1.3-1-beta 329e0a0907d37eb28b6978979e88d75fa2eecf50982ede00520d1918a847686a gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa7210n-v2-sysupgrade.bin
+tp-link-tl-wa7210n-v2 2019.1.3-1-beta 789ecd444c67684238f16c6cbaf68a569cbe6cfa77a379a07df3f50cfe9b2466014c3dc00008c0f48d259fdefc50129b1d7082a12df06e06644a4d638a05624c gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa7210n-v2-sysupgrade.bin
+tp-link-tl-wa7510n-v1 2019.1.3-1-beta 0ec6036d0fcba46211ca17a9e2b45c165d9e5c21685be40805835501c40d3966 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa7510n-v1-sysupgrade.bin
+tp-link-tl-wa7510n-v1 2019.1.3-1-beta 0ec6036d0fcba46211ca17a9e2b45c165d9e5c21685be40805835501c40d3966 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa7510n-v1-sysupgrade.bin
+tp-link-tl-wa7510n-v1 2019.1.3-1-beta 299b3330641a6ef253d07b7408cb31adbdbc8f6534522e128492246adb5ca6d2463ba9ac935313a5883e2a220bb3475d6ab891f8969731db16d4820838ae5f61 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa7510n-v1-sysupgrade.bin
+tp-link-tl-wr703n-v1 2019.1.3-1-beta 3bd52ec6564079524260d1a6c0ea754cbc33fed203d230082f8d21095f398e2d 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr703n-v1-sysupgrade.bin
+tp-link-tl-wr703n-v1 2019.1.3-1-beta 3bd52ec6564079524260d1a6c0ea754cbc33fed203d230082f8d21095f398e2d gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr703n-v1-sysupgrade.bin
+tp-link-tl-wr703n-v1 2019.1.3-1-beta 3713241241f3265231b8439055bccf6c4b2739cc49f3eed86f54a0327440ce3113c566fcf731273f1cca097dfc52d0eeb050b8a0ae3a0bceb6eb227c40532c01 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr703n-v1-sysupgrade.bin
+tp-link-tl-wr710n-v2 2019.1.3-1-beta fecfa38ce700786e4c67a6fa0f17a0fc9d7d7a2f2728f6cfc9227c6fdeeaed89 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr710n-v2-sysupgrade.bin
+tp-link-tl-wr710n-v2 2019.1.3-1-beta fecfa38ce700786e4c67a6fa0f17a0fc9d7d7a2f2728f6cfc9227c6fdeeaed89 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr710n-v2-sysupgrade.bin
+tp-link-tl-wr710n-v2 2019.1.3-1-beta abef62767a417190e8723c50bbcdfcbb6c8342335d44dc8dbdd70c6d970d334a34f63009759d892afbd6ff59549d41dfc2308f4a839641d6e2181c4bd3d9efdb gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr710n-v2-sysupgrade.bin
+tp-link-tl-wr740n-nd-v1 2019.1.3-1-beta 6978ffc014be27ba2fc4f9a3f670a0eca2aa32722d3e05614bfb6f3fb826707b 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr740n-nd-v1-sysupgrade.bin
+tp-link-tl-wr740n-nd-v1 2019.1.3-1-beta 6978ffc014be27ba2fc4f9a3f670a0eca2aa32722d3e05614bfb6f3fb826707b gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr740n-nd-v1-sysupgrade.bin
+tp-link-tl-wr740n-nd-v1 2019.1.3-1-beta 358c79dcee719312672279487ef3dfd58cf5472a7c754211b24f47941a41f9dcc7d65dbfd0df7bbc3da469d32a416e3f1874ea49102ce1d3352cfbf49ecbd74b gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr740n-nd-v1-sysupgrade.bin
+tp-link-tl-wr740n-nd-v3 2019.1.3-1-beta 6ae1f755d7c0f5c7dc33e019b71ec1bb65d421b1e064ea75deb3409c52fe38b6 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr740n-nd-v3-sysupgrade.bin
+tp-link-tl-wr740n-nd-v3 2019.1.3-1-beta 6ae1f755d7c0f5c7dc33e019b71ec1bb65d421b1e064ea75deb3409c52fe38b6 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr740n-nd-v3-sysupgrade.bin
+tp-link-tl-wr740n-nd-v3 2019.1.3-1-beta 27d6f4ba32c6443a869218f01c48359a5229210440938be3dc60575fa9654dd751a5a2519dfe2169e4d5fa157042396dda31062153b895eee19f514e572c8ddc gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr740n-nd-v3-sysupgrade.bin
+tp-link-tl-wr740n-nd-v4 2019.1.3-1-beta 47bd8e7e89ef725fb5b026e81ba1a332691694180a1999abf066f26f8085db33 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr740n-nd-v4-sysupgrade.bin
+tp-link-tl-wr740n-nd-v4 2019.1.3-1-beta 47bd8e7e89ef725fb5b026e81ba1a332691694180a1999abf066f26f8085db33 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr740n-nd-v4-sysupgrade.bin
+tp-link-tl-wr740n-nd-v4 2019.1.3-1-beta b4b7e2e747db4275cce981d34b6040c706ff03674451031d31083aaa6acf3f5c2b6cf87554548fc154309be3b5d683cbfc5a7e19c5dfc4fe9ee994f3a1269472 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr740n-nd-v4-sysupgrade.bin
+tp-link-tl-wr740n-nd-v5 2019.1.3-1-beta f8f544506d0262749981720357db8bd3d9b3a8a07d633c217683d75265803568 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr740n-nd-v5-sysupgrade.bin
+tp-link-tl-wr740n-nd-v5 2019.1.3-1-beta f8f544506d0262749981720357db8bd3d9b3a8a07d633c217683d75265803568 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr740n-nd-v5-sysupgrade.bin
+tp-link-tl-wr740n-nd-v5 2019.1.3-1-beta 6adfbe7547a9a37789217a8f80f9ee61f1ef7f5f0d72cc9d5f3e3ab7f9dbc87d28279f8c548cc5404c1d9a1ba9b4f2cebc4df3518cac2dd308206c8895f8ca88 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr740n-nd-v5-sysupgrade.bin
+tp-link-tl-wr741n-nd-v1 2019.1.3-1-beta 739e5c06320528cafc85c560977296af35167464f07d0ca63c1a271d21269a28 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr741n-nd-v1-sysupgrade.bin
+tp-link-tl-wr741n-nd-v1 2019.1.3-1-beta 739e5c06320528cafc85c560977296af35167464f07d0ca63c1a271d21269a28 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr741n-nd-v1-sysupgrade.bin
+tp-link-tl-wr741n-nd-v1 2019.1.3-1-beta d909fba9e5dcc8116a140e19b9e963cdf71e94f7b4a31978f53a47b39e3606943365cdc51170be0f310e0c964edeac7979cd169b1db79a6f19d4971f22937697 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr741n-nd-v1-sysupgrade.bin
+tp-link-tl-wr741n-nd-v2 2019.1.3-1-beta 739e5c06320528cafc85c560977296af35167464f07d0ca63c1a271d21269a28 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr741n-nd-v2-sysupgrade.bin
+tp-link-tl-wr741n-nd-v2 2019.1.3-1-beta 739e5c06320528cafc85c560977296af35167464f07d0ca63c1a271d21269a28 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr741n-nd-v2-sysupgrade.bin
+tp-link-tl-wr741n-nd-v2 2019.1.3-1-beta d909fba9e5dcc8116a140e19b9e963cdf71e94f7b4a31978f53a47b39e3606943365cdc51170be0f310e0c964edeac7979cd169b1db79a6f19d4971f22937697 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr741n-nd-v2-sysupgrade.bin
+tp-link-tl-wr741n-nd-v4 2019.1.3-1-beta 7747d23a3b70eef0f721c39651910f8ba269d40ee889a898d9ac78d5b920a71c 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr741n-nd-v4-sysupgrade.bin
+tp-link-tl-wr741n-nd-v4 2019.1.3-1-beta 7747d23a3b70eef0f721c39651910f8ba269d40ee889a898d9ac78d5b920a71c gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr741n-nd-v4-sysupgrade.bin
+tp-link-tl-wr741n-nd-v4 2019.1.3-1-beta d27a30aeec6024f38c14a59b6bb62f7b8be854a3021f310d47a86de03c6f442961aa869042b2482bd26c277f3d757ad665cad91e0f5d31e3feba59476001f829 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr741n-nd-v4-sysupgrade.bin
+tp-link-tl-wr741n-nd-v5 2019.1.3-1-beta f8f544506d0262749981720357db8bd3d9b3a8a07d633c217683d75265803568 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr741n-nd-v5-sysupgrade.bin
+tp-link-tl-wr741n-nd-v5 2019.1.3-1-beta f8f544506d0262749981720357db8bd3d9b3a8a07d633c217683d75265803568 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr741n-nd-v5-sysupgrade.bin
+tp-link-tl-wr741n-nd-v5 2019.1.3-1-beta 6adfbe7547a9a37789217a8f80f9ee61f1ef7f5f0d72cc9d5f3e3ab7f9dbc87d28279f8c548cc5404c1d9a1ba9b4f2cebc4df3518cac2dd308206c8895f8ca88 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr741n-nd-v5-sysupgrade.bin
+tp-link-tl-wr743n-nd-v1 2019.1.3-1-beta b992094eee342cc3b42d8fd775b837bd04dd85b8aa42bfdeb1037ef832557bec 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr743n-nd-v1-sysupgrade.bin
+tp-link-tl-wr743n-nd-v1 2019.1.3-1-beta b992094eee342cc3b42d8fd775b837bd04dd85b8aa42bfdeb1037ef832557bec gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr743n-nd-v1-sysupgrade.bin
+tp-link-tl-wr743n-nd-v1 2019.1.3-1-beta 47e9ecebe53555646c90575a540c0a95de7dd46ceed0cd99064539bcff9c5428cd4d480f46ca30fa566e5c039bc04468fd8f49bdfbdc65c6a8ec3cd72f11e0b1 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr743n-nd-v1-sysupgrade.bin
+tp-link-tl-wr743n-nd-v2 2019.1.3-1-beta 109516099de40eb68989546230484c723ef3647af66f49ab37304f6d22f05624 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr743n-nd-v2-sysupgrade.bin
+tp-link-tl-wr743n-nd-v2 2019.1.3-1-beta 109516099de40eb68989546230484c723ef3647af66f49ab37304f6d22f05624 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr743n-nd-v2-sysupgrade.bin
+tp-link-tl-wr743n-nd-v2 2019.1.3-1-beta 145b2df8dea96368465293a7dbe646aed406c27e55eb3c3568b67692859f12acd234f10cbaa8ed2d631ffa04880d792eed9374ae83d8991e4c1cee4f7188ec2d gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr743n-nd-v2-sysupgrade.bin
+tp-link-tl-wa801n-nd-v1 2019.1.3-1-beta d1b7d896d100056954ebf84d416eb89b925012e88bff8c2a6f95017ba5a74bfc 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa801n-nd-v1-sysupgrade.bin
+tp-link-tl-wa801n-nd-v1 2019.1.3-1-beta d1b7d896d100056954ebf84d416eb89b925012e88bff8c2a6f95017ba5a74bfc gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa801n-nd-v1-sysupgrade.bin
+tp-link-tl-wa801n-nd-v1 2019.1.3-1-beta 98a525bc11df6d232ac8205d55cc0daa60f23395c0cfd3052428b883dd01b35efaa28dbe151e3e10a2fba9f71bb06b599e1f29cec700c756c043c6a956a682eb gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa801n-nd-v1-sysupgrade.bin
+tp-link-tl-wa801n-nd-v2 2019.1.3-1-beta 3c7d4b5292d3e2f20bc7e58b098b791d9c9bbf6615f423c3a6c6157a3873bd90 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa801n-nd-v2-sysupgrade.bin
+tp-link-tl-wa801n-nd-v2 2019.1.3-1-beta 3c7d4b5292d3e2f20bc7e58b098b791d9c9bbf6615f423c3a6c6157a3873bd90 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa801n-nd-v2-sysupgrade.bin
+tp-link-tl-wa801n-nd-v2 2019.1.3-1-beta 8da4b5f3041191662c3bc366dc3f3a14e59e7a994fea31549f273d010ecc0e0766c881937ed9b631f71dff2642a7014babbe3fc832a70267c862c89ea2a133c4 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa801n-nd-v2-sysupgrade.bin
+tp-link-tl-wa801n-nd-v3 2019.1.3-1-beta 12ee3b7335d09564c4632942e206125c6e02ecfbedfdebecf2d63df5ad02f909 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa801n-nd-v3-sysupgrade.bin
+tp-link-tl-wa801n-nd-v3 2019.1.3-1-beta 12ee3b7335d09564c4632942e206125c6e02ecfbedfdebecf2d63df5ad02f909 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa801n-nd-v3-sysupgrade.bin
+tp-link-tl-wa801n-nd-v3 2019.1.3-1-beta 47195850c888099979fe2fec5479e92dc581ff9031c158144729cd0d95bdb66686d4b91f8aab3d7cee1f3c92db98e5a9f4f5cad45e82403947f4b4b5879e1d4a gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa801n-nd-v3-sysupgrade.bin
+tp-link-tl-wr802n-v1 2019.1.3-1-beta ed1b550652ab4da7d17b7aebdb50e92beed59e5d32c1691a133b8c18cfe9b3c5 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr802n-v1-sysupgrade.bin
+tp-link-tl-wr802n-v1 2019.1.3-1-beta ed1b550652ab4da7d17b7aebdb50e92beed59e5d32c1691a133b8c18cfe9b3c5 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr802n-v1-sysupgrade.bin
+tp-link-tl-wr802n-v1 2019.1.3-1-beta 0ab79803828a47a2c5e9af9d0f299c66cbce1f3f23225bf35350a7d2ff77b5c38e468956f7e30eba971b4f4c9fd117a8098794e799302fa9ef06feafdd0711a6 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr802n-v1-sysupgrade.bin
+tp-link-tl-wr840n-v2 2019.1.3-1-beta ae11c11187dc609d09020a85a077d266cbeabe672ecd5fc8fc0b72fdc2ae03a9 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr840n-v2-sysupgrade.bin
+tp-link-tl-wr840n-v2 2019.1.3-1-beta ae11c11187dc609d09020a85a077d266cbeabe672ecd5fc8fc0b72fdc2ae03a9 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr840n-v2-sysupgrade.bin
+tp-link-tl-wr840n-v2 2019.1.3-1-beta 4413b0cd9a05c1c581daa5f6ef523028b04e6e17f3829f361454491d347c8ff72b7b2707c1976ffa208659aff545100a803a492d9cc00f610d397b814344901b gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr840n-v2-sysupgrade.bin
+tp-link-tl-wr841n-nd-v3 2019.1.3-1-beta 74e6fa371c38885a06dadc374ea24402b9530776835e2fe1b54a39892dd69967 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v3-sysupgrade.bin
+tp-link-tl-wr841n-nd-v3 2019.1.3-1-beta 74e6fa371c38885a06dadc374ea24402b9530776835e2fe1b54a39892dd69967 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v3-sysupgrade.bin
+tp-link-tl-wr841n-nd-v3 2019.1.3-1-beta 91896c4a1f8afbde516587ebcdb746a98832161460fe06cb10fb40e1d80169feff27f08430663658a8bbb6acf330bca5c0737219b91e4d204f355cfbd51b3588 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v3-sysupgrade.bin
+tp-link-tl-wr841n-nd-v5 2019.1.3-1-beta 6a43df30637c08f31073ba6e4caf65d51715a7e2ab7d45a19a34e478870d5a38 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v5-sysupgrade.bin
+tp-link-tl-wr841n-nd-v5 2019.1.3-1-beta 6a43df30637c08f31073ba6e4caf65d51715a7e2ab7d45a19a34e478870d5a38 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v5-sysupgrade.bin
+tp-link-tl-wr841n-nd-v5 2019.1.3-1-beta b9f0c5fef7877c437a599342502d97f44866933d497204fe6ecac3739dbe2cb296b8247a81d3a45a8d354efdd0a9d6e95f81415c1ed203b7171b52b0cb375acc gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v5-sysupgrade.bin
+tp-link-tl-wr841n-nd-v7 2019.1.3-1-beta 9d421032b8f78217f006b4afeb04090000dd1075b65afe73ed48162d3df5d503 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v7-sysupgrade.bin
+tp-link-tl-wr841n-nd-v7 2019.1.3-1-beta 9d421032b8f78217f006b4afeb04090000dd1075b65afe73ed48162d3df5d503 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v7-sysupgrade.bin
+tp-link-tl-wr841n-nd-v7 2019.1.3-1-beta d6704b97c1823f10a97cb55bb13135e591c513fc50f2bb1ae7b45b4d8d81aa9f132ccc63ecba8fe92dd5ecdc974835e3369532cae7ec1190c6cb0814a96aed9e gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v7-sysupgrade.bin
+tp-link-tl-wr841n-nd-v8 2019.1.3-1-beta 59235bf552f16ce0a77179f583e2463de1700c210c3bbfafc27443e802df4395 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v8-sysupgrade.bin
+tp-link-tl-wr841n-nd-v8 2019.1.3-1-beta 59235bf552f16ce0a77179f583e2463de1700c210c3bbfafc27443e802df4395 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v8-sysupgrade.bin
+tp-link-tl-wr841n-nd-v8 2019.1.3-1-beta a5dd40de7b70e286883d36834d6b2db5c01d24cfdfccff738e8de87176dc2950109140404acd15ef299098acbaa3822c0169b009bd6966bf1da797c44797ec51 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v8-sysupgrade.bin
+tp-link-tl-wr841n-nd-v9 2019.1.3-1-beta 0a383332276d7db5ef958c03e3793a274eb54734a60f32ae73afa385f720870e 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v9-sysupgrade.bin
+tp-link-tl-wr841n-nd-v9 2019.1.3-1-beta 0a383332276d7db5ef958c03e3793a274eb54734a60f32ae73afa385f720870e gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v9-sysupgrade.bin
+tp-link-tl-wr841n-nd-v9 2019.1.3-1-beta 66bee432dc338fb4d87449e4595c6d51c4b773b786e3d4e6d8e1cbd8b089526b90aff132e967a2c79a3adacf8f0524a1cbdc601eaca31aa34443c4546bcd14fc gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v9-sysupgrade.bin
+tp-link-tl-wr841n-nd-v10 2019.1.3-1-beta 0ecdea5e1a6517b6d4621df8b13471dca60725c877c4390caba7d0cf3f4d1b85 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v10-sysupgrade.bin
+tp-link-tl-wr841n-nd-v10 2019.1.3-1-beta 0ecdea5e1a6517b6d4621df8b13471dca60725c877c4390caba7d0cf3f4d1b85 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v10-sysupgrade.bin
+tp-link-tl-wr841n-nd-v10 2019.1.3-1-beta 62e88230926b251cb66328bba0f1c58dbe645480b092c65b612006a807da62ae462e93823bb336b8679e1a28ead51e5a8af9d868ce69ebe03bd83d3beccfe917 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v10-sysupgrade.bin
+tp-link-tl-wr841n-nd-v11 2019.1.3-1-beta bf9d6cfffcedfa8d7d3a92d4bf51ae18b5939d5a3542e123339bdd23c3783080 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v11-sysupgrade.bin
+tp-link-tl-wr841n-nd-v11 2019.1.3-1-beta bf9d6cfffcedfa8d7d3a92d4bf51ae18b5939d5a3542e123339bdd23c3783080 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v11-sysupgrade.bin
+tp-link-tl-wr841n-nd-v11 2019.1.3-1-beta 8829bf502ae017916586f1bf174664a9e4e08f01ff18d874d5aec445ff705f80a82f8ac3ffac19c8a39de43e24bef84d78ac54649d68129b7c5a92fede553132 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v11-sysupgrade.bin
+tp-link-tl-wr841n-nd-v12 2019.1.3-1-beta ecd73c6f2c31a7e4e99f034f8aa42ce667ff1f964a3f72b54bd684e6f6842f1d 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v12-sysupgrade.bin
+tp-link-tl-wr841n-nd-v12 2019.1.3-1-beta ecd73c6f2c31a7e4e99f034f8aa42ce667ff1f964a3f72b54bd684e6f6842f1d gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v12-sysupgrade.bin
+tp-link-tl-wr841n-nd-v12 2019.1.3-1-beta 03a9c6d13a9180a2cd3b36bbeb4ec1537870556faff91be76597669d43dbb154f36b89e6f82f481726e998825d793169ecd0f67de9ef2687008db4363c1a9621 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-nd-v12-sysupgrade.bin
+tp-link-tl-wr843n-nd-v1 2019.1.3-1-beta 1570890a4fddd47f015e4b4b44be47f2d13692dda0790fab13e96453a75454da 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr843n-nd-v1-sysupgrade.bin
+tp-link-tl-wr843n-nd-v1 2019.1.3-1-beta 1570890a4fddd47f015e4b4b44be47f2d13692dda0790fab13e96453a75454da gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr843n-nd-v1-sysupgrade.bin
+tp-link-tl-wr843n-nd-v1 2019.1.3-1-beta a955a60052fc241bb5b8db513c8a7fa5dce159c90d6ddb423b42d19cfacf984a3c9ba306c2f83cd3388ce480d34f106886ccc1f024735d92922293fa2109ebf1 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr843n-nd-v1-sysupgrade.bin
+tp-link-tl-wr941n-nd-v2 2019.1.3-1-beta c8d409270425ce683aa35f9e275678dfb1c0a8a90b010d1acf71424885b5fc27 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr941n-nd-v2-sysupgrade.bin
+tp-link-tl-wr941n-nd-v2 2019.1.3-1-beta c8d409270425ce683aa35f9e275678dfb1c0a8a90b010d1acf71424885b5fc27 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr941n-nd-v2-sysupgrade.bin
+tp-link-tl-wr941n-nd-v2 2019.1.3-1-beta 4ac71161e659a6276a5c039013db84977263be70a61d79e85daf9a6ab8ad5ae461ecce8263ecceeaf4576b0429b8190d3c776f642f84eba7b0b1c0784fe018bd gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr941n-nd-v2-sysupgrade.bin
+tp-link-tl-wr941n-nd-v3 2019.1.3-1-beta c8d409270425ce683aa35f9e275678dfb1c0a8a90b010d1acf71424885b5fc27 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr941n-nd-v3-sysupgrade.bin
+tp-link-tl-wr941n-nd-v3 2019.1.3-1-beta c8d409270425ce683aa35f9e275678dfb1c0a8a90b010d1acf71424885b5fc27 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr941n-nd-v3-sysupgrade.bin
+tp-link-tl-wr941n-nd-v3 2019.1.3-1-beta 4ac71161e659a6276a5c039013db84977263be70a61d79e85daf9a6ab8ad5ae461ecce8263ecceeaf4576b0429b8190d3c776f642f84eba7b0b1c0784fe018bd gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr941n-nd-v3-sysupgrade.bin
+tp-link-tl-wr941n-nd-v4 2019.1.3-1-beta 8fac91c99041e64fc56305c6f9a90f82306ff96a03694ed359ed2343efd9484a 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr941n-nd-v4-sysupgrade.bin
+tp-link-tl-wr941n-nd-v4 2019.1.3-1-beta 8fac91c99041e64fc56305c6f9a90f82306ff96a03694ed359ed2343efd9484a gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr941n-nd-v4-sysupgrade.bin
+tp-link-tl-wr941n-nd-v4 2019.1.3-1-beta 915cfef580f3a688631d3d91c7fe95d9faf893a72778f6a07e7bbd42ca941413dce97c792a9b769d5ff6fb9b5a176fd186850371b325ffd98d64143281d2d216 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr941n-nd-v4-sysupgrade.bin
+tp-link-tl-wr940n-v1 2019.1.3-1-beta 8fac91c99041e64fc56305c6f9a90f82306ff96a03694ed359ed2343efd9484a 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr940n-v1-sysupgrade.bin
+tp-link-tl-wr940n-v1 2019.1.3-1-beta 8fac91c99041e64fc56305c6f9a90f82306ff96a03694ed359ed2343efd9484a gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr940n-v1-sysupgrade.bin
+tp-link-tl-wr940n-v1 2019.1.3-1-beta 915cfef580f3a688631d3d91c7fe95d9faf893a72778f6a07e7bbd42ca941413dce97c792a9b769d5ff6fb9b5a176fd186850371b325ffd98d64143281d2d216 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr940n-v1-sysupgrade.bin
+tp-link-tl-wr941n-nd-v5 2019.1.3-1-beta b94e68217cb96dced37f128a9797c73696a550878a5ca1ff87e3153d2aa03f94 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr941n-nd-v5-sysupgrade.bin
+tp-link-tl-wr941n-nd-v5 2019.1.3-1-beta b94e68217cb96dced37f128a9797c73696a550878a5ca1ff87e3153d2aa03f94 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr941n-nd-v5-sysupgrade.bin
+tp-link-tl-wr941n-nd-v5 2019.1.3-1-beta bbb603a44d37f449f57e1a84dddf8f31487f14b255b302f748e420f3d1b493143cc9c2061c8f59741263565e370846789e61351dc57cb45cf19c99004b8e5bff gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr941n-nd-v5-sysupgrade.bin
+tp-link-tl-wr940n-v2 2019.1.3-1-beta b94e68217cb96dced37f128a9797c73696a550878a5ca1ff87e3153d2aa03f94 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr940n-v2-sysupgrade.bin
+tp-link-tl-wr940n-v2 2019.1.3-1-beta b94e68217cb96dced37f128a9797c73696a550878a5ca1ff87e3153d2aa03f94 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr940n-v2-sysupgrade.bin
+tp-link-tl-wr940n-v2 2019.1.3-1-beta bbb603a44d37f449f57e1a84dddf8f31487f14b255b302f748e420f3d1b493143cc9c2061c8f59741263565e370846789e61351dc57cb45cf19c99004b8e5bff gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr940n-v2-sysupgrade.bin
+tp-link-tl-wr941n-nd-v6 2019.1.3-1-beta 0d257e061f042a3c9484559873da18e7847b3849b52f2356fcee54ae794b1361 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr941n-nd-v6-sysupgrade.bin
+tp-link-tl-wr941n-nd-v6 2019.1.3-1-beta 0d257e061f042a3c9484559873da18e7847b3849b52f2356fcee54ae794b1361 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr941n-nd-v6-sysupgrade.bin
+tp-link-tl-wr941n-nd-v6 2019.1.3-1-beta 837af979e0f01b3640ab6f425f12d49ac1aa3b1347fc2179789456b2d77b4ff8e55bcdd8ff4e0539f651c3a0b9b56e2842c143ce0ac1bd388654623b51ae1462 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr941n-nd-v6-sysupgrade.bin
+tp-link-tl-wr940n-v3 2019.1.3-1-beta 0d257e061f042a3c9484559873da18e7847b3849b52f2356fcee54ae794b1361 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr940n-v3-sysupgrade.bin
+tp-link-tl-wr940n-v3 2019.1.3-1-beta 0d257e061f042a3c9484559873da18e7847b3849b52f2356fcee54ae794b1361 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr940n-v3-sysupgrade.bin
+tp-link-tl-wr940n-v3 2019.1.3-1-beta 837af979e0f01b3640ab6f425f12d49ac1aa3b1347fc2179789456b2d77b4ff8e55bcdd8ff4e0539f651c3a0b9b56e2842c143ce0ac1bd388654623b51ae1462 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr940n-v3-sysupgrade.bin
+tp-link-tl-wr940n-v4 2019.1.3-1-beta 8d3a465188e6c8a6102c339378817ed9376955e4ac51eb0653e59dfcb078dc3c 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr940n-v4-sysupgrade.bin
+tp-link-tl-wr940n-v4 2019.1.3-1-beta 8d3a465188e6c8a6102c339378817ed9376955e4ac51eb0653e59dfcb078dc3c gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr940n-v4-sysupgrade.bin
+tp-link-tl-wr940n-v4 2019.1.3-1-beta 0a31b7341d7f636e7f4ff7964ac4ee839357d815e60a09320148214a2552767ccb7e4decfe560a66a74e454b49535bb69e38b2abb6b109b563f64182281b4a11 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr940n-v4-sysupgrade.bin
+tp-link-tl-wr940n-v5 2019.1.3-1-beta 8d3a465188e6c8a6102c339378817ed9376955e4ac51eb0653e59dfcb078dc3c 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr940n-v5-sysupgrade.bin
+tp-link-tl-wr940n-v5 2019.1.3-1-beta 8d3a465188e6c8a6102c339378817ed9376955e4ac51eb0653e59dfcb078dc3c gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr940n-v5-sysupgrade.bin
+tp-link-tl-wr940n-v5 2019.1.3-1-beta 0a31b7341d7f636e7f4ff7964ac4ee839357d815e60a09320148214a2552767ccb7e4decfe560a66a74e454b49535bb69e38b2abb6b109b563f64182281b4a11 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr940n-v5-sysupgrade.bin
+tp-link-tl-wr940n-v6 2019.1.3-1-beta 05d4aaecc9e32cf86ac11b752e6c1f845b7079209fa7e4674b9887c00ff58d23 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr940n-v6-sysupgrade.bin
+tp-link-tl-wr940n-v6 2019.1.3-1-beta 05d4aaecc9e32cf86ac11b752e6c1f845b7079209fa7e4674b9887c00ff58d23 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr940n-v6-sysupgrade.bin
+tp-link-tl-wr940n-v6 2019.1.3-1-beta 5a54f81358794669f51035aa4d6314184669bbad9c7cdd99dd0eb55d9c7c754ab7c4f34dca64b2f6657d01941307ba119cec353ccdb35c802b38d8e447b0123e gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr940n-v6-sysupgrade.bin
+tp-link-tl-wa730re-v1 2019.1.3-1-beta ea60cbb29effe5fff1b5528bdee1e5b4b84633efa0353b795607faf01ce97cef 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa730re-v1-sysupgrade.bin
+tp-link-tl-wa730re-v1 2019.1.3-1-beta ea60cbb29effe5fff1b5528bdee1e5b4b84633efa0353b795607faf01ce97cef gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa730re-v1-sysupgrade.bin
+tp-link-tl-wa730re-v1 2019.1.3-1-beta 8495ab4b4c1d840a11a282c249b7973ce1c2bfe63a13a0a9c09e3ccf8f1a25ceebbcd6a6b1096104e655bd7a67ab1b4f9f99a7def9ab52600c20788670596088 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa730re-v1-sysupgrade.bin
+tp-link-tl-wa750re-v1 2019.1.3-1-beta d170aee420afb8f68481cb1596dc20ed33fed2c06c6ce92a9327c0c41a29c452 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa750re-v1-sysupgrade.bin
+tp-link-tl-wa750re-v1 2019.1.3-1-beta d170aee420afb8f68481cb1596dc20ed33fed2c06c6ce92a9327c0c41a29c452 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa750re-v1-sysupgrade.bin
+tp-link-tl-wa750re-v1 2019.1.3-1-beta b7f553a724ca6fa9be89c8c43291756a4a0351a87e51406298feef3c12bf91061c4be478d093ef4f2c583a3d8f8cb42f3c1d086c423be063eb71e23b5431ca8b gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa750re-v1-sysupgrade.bin
+tp-link-tl-wa830re-v1 2019.1.3-1-beta 3171dd7855a7c7b4023760fd3c28cfcdeabad9f6c2fdbd7767ce046b47f40aad 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa830re-v1-sysupgrade.bin
+tp-link-tl-wa830re-v1 2019.1.3-1-beta 3171dd7855a7c7b4023760fd3c28cfcdeabad9f6c2fdbd7767ce046b47f40aad gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa830re-v1-sysupgrade.bin
+tp-link-tl-wa830re-v1 2019.1.3-1-beta aa79521369d03b24698e08bcfb573e47c8accef29148f3a3f672ff5dbcda5f3fb6d9f4e8924007e65e242e1f9633106db9951b6440950531eae544f60a517c24 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa830re-v1-sysupgrade.bin
+tp-link-tl-wa830re-v2 2019.1.3-1-beta 38027522e1e94176cd804f7bb453c6cd93866130f94a5aabc18ff1ab3cc0abd5 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa830re-v2-sysupgrade.bin
+tp-link-tl-wa830re-v2 2019.1.3-1-beta 38027522e1e94176cd804f7bb453c6cd93866130f94a5aabc18ff1ab3cc0abd5 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa830re-v2-sysupgrade.bin
+tp-link-tl-wa830re-v2 2019.1.3-1-beta fa99ad15df4ff8a76d4fe96af6ee1454c112e2ae7f27e5d7b82db120b4ad46e378f271623c83f80306aedf275d377a5f1b9fd90f19b02f55b648884144802754 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa830re-v2-sysupgrade.bin
+tp-link-tl-wa850re-v1 2019.1.3-1-beta 8bd1893c6bb3498784c42cfdabe34d46685e715e3d06f0216d74a3b51e834a9c 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa850re-v1-sysupgrade.bin
+tp-link-tl-wa850re-v1 2019.1.3-1-beta 8bd1893c6bb3498784c42cfdabe34d46685e715e3d06f0216d74a3b51e834a9c gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa850re-v1-sysupgrade.bin
+tp-link-tl-wa850re-v1 2019.1.3-1-beta 0536b500469e26b15441cc2e2b9c6ad03124f10204467cb6e53e61e0c2578b619adf911457a3fba9f0952d75d4650ddba47d9b9754564f155cfdee085b356318 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa850re-v1-sysupgrade.bin
+tp-link-tl-wa860re-v1 2019.1.3-1-beta 59f2a40bfbfcee2dcfe12882015561f80ce1b28006ab6b41656a7f11d3dea897 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa860re-v1-sysupgrade.bin
+tp-link-tl-wa860re-v1 2019.1.3-1-beta 59f2a40bfbfcee2dcfe12882015561f80ce1b28006ab6b41656a7f11d3dea897 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa860re-v1-sysupgrade.bin
+tp-link-tl-wa860re-v1 2019.1.3-1-beta 1494dad1f56c2433e9bb85db3a3e510765f605b179eee6dee98c3fb7f98a3d253401de96c5b711c1a3c7249639d4fdb742aa172d9549eb5d080b5a3446f7317b gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa860re-v1-sysupgrade.bin
+tp-link-tl-wa901n-nd-v1 2019.1.3-1-beta 12eb6c09004030678c0df388be5fbb4c6b52e570beef69fe69f03308ef936c75 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa901n-nd-v1-sysupgrade.bin
+tp-link-tl-wa901n-nd-v1 2019.1.3-1-beta 12eb6c09004030678c0df388be5fbb4c6b52e570beef69fe69f03308ef936c75 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa901n-nd-v1-sysupgrade.bin
+tp-link-tl-wa901n-nd-v1 2019.1.3-1-beta b7ba735a8ce70cd66e27e756d8bf3f81aea87967ff8d209b5e9713d3e5cbc4a19cdf4f9558614cd85003f71beb3ddfeb5595e758bc6dbcf55e243e0ac3bd2d04 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa901n-nd-v1-sysupgrade.bin
+tp-link-tl-wa901n-nd-v2 2019.1.3-1-beta d21e5e03eaea46e29d61df147c98a64b19168b7cf8fa4c83a31fcbe41d40c2f4 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa901n-nd-v2-sysupgrade.bin
+tp-link-tl-wa901n-nd-v2 2019.1.3-1-beta d21e5e03eaea46e29d61df147c98a64b19168b7cf8fa4c83a31fcbe41d40c2f4 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa901n-nd-v2-sysupgrade.bin
+tp-link-tl-wa901n-nd-v2 2019.1.3-1-beta aca0eddd47f43d91308441974ff61ac176f2a0b0ff2719bc41262f4edfc03ec4c2e0f9e1ab6b42a6943f3d7cc690d2c476988dcce2893f049bae0cfa614b97d2 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa901n-nd-v2-sysupgrade.bin
+tp-link-tl-wa901n-nd-v3 2019.1.3-1-beta 6860d21bd1078e1a60fda0be244f1bc8d78e20aad77db9e452856bb721c82c93 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa901n-nd-v3-sysupgrade.bin
+tp-link-tl-wa901n-nd-v3 2019.1.3-1-beta 6860d21bd1078e1a60fda0be244f1bc8d78e20aad77db9e452856bb721c82c93 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa901n-nd-v3-sysupgrade.bin
+tp-link-tl-wa901n-nd-v3 2019.1.3-1-beta 19605e7688cee0465b61392499014f105a57786260ad942e367c2fec220ae9aaab89f20e4f73c7d18f9be19d328bc264b406e04eef4dbf19304f8e8e7a1f6714 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa901n-nd-v3-sysupgrade.bin
+tp-link-tl-wa901n-nd-v4 2019.1.3-1-beta 0b39cce6348f4a6a22e885bfb0f006014cdab5fe7a7c817a818050f0d9c24a17 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa901n-nd-v4-sysupgrade.bin
+tp-link-tl-wa901n-nd-v4 2019.1.3-1-beta 0b39cce6348f4a6a22e885bfb0f006014cdab5fe7a7c817a818050f0d9c24a17 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa901n-nd-v4-sysupgrade.bin
+tp-link-tl-wa901n-nd-v4 2019.1.3-1-beta c1c09b9ca3d08e4828458254b30f855327be9f8d07c6fdd0673a328017cc588d2c342363336e1cd1f66f82bf1760dbc7d07cc9343521269327c70ef5fdfaec80 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa901n-nd-v4-sysupgrade.bin
+tp-link-tl-wa901n-nd-v5 2019.1.3-1-beta 250c636603dd49702b6a3fd59afc97f534f1df3ffcdcee32dce5e159f11cf7b0 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa901n-nd-v5-sysupgrade.bin
+tp-link-tl-wa901n-nd-v5 2019.1.3-1-beta 250c636603dd49702b6a3fd59afc97f534f1df3ffcdcee32dce5e159f11cf7b0 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa901n-nd-v5-sysupgrade.bin
+tp-link-tl-wa901n-nd-v5 2019.1.3-1-beta 707e13d37d59d9ee960b2b2238b2cb62c81c1686ca578a3b5ab8c3e2fdf7046612789d3d1b2b87cdb1da111439277e5b1d4b1f71aed3f7fa24900a3a9860f5d3 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wa901n-nd-v5-sysupgrade.bin
+tp-link-tl-mr13u-v1 2019.1.3-1-beta ab870c188496f21012040b7dc8c4868532d92613408051e78b8ffbf4775be7de 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr13u-v1-sysupgrade.bin
+tp-link-tl-mr13u-v1 2019.1.3-1-beta ab870c188496f21012040b7dc8c4868532d92613408051e78b8ffbf4775be7de gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr13u-v1-sysupgrade.bin
+tp-link-tl-mr13u-v1 2019.1.3-1-beta baabd2a6cc661e1ca68d0d4fb45654f1557147ce354b18c52ac457ad43ecb6d990b722e631e049dc6dede89d070aa4c89c48c1e6c56d52397b379af74f7cbcc8 gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr13u-v1-sysupgrade.bin
+tp-link-tl-mr3020-v1 2019.1.3-1-beta c0115250248b602127dfba3198308c5160d3174ed02d4fe7ea37035bba417a52 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3020-v1-sysupgrade.bin
+tp-link-tl-mr3020-v1 2019.1.3-1-beta c0115250248b602127dfba3198308c5160d3174ed02d4fe7ea37035bba417a52 gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3020-v1-sysupgrade.bin
+tp-link-tl-mr3020-v1 2019.1.3-1-beta 9cdf5fa1599b725f8fd55e5364309fa65bf661a9b1ebb4494daedc4895eba2fc61efcafdd08eae3bf35d66ca7081ab922d3df4da8e3649e3a99a2cda904314ac gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3020-v1-sysupgrade.bin
+tp-link-tl-mr3040-v1 2019.1.3-1-beta 15957fc95c1dc67889c2cb1a6d82248778c4fdb94fa1869d7d86bada6ccbdbf9 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3040-v1-sysupgrade.bin
+tp-link-tl-mr3040-v1 2019.1.3-1-beta 15957fc95c1dc67889c2cb1a6d82248778c4fdb94fa1869d7d86bada6ccbdbf9 gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3040-v1-sysupgrade.bin
+tp-link-tl-mr3040-v1 2019.1.3-1-beta 020747d8101a265f214f630b6b6ec44fb245bd476cc5ded3a244a02f8eb0d27bc7e09f391e0253c02ffca09da4b04f4292e86538a62fdff43bf1312187757bbf gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3040-v1-sysupgrade.bin
+tp-link-tl-mr3040-v2 2019.1.3-1-beta 4344c767a2e3e83c51cd85fd00785de15a2d8655517fda7eeea4e678a4293152 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3040-v2-sysupgrade.bin
+tp-link-tl-mr3040-v2 2019.1.3-1-beta 4344c767a2e3e83c51cd85fd00785de15a2d8655517fda7eeea4e678a4293152 gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3040-v2-sysupgrade.bin
+tp-link-tl-mr3040-v2 2019.1.3-1-beta 7360faccd1172d3a4511330b036e8a50614a592dede044e6fe6654914effb8158d125e621332e151b0735e97f2646b0a2577a30a22232febb9e375c9af5c8fca gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3040-v2-sysupgrade.bin
+tp-link-tl-mr3220-v1 2019.1.3-1-beta 3028d0482dabde6fddba8efb9dc4ca224a5f8f8f35c33f832e75c7327eea2eab 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3220-v1-sysupgrade.bin
+tp-link-tl-mr3220-v1 2019.1.3-1-beta 3028d0482dabde6fddba8efb9dc4ca224a5f8f8f35c33f832e75c7327eea2eab gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3220-v1-sysupgrade.bin
+tp-link-tl-mr3220-v1 2019.1.3-1-beta ba02537959dc70393dc9d56798b43b2eaf868e0524a7ee4c32b8070dcd15e5051cabf19c90edb6c54f5af4ac3f17de419fc92a79edfccb7c0d22dba33adc1110 gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3220-v1-sysupgrade.bin
+tp-link-tl-mr3220-v2 2019.1.3-1-beta fadf1b29ca6586a38338341c32ff516a65a962b5d71869e1012eba4169e65a8b 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3220-v2-sysupgrade.bin
+tp-link-tl-mr3220-v2 2019.1.3-1-beta fadf1b29ca6586a38338341c32ff516a65a962b5d71869e1012eba4169e65a8b gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3220-v2-sysupgrade.bin
+tp-link-tl-mr3220-v2 2019.1.3-1-beta dfe913caf8f4c861c0aba9dffe3be41a2a30d56dca1e20593d8f7eb5638c04839c8258f765e2c728f7e395ed3a28e567b0115d86e7fc9c794d7f2330e6132ef5 gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3220-v2-sysupgrade.bin
+tp-link-tl-mr3420-v1 2019.1.3-1-beta a2f43b07cdfe881711751ae88c5b9dde3b8ad234de4d18f2aca0e509f53f2b2f 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3420-v1-sysupgrade.bin
+tp-link-tl-mr3420-v1 2019.1.3-1-beta a2f43b07cdfe881711751ae88c5b9dde3b8ad234de4d18f2aca0e509f53f2b2f gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3420-v1-sysupgrade.bin
+tp-link-tl-mr3420-v1 2019.1.3-1-beta 7c3d7cbf6950c1cf7961a1b871d4f397117c117f0b57ed56b259b92386618fd3c8d2f780314cbaa5e59adf612217fa6381b5f26f88cd130751690c6021ed8499 gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3420-v1-sysupgrade.bin
+tp-link-tl-mr3420-v2 2019.1.3-1-beta 524b05853d70ab58b9dd9cd2e95403fb7e681eee07415a84a18f2ff356b2b052 3473412 gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3420-v2-sysupgrade.bin
+tp-link-tl-mr3420-v2 2019.1.3-1-beta 524b05853d70ab58b9dd9cd2e95403fb7e681eee07415a84a18f2ff356b2b052 gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3420-v2-sysupgrade.bin
+tp-link-tl-mr3420-v2 2019.1.3-1-beta c4d95dc3ee4fbd9dbb0aaf23df371638b11daa696dcf80af196550fe637dabeb34136a90b33f04776f1e9ef1f461411cbf4b4e757d22173c285b7a33b2eea458 gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3420-v2-sysupgrade.bin
+aerohive-hiveap-121 2019.1.3-1-beta 4896cb7800f4067eb0e2fca3cfb390f4418f04ec88925cc3c6beec0973bd8366 3891200 gluon-ffac-2019.1.3-1-beta-aerohive-hiveap-121-sysupgrade.tar
+aerohive-hiveap-121 2019.1.3-1-beta 4896cb7800f4067eb0e2fca3cfb390f4418f04ec88925cc3c6beec0973bd8366 gluon-ffac-2019.1.3-1-beta-aerohive-hiveap-121-sysupgrade.tar
+aerohive-hiveap-121 2019.1.3-1-beta 5e048f1044461f97d0b66b724b4ff2ed7d0cda7f1e6f24b29271bf00f41bcb1bfe4f376136680de7eb0a30c1a24a2cd68748b2f3bad5e5d0db47d4de6e337226 gluon-ffac-2019.1.3-1-beta-aerohive-hiveap-121-sysupgrade.tar
+netgear-wndr3700v4 2019.1.3-1-beta 43b09cd189eaf778fc1110e36563b3c38670a449d2510ba18d84304ca1d5824e 4464640 gluon-ffac-2019.1.3-1-beta-netgear-wndr3700v4-sysupgrade.tar
+netgear-wndr3700v4 2019.1.3-1-beta 43b09cd189eaf778fc1110e36563b3c38670a449d2510ba18d84304ca1d5824e gluon-ffac-2019.1.3-1-beta-netgear-wndr3700v4-sysupgrade.tar
+netgear-wndr3700v4 2019.1.3-1-beta ee9019919c512ce578c6b41eecc4e1a112f193bb8670e9c1cba361d5579473b3690c153ef711a2c7af3189411e9542891e16d80cab8490d0025da6541f9408ef gluon-ffac-2019.1.3-1-beta-netgear-wndr3700v4-sysupgrade.tar
+netgear-wndr4300 2019.1.3-1-beta 2e04a91eb2d0058519e420048503d2bacc46a33b9e18cb7fdae2182928659ca6 4464640 gluon-ffac-2019.1.3-1-beta-netgear-wndr4300-sysupgrade.tar
+netgear-wndr4300 2019.1.3-1-beta 2e04a91eb2d0058519e420048503d2bacc46a33b9e18cb7fdae2182928659ca6 gluon-ffac-2019.1.3-1-beta-netgear-wndr4300-sysupgrade.tar
+netgear-wndr4300 2019.1.3-1-beta 00633949741a46dc6653b13941f2fd318a980da00ab12ca8740c303fce2db9961d7f258d1e9e47419c2e289393d8a41f9015b7be191be85a4a763fec4929b955 gluon-ffac-2019.1.3-1-beta-netgear-wndr4300-sysupgrade.tar
+zyxel-nbg6716 2019.1.3-1-beta 20541bf893f8fc3f4eda79857ba29b4fa274726b9d5d50ced30b0f3d437def99 4730880 gluon-ffac-2019.1.3-1-beta-zyxel-nbg6716-sysupgrade.tar
+zyxel-nbg6716 2019.1.3-1-beta 20541bf893f8fc3f4eda79857ba29b4fa274726b9d5d50ced30b0f3d437def99 gluon-ffac-2019.1.3-1-beta-zyxel-nbg6716-sysupgrade.tar
+zyxel-nbg6716 2019.1.3-1-beta 958cc770767bf1ba0f45002d211ce62e114ad15c5ef62fad96065845b8374be39cbd1030172f0ce5c0d106b76691e7b8078d34437294d8da099e4d2fa8633226 gluon-ffac-2019.1.3-1-beta-zyxel-nbg6716-sysupgrade.tar
+raspberry-pi 2019.1.3-1-beta a6788e94b2ba746eb654dd334362d72ad75bff88f9bd7c6187db34703e9d69fb 9364745 gluon-ffac-2019.1.3-1-beta-raspberry-pi-sysupgrade.img.gz
+raspberry-pi 2019.1.3-1-beta a6788e94b2ba746eb654dd334362d72ad75bff88f9bd7c6187db34703e9d69fb gluon-ffac-2019.1.3-1-beta-raspberry-pi-sysupgrade.img.gz
+raspberry-pi 2019.1.3-1-beta de2af1ba3036976881bdd82262fc56df0c36afe5d9baf7a8a5c40f6dd9a8384147874b82f337b693bdea18c3801a3ff2cf5fd607f80b227319d6f68d38ef4416 gluon-ffac-2019.1.3-1-beta-raspberry-pi-sysupgrade.img.gz
+raspberry-pi-model-b-rev-2 2019.1.3-1-beta a6788e94b2ba746eb654dd334362d72ad75bff88f9bd7c6187db34703e9d69fb 9364745 gluon-ffac-2019.1.3-1-beta-raspberry-pi-sysupgrade.img.gz
+raspberry-pi-model-b-rev-2 2019.1.3-1-beta a6788e94b2ba746eb654dd334362d72ad75bff88f9bd7c6187db34703e9d69fb gluon-ffac-2019.1.3-1-beta-raspberry-pi-sysupgrade.img.gz
+raspberry-pi-model-b-rev-2 2019.1.3-1-beta de2af1ba3036976881bdd82262fc56df0c36afe5d9baf7a8a5c40f6dd9a8384147874b82f337b693bdea18c3801a3ff2cf5fd607f80b227319d6f68d38ef4416 gluon-ffac-2019.1.3-1-beta-raspberry-pi-sysupgrade.img.gz
+raspberry-pi-model-b-plus-rev-1.2 2019.1.3-1-beta a6788e94b2ba746eb654dd334362d72ad75bff88f9bd7c6187db34703e9d69fb 9364745 gluon-ffac-2019.1.3-1-beta-raspberry-pi-sysupgrade.img.gz
+raspberry-pi-model-b-plus-rev-1.2 2019.1.3-1-beta a6788e94b2ba746eb654dd334362d72ad75bff88f9bd7c6187db34703e9d69fb gluon-ffac-2019.1.3-1-beta-raspberry-pi-sysupgrade.img.gz
+raspberry-pi-model-b-plus-rev-1.2 2019.1.3-1-beta de2af1ba3036976881bdd82262fc56df0c36afe5d9baf7a8a5c40f6dd9a8384147874b82f337b693bdea18c3801a3ff2cf5fd607f80b227319d6f68d38ef4416 gluon-ffac-2019.1.3-1-beta-raspberry-pi-sysupgrade.img.gz
+tp-link-tl-wdr4900-v1 2019.1.3-1-beta d27ff4f4b46737f399e3ac32438acc951ec26a26ff43f6f5760c560980fd94bf 5112017 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wdr4900-v1-sysupgrade.bin
+tp-link-tl-wdr4900-v1 2019.1.3-1-beta d27ff4f4b46737f399e3ac32438acc951ec26a26ff43f6f5760c560980fd94bf gluon-ffac-2019.1.3-1-beta-tp-link-tl-wdr4900-v1-sysupgrade.bin
+tp-link-tl-wdr4900-v1 2019.1.3-1-beta 6f30c1121ad85598246a476622637e24c0e1519d84bf93dbab8503a98a1e0b6147bf79720663ebc07aadc36c582b75c9b9c41ff552492f421cb9ce4564f92743 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wdr4900-v1-sysupgrade.bin
+aerohive-hiveap-330 2019.1.3-1-beta 2c879e24679e3206e4eab3e3a9e4574b07dd467966f4334cfb898c41dd17a422 44662116 gluon-ffac-2019.1.3-1-beta-aerohive-hiveap-330-sysupgrade.bin
+aerohive-hiveap-330 2019.1.3-1-beta 2c879e24679e3206e4eab3e3a9e4574b07dd467966f4334cfb898c41dd17a422 gluon-ffac-2019.1.3-1-beta-aerohive-hiveap-330-sysupgrade.bin
+aerohive-hiveap-330 2019.1.3-1-beta fec0b812ce711535268a3c9eeeee3daa5934944fa353858ec92a6149eaee19e4008baaa75ed8e72b06f90cd1cd15b8a9765dcf72a37b8c207a5dc5c5d7879dea gluon-ffac-2019.1.3-1-beta-aerohive-hiveap-330-sysupgrade.bin
+asus-rt-ac57u 2019.1.3-1-beta ca893220cad3f9662ba8af0f599fea5b71af01f6c69772f1e778d831cedbd261 4718777 gluon-ffac-2019.1.3-1-beta-asus-rt-ac57u-sysupgrade.bin
+asus-rt-ac57u 2019.1.3-1-beta ca893220cad3f9662ba8af0f599fea5b71af01f6c69772f1e778d831cedbd261 gluon-ffac-2019.1.3-1-beta-asus-rt-ac57u-sysupgrade.bin
+asus-rt-ac57u 2019.1.3-1-beta cb9f20ca206d71c456588dfff1370c8f965e991bf16e091d9b9ce7aa6c2575b1e96aba64f99e8fe691277ba3a9dbccabe0ddafbed0f49334476a140657792cf0 gluon-ffac-2019.1.3-1-beta-asus-rt-ac57u-sysupgrade.bin
+d-link-dir-860l-b1 2019.1.3-1-beta 20a4a9cdfbd5d2f6756940e23b299f7230dc691a242a5264edc9ae13890b31c4 4456631 gluon-ffac-2019.1.3-1-beta-d-link-dir-860l-b1-sysupgrade.bin
+d-link-dir-860l-b1 2019.1.3-1-beta 20a4a9cdfbd5d2f6756940e23b299f7230dc691a242a5264edc9ae13890b31c4 gluon-ffac-2019.1.3-1-beta-d-link-dir-860l-b1-sysupgrade.bin
+d-link-dir-860l-b1 2019.1.3-1-beta c2b5510ec248d78e5aceaecb245ba58b5583c36ea41a17ad1ca855c6728db87daa4d61d04a981a097f874ad5807422268d050b386345b2203bb3466b86473fb2 gluon-ffac-2019.1.3-1-beta-d-link-dir-860l-b1-sysupgrade.bin
+netgear-wndr3700v5 2019.1.3-1-beta 27912d9565fc53683c560bf458504f0c51dd891d8b29b8f745dda0d9fa1b23e8 4718774 gluon-ffac-2019.1.3-1-beta-netgear-wndr3700v5-sysupgrade.bin
+netgear-wndr3700v5 2019.1.3-1-beta 27912d9565fc53683c560bf458504f0c51dd891d8b29b8f745dda0d9fa1b23e8 gluon-ffac-2019.1.3-1-beta-netgear-wndr3700v5-sysupgrade.bin
+netgear-wndr3700v5 2019.1.3-1-beta 1b77e181a9e9cf1d9a56476e5c0de9dedce319cf077e61e98a45a600bf148c5462da4f1b661381e5d46fe1e790ce1f6727a26bb89e39b1858b76a8c6b2500dc4 gluon-ffac-2019.1.3-1-beta-netgear-wndr3700v5-sysupgrade.bin
+zbt-wg3526-16m 2019.1.3-1-beta ff681afe095a7a5b1c0c4df6eb05d1c197f3f8ad6f7e005d98cc45dbe22e5727 4718791 gluon-ffac-2019.1.3-1-beta-zbt-wg3526-16m-sysupgrade.bin
+zbt-wg3526-16m 2019.1.3-1-beta ff681afe095a7a5b1c0c4df6eb05d1c197f3f8ad6f7e005d98cc45dbe22e5727 gluon-ffac-2019.1.3-1-beta-zbt-wg3526-16m-sysupgrade.bin
+zbt-wg3526-16m 2019.1.3-1-beta 3b4a379096ac7b4b2dc89413a21ba04e8f090c4bee1d9f3a2bc15611b1a2622596b5764d3d0e80a5be9b0d6e248e81bf823bb3b84527be38a7e1ce071a81a61c gluon-ffac-2019.1.3-1-beta-zbt-wg3526-16m-sysupgrade.bin
+zbt-wg3526 2019.1.3-1-beta ff681afe095a7a5b1c0c4df6eb05d1c197f3f8ad6f7e005d98cc45dbe22e5727 4718791 gluon-ffac-2019.1.3-1-beta-zbt-wg3526-16m-sysupgrade.bin
+zbt-wg3526 2019.1.3-1-beta ff681afe095a7a5b1c0c4df6eb05d1c197f3f8ad6f7e005d98cc45dbe22e5727 gluon-ffac-2019.1.3-1-beta-zbt-wg3526-16m-sysupgrade.bin
+zbt-wg3526 2019.1.3-1-beta 3b4a379096ac7b4b2dc89413a21ba04e8f090c4bee1d9f3a2bc15611b1a2622596b5764d3d0e80a5be9b0d6e248e81bf823bb3b84527be38a7e1ce071a81a61c gluon-ffac-2019.1.3-1-beta-zbt-wg3526-16m-sysupgrade.bin
+zbt-wg3526-32m 2019.1.3-1-beta 0048df92492900cacd1287d5fb7ebdacf17e889eefe8c2ec5fdff511fb6ba96e 4718790 gluon-ffac-2019.1.3-1-beta-zbt-wg3526-32m-sysupgrade.bin
+zbt-wg3526-32m 2019.1.3-1-beta 0048df92492900cacd1287d5fb7ebdacf17e889eefe8c2ec5fdff511fb6ba96e gluon-ffac-2019.1.3-1-beta-zbt-wg3526-32m-sysupgrade.bin
+zbt-wg3526-32m 2019.1.3-1-beta 8f3186f3f0b40bda1ad99a0a23e8f9aa6a2f99d9c6d034cfd6b1bb25661d245bd316c52a264357f5f057bcc280438189aa00b4b6e146122e04f3b0a9117b1419 gluon-ffac-2019.1.3-1-beta-zbt-wg3526-32m-sysupgrade.bin
+ubnt-erx 2019.1.3-1-beta 9e89f7d3b47041cc90cc6d41396f25f979859f0cb21e1480d1116475fc06a8bb 3778736 gluon-ffac-2019.1.3-1-beta-ubnt-erx-sysupgrade.tar
+ubnt-erx 2019.1.3-1-beta 9e89f7d3b47041cc90cc6d41396f25f979859f0cb21e1480d1116475fc06a8bb gluon-ffac-2019.1.3-1-beta-ubnt-erx-sysupgrade.tar
+ubnt-erx 2019.1.3-1-beta cafd61e1fa5536d66a9317a6ce05935730b8310d2c8f3b97e39859a145d49240e1da754c84743cae218c040b423cac790a62d2393d7919c0099cc4892fa3e39b gluon-ffac-2019.1.3-1-beta-ubnt-erx-sysupgrade.tar
+ubnt-erx-sfp 2019.1.3-1-beta e888d0a93021f81077bd265d52aa150834e4a87fc3dad90fc1736f6d7563779d 3788980 gluon-ffac-2019.1.3-1-beta-ubnt-erx-sfp-sysupgrade.tar
+ubnt-erx-sfp 2019.1.3-1-beta e888d0a93021f81077bd265d52aa150834e4a87fc3dad90fc1736f6d7563779d gluon-ffac-2019.1.3-1-beta-ubnt-erx-sfp-sysupgrade.tar
+ubnt-erx-sfp 2019.1.3-1-beta 70e74a708f429ffc78f34a700dfb30a611d1d601a615571af04b36eeb3e5c44ab189d5ef8d84bb04ed233e8dac650debf1029bda03ee1fbe87d30469ebe6b0ca gluon-ffac-2019.1.3-1-beta-ubnt-erx-sfp-sysupgrade.tar
+lemaker-banana-pi 2019.1.3-1-beta 153f687804e61246175471c68dbe18f7a79725418fc81db9fee0ad88f1aece1d 6089090 gluon-ffac-2019.1.3-1-beta-lemaker-banana-pi-sysupgrade.img.gz
+lemaker-banana-pi 2019.1.3-1-beta 153f687804e61246175471c68dbe18f7a79725418fc81db9fee0ad88f1aece1d gluon-ffac-2019.1.3-1-beta-lemaker-banana-pi-sysupgrade.img.gz
+lemaker-banana-pi 2019.1.3-1-beta b0136a9b13c07aae2782abac221de410ebf5ba3c3a4741d53fdd47f7b0dabc662214620c8ee545b903a0917b690719c595f7d503c5aa9e28e7ce76920052f454 gluon-ffac-2019.1.3-1-beta-lemaker-banana-pi-sysupgrade.img.gz
+lemaker-banana-pro 2019.1.3-1-beta 412bb086003feb856d6e76030cd141fef8ae2ec8ddd2cee25cb66272afe9a15f 6837549 gluon-ffac-2019.1.3-1-beta-lemaker-banana-pro-sysupgrade.img.gz
+lemaker-banana-pro 2019.1.3-1-beta 412bb086003feb856d6e76030cd141fef8ae2ec8ddd2cee25cb66272afe9a15f gluon-ffac-2019.1.3-1-beta-lemaker-banana-pro-sysupgrade.img.gz
+lemaker-banana-pro 2019.1.3-1-beta 430b417fa23dcba45289c7b9fd07468246f7e7161191e79a54de88acf785d5230600864449046175e9a3eef0d473a4848e41a0221d6753545ebdd63a3f8ff440 gluon-ffac-2019.1.3-1-beta-lemaker-banana-pro-sysupgrade.img.gz
+lamobo-r1 2019.1.3-1-beta 7e38d4b942a69725791ebe300c02ebd508118648914fb1099d63ef7dd02effbc 6573408 gluon-ffac-2019.1.3-1-beta-lamobo-r1-sysupgrade.img.gz
+lamobo-r1 2019.1.3-1-beta 7e38d4b942a69725791ebe300c02ebd508118648914fb1099d63ef7dd02effbc gluon-ffac-2019.1.3-1-beta-lamobo-r1-sysupgrade.img.gz
+lamobo-r1 2019.1.3-1-beta bbf0def8d67fcec93b593c3b6520dd899d02703bbd7f1cba901e6c3d51462dfca0bf5a5cf0ba1e6eac6a8d77f086fbf02508443d9f3d49b47bda1cad43b8879b gluon-ffac-2019.1.3-1-beta-lamobo-r1-sysupgrade.img.gz
+x86-geode 2019.1.3-1-beta 5b7a7ca74c7bfa8bc632461ea820d3ad09ca8c4a8f4368bbb44ebdd8aa367903 7011786 gluon-ffac-2019.1.3-1-beta-x86-geode-sysupgrade.img.gz
+x86-geode 2019.1.3-1-beta 5b7a7ca74c7bfa8bc632461ea820d3ad09ca8c4a8f4368bbb44ebdd8aa367903 gluon-ffac-2019.1.3-1-beta-x86-geode-sysupgrade.img.gz
+x86-geode 2019.1.3-1-beta 0d35f6d6e99bd44a844ba6905ef3d096ba804b6a27254033b77f276bdcbdb8dc544bcf5c5ece2a0b01effee363ad523a47ff07abea0e8628b310d48391e01f77 gluon-ffac-2019.1.3-1-beta-x86-geode-sysupgrade.img.gz
+avm-fritz-box-4040 2019.1.3-1-beta 7990a121ba6883c8d8e5318fb7a19fbbf5fb6732ad8eec233640e0e21f5d7696 5243070 gluon-ffac-2019.1.3-1-beta-avm-fritz-box-4040-sysupgrade.bin
+avm-fritz-box-4040 2019.1.3-1-beta 7990a121ba6883c8d8e5318fb7a19fbbf5fb6732ad8eec233640e0e21f5d7696 gluon-ffac-2019.1.3-1-beta-avm-fritz-box-4040-sysupgrade.bin
+avm-fritz-box-4040 2019.1.3-1-beta 5129b73972505e724e80557b135f9a55c297fa23a1ca36bd3e07fb2f3fc613ac85a101db7b9970612f7ad79b2129263ce4515c594d2c6e729c5cacd3bedb2b7d gluon-ffac-2019.1.3-1-beta-avm-fritz-box-4040-sysupgrade.bin
+gl.inet-gl-b1300 2019.1.3-1-beta fb2550bcc70818746207777031600e8eb1218c6f046de4860df419cfc1e92266 6029500 gluon-ffac-2019.1.3-1-beta-gl.inet-gl-b1300-sysupgrade.bin
+gl.inet-gl-b1300 2019.1.3-1-beta fb2550bcc70818746207777031600e8eb1218c6f046de4860df419cfc1e92266 gluon-ffac-2019.1.3-1-beta-gl.inet-gl-b1300-sysupgrade.bin
+gl.inet-gl-b1300 2019.1.3-1-beta a1bf61434647c52efab4ea2423362d95a5f0c4be4cba68caf45836c578a2d36f531c9e2d25ce5a35cbc04d803510ecb1ff3923c6a5d9a08b1afc722877888786 gluon-ffac-2019.1.3-1-beta-gl.inet-gl-b1300-sysupgrade.bin
+netgear-ex6100v2 2019.1.3-1-beta 57cd54b9fb01280586a2789788b3e602dacce96a51b6d29ad7636b03fb03b17e 6029501 gluon-ffac-2019.1.3-1-beta-netgear-ex6100v2-sysupgrade.bin
+netgear-ex6100v2 2019.1.3-1-beta 57cd54b9fb01280586a2789788b3e602dacce96a51b6d29ad7636b03fb03b17e gluon-ffac-2019.1.3-1-beta-netgear-ex6100v2-sysupgrade.bin
+netgear-ex6100v2 2019.1.3-1-beta 3bc8becfc37299eef2b103e2b41bed8eb388cf59e65ce1344d7d609a3644bd0758c6656491434971a3d0cb3006019da5ccfc5bd9d62aec492c202a3a57472f50 gluon-ffac-2019.1.3-1-beta-netgear-ex6100v2-sysupgrade.bin
+netgear-ex6150v2 2019.1.3-1-beta c597e1831c5e908fe27ea682871b6372dcc8c84398f14424700e45fe90ef9102 6029501 gluon-ffac-2019.1.3-1-beta-netgear-ex6150v2-sysupgrade.bin
+netgear-ex6150v2 2019.1.3-1-beta c597e1831c5e908fe27ea682871b6372dcc8c84398f14424700e45fe90ef9102 gluon-ffac-2019.1.3-1-beta-netgear-ex6150v2-sysupgrade.bin
+netgear-ex6150v2 2019.1.3-1-beta 07b4d0c2ad9338eaeb15d543438a21cd34e024cbf02c55f05d4eb9998b2433edc6589a6cd7463c7246eca688d5c37bdcfc616a27791d472cdc1d603a25af2244 gluon-ffac-2019.1.3-1-beta-netgear-ex6150v2-sysupgrade.bin
+openmesh-a42 2019.1.3-1-beta ea948e7d354a9f41474222a0e5f547f1df914107276511b77f74699e73c3acdb 5058741 gluon-ffac-2019.1.3-1-beta-openmesh-a42-sysupgrade.bin
+openmesh-a42 2019.1.3-1-beta ea948e7d354a9f41474222a0e5f547f1df914107276511b77f74699e73c3acdb gluon-ffac-2019.1.3-1-beta-openmesh-a42-sysupgrade.bin
+openmesh-a42 2019.1.3-1-beta 27afefe6d3c14ccb468874ae8c79157558766b415544d022e228f1c85bed471ddd76bd617a52e65d478b1ade28bb573833a82517910dd9188026c7f39ae87c52 gluon-ffac-2019.1.3-1-beta-openmesh-a42-sysupgrade.bin
+openmesh-a62 2019.1.3-1-beta d4862901cdd7861cd155e07c7b17d32ff7b8303891128cc4c853189d73167406 5580981 gluon-ffac-2019.1.3-1-beta-openmesh-a62-sysupgrade.bin
+openmesh-a62 2019.1.3-1-beta d4862901cdd7861cd155e07c7b17d32ff7b8303891128cc4c853189d73167406 gluon-ffac-2019.1.3-1-beta-openmesh-a62-sysupgrade.bin
+openmesh-a62 2019.1.3-1-beta 92f19affcaa22f956471f7b41099e1fd598697e35c531edbb8caafc3534bdea668fb8930383b1cc4d62299fdcd4f963168829aa89ee22380e1babaf5a6f4bdcd gluon-ffac-2019.1.3-1-beta-openmesh-a62-sysupgrade.bin
+zyxel-nbg6617 2019.1.3-1-beta ade30bb9cd76a5d89354a0ace784713e9f02a8844c12905047f410a06f7e0d80 5181622 gluon-ffac-2019.1.3-1-beta-zyxel-nbg6617-sysupgrade.bin
+zyxel-nbg6617 2019.1.3-1-beta ade30bb9cd76a5d89354a0ace784713e9f02a8844c12905047f410a06f7e0d80 gluon-ffac-2019.1.3-1-beta-zyxel-nbg6617-sysupgrade.bin
+zyxel-nbg6617 2019.1.3-1-beta eec71b39f5799baf49a105fb68e1f71c18b9d87b4c8a51b624bdf82bd8f8d8eaa20c8464e5c17ca123bb79aa851eca3012ac6ffc7f50ba30627e3f2fec733864 gluon-ffac-2019.1.3-1-beta-zyxel-nbg6617-sysupgrade.bin
+zyxel-wre6606 2019.1.3-1-beta 0ac63e8ed5a38eada3dfa1697b96a85f0bc7bc34d6fb022af49b9055b267d052 6029498 gluon-ffac-2019.1.3-1-beta-zyxel-wre6606-sysupgrade.bin
+zyxel-wre6606 2019.1.3-1-beta 0ac63e8ed5a38eada3dfa1697b96a85f0bc7bc34d6fb022af49b9055b267d052 gluon-ffac-2019.1.3-1-beta-zyxel-wre6606-sysupgrade.bin
+zyxel-wre6606 2019.1.3-1-beta d09555f265b9e4799ef6be52d2f7e367d7bc9cda3cc16eda27f25ef4ab707a71491b11bb2f230ef3a66d720d95d79ad1c19f613ab20340965b43562a9ec5d692 gluon-ffac-2019.1.3-1-beta-zyxel-wre6606-sysupgrade.bin
+8devices-jalapeno 2019.1.3-1-beta 0acceb1889e5fa5c6273d358d812ffe39ec1f5efb0b6786f422541753e229134 5816502 gluon-ffac-2019.1.3-1-beta-8devices-jalapeno-sysupgrade.bin
+8devices-jalapeno 2019.1.3-1-beta 0acceb1889e5fa5c6273d358d812ffe39ec1f5efb0b6786f422541753e229134 gluon-ffac-2019.1.3-1-beta-8devices-jalapeno-sysupgrade.bin
+8devices-jalapeno 2019.1.3-1-beta 9a79c1d3bfd4fef58f343d503042caf0c5aa1731e043e462459c75fb6e36e66494f4f15a36aafb439dfdba1fe29f033daf0fe46927c2628384946cac772b712f gluon-ffac-2019.1.3-1-beta-8devices-jalapeno-sysupgrade.bin
+asus-rt-ac51u 2019.1.3-1-beta 0fa32b1308e0430e67c537647baad654d6ef728eee0af0f9f5567ead6aa5d869 4194484 gluon-ffac-2019.1.3-1-beta-asus-rt-ac51u-sysupgrade.bin
+asus-rt-ac51u 2019.1.3-1-beta 0fa32b1308e0430e67c537647baad654d6ef728eee0af0f9f5567ead6aa5d869 gluon-ffac-2019.1.3-1-beta-asus-rt-ac51u-sysupgrade.bin
+asus-rt-ac51u 2019.1.3-1-beta e952e204ddb561a2f7b47e328bfdf02b14482a74cb79ef09f7e4ba07561511d17c8b85aa8510c73e1d4a270f4eb262b7b356a98fc3544d3d98851aabbfa723cf gluon-ffac-2019.1.3-1-beta-asus-rt-ac51u-sysupgrade.bin
+gl-mt300a 2019.1.3-1-beta 3892e003b4e85517d68943193d0e19e39cd0f60cd46a9cf0d1ceebc54264c9d8 4194485 gluon-ffac-2019.1.3-1-beta-gl-mt300a-sysupgrade.bin
+gl-mt300a 2019.1.3-1-beta 3892e003b4e85517d68943193d0e19e39cd0f60cd46a9cf0d1ceebc54264c9d8 gluon-ffac-2019.1.3-1-beta-gl-mt300a-sysupgrade.bin
+gl-mt300a 2019.1.3-1-beta fed603bd63319667da33e7321736a231d8b7084d3fb22dec4353666dbf1d0a8f41d98f5b04b72822fa916c3874e5e0d36252e019bc9bd1e8ede2a246c13a749a gluon-ffac-2019.1.3-1-beta-gl-mt300a-sysupgrade.bin
+gl-mt300n 2019.1.3-1-beta da640019aa0e5028e93817a242aac0b196427d3f64bdf74dfb084d9c6193799c 4194485 gluon-ffac-2019.1.3-1-beta-gl-mt300n-sysupgrade.bin
+gl-mt300n 2019.1.3-1-beta da640019aa0e5028e93817a242aac0b196427d3f64bdf74dfb084d9c6193799c gluon-ffac-2019.1.3-1-beta-gl-mt300n-sysupgrade.bin
+gl-mt300n 2019.1.3-1-beta 595e73b9f274e3172b1d2092d9458cb967a38851054e730cb8706d8388348cfebfd50c9dd29016dc9c7ee9f52ea829a37289068ef27b223004ec48d48dee3867 gluon-ffac-2019.1.3-1-beta-gl-mt300n-sysupgrade.bin
+gl-mt750 2019.1.3-1-beta 72d2d35baf0dadb971daec99198d601646c1ca2550c867143f59a5226ab789a4 4194484 gluon-ffac-2019.1.3-1-beta-gl-mt750-sysupgrade.bin
+gl-mt750 2019.1.3-1-beta 72d2d35baf0dadb971daec99198d601646c1ca2550c867143f59a5226ab789a4 gluon-ffac-2019.1.3-1-beta-gl-mt750-sysupgrade.bin
+gl-mt750 2019.1.3-1-beta bdd1c51c915257d9fe5932d9f9ace1b0d116870299f529f447ec57b3328a7d2814c8aa8a53af1835b9ae17826a25862701acc091442f8b7dde7eb9fbe4aa6eed gluon-ffac-2019.1.3-1-beta-gl-mt750-sysupgrade.bin
+nexx-wt3020-8m 2019.1.3-1-beta 661c55a6b8c6e37b3ddc3c3ebfb94f84b5c53886ae11cc77fc652730bcd86faf 4194494 gluon-ffac-2019.1.3-1-beta-nexx-wt3020-8m-sysupgrade.bin
+nexx-wt3020-8m 2019.1.3-1-beta 661c55a6b8c6e37b3ddc3c3ebfb94f84b5c53886ae11cc77fc652730bcd86faf gluon-ffac-2019.1.3-1-beta-nexx-wt3020-8m-sysupgrade.bin
+nexx-wt3020-8m 2019.1.3-1-beta 6d239129a19be46fbfdf720e9e29aa65ef08fc55b3d94dbfe6ee7d2fe0ec98dff35836551afb427af17565fedd16d6c8602dee218eb5164d4f4ca0f48c295581 gluon-ffac-2019.1.3-1-beta-nexx-wt3020-8m-sysupgrade.bin
+nexx-wt3020ad 2019.1.3-1-beta 661c55a6b8c6e37b3ddc3c3ebfb94f84b5c53886ae11cc77fc652730bcd86faf 4194494 gluon-ffac-2019.1.3-1-beta-nexx-wt3020ad-sysupgrade.bin
+nexx-wt3020ad 2019.1.3-1-beta 661c55a6b8c6e37b3ddc3c3ebfb94f84b5c53886ae11cc77fc652730bcd86faf gluon-ffac-2019.1.3-1-beta-nexx-wt3020ad-sysupgrade.bin
+nexx-wt3020ad 2019.1.3-1-beta 6d239129a19be46fbfdf720e9e29aa65ef08fc55b3d94dbfe6ee7d2fe0ec98dff35836551afb427af17565fedd16d6c8602dee218eb5164d4f4ca0f48c295581 gluon-ffac-2019.1.3-1-beta-nexx-wt3020ad-sysupgrade.bin
+nexx-wt3020f 2019.1.3-1-beta 661c55a6b8c6e37b3ddc3c3ebfb94f84b5c53886ae11cc77fc652730bcd86faf 4194494 gluon-ffac-2019.1.3-1-beta-nexx-wt3020f-sysupgrade.bin
+nexx-wt3020f 2019.1.3-1-beta 661c55a6b8c6e37b3ddc3c3ebfb94f84b5c53886ae11cc77fc652730bcd86faf gluon-ffac-2019.1.3-1-beta-nexx-wt3020f-sysupgrade.bin
+nexx-wt3020f 2019.1.3-1-beta 6d239129a19be46fbfdf720e9e29aa65ef08fc55b3d94dbfe6ee7d2fe0ec98dff35836551afb427af17565fedd16d6c8602dee218eb5164d4f4ca0f48c295581 gluon-ffac-2019.1.3-1-beta-nexx-wt3020f-sysupgrade.bin
+nexx-wt3020h 2019.1.3-1-beta 661c55a6b8c6e37b3ddc3c3ebfb94f84b5c53886ae11cc77fc652730bcd86faf 4194494 gluon-ffac-2019.1.3-1-beta-nexx-wt3020h-sysupgrade.bin
+nexx-wt3020h 2019.1.3-1-beta 661c55a6b8c6e37b3ddc3c3ebfb94f84b5c53886ae11cc77fc652730bcd86faf gluon-ffac-2019.1.3-1-beta-nexx-wt3020h-sysupgrade.bin
+nexx-wt3020h 2019.1.3-1-beta 6d239129a19be46fbfdf720e9e29aa65ef08fc55b3d94dbfe6ee7d2fe0ec98dff35836551afb427af17565fedd16d6c8602dee218eb5164d4f4ca0f48c295581 gluon-ffac-2019.1.3-1-beta-nexx-wt3020h-sysupgrade.bin
+xiaomi-miwifi-mini 2019.1.3-1-beta f01a1777336e1f0e3a5e7b448001f260ca48e5b075b205727376dd59b6c98dc7 4194487 gluon-ffac-2019.1.3-1-beta-xiaomi-miwifi-mini-sysupgrade.bin
+xiaomi-miwifi-mini 2019.1.3-1-beta f01a1777336e1f0e3a5e7b448001f260ca48e5b075b205727376dd59b6c98dc7 gluon-ffac-2019.1.3-1-beta-xiaomi-miwifi-mini-sysupgrade.bin
+xiaomi-miwifi-mini 2019.1.3-1-beta a86dd39a9356a6555df520cc88f01ed11d5c7ef1abf75420dfe006ea466d2a003ccb332de24636a51359ccab27ae9390a739efca661d4554ce55a6aaf6c5ebf1 gluon-ffac-2019.1.3-1-beta-xiaomi-miwifi-mini-sysupgrade.bin
+gl-mt300n-v2 2019.1.3-1-beta bddd08b3a9dbce5fde134c1916c00e2320bfbb8fa785136db02e77d9b9b5eb39 4194488 gluon-ffac-2019.1.3-1-beta-gl-mt300n-v2-sysupgrade.bin
+gl-mt300n-v2 2019.1.3-1-beta bddd08b3a9dbce5fde134c1916c00e2320bfbb8fa785136db02e77d9b9b5eb39 gluon-ffac-2019.1.3-1-beta-gl-mt300n-v2-sysupgrade.bin
+gl-mt300n-v2 2019.1.3-1-beta 22a91dee0ffac7bd73d69bfd856bc64b2cb9d0d3aef1de25129b2918576fa0bf937c0edf0ad56b66f552d7039a43332904dc1c19902158b7f044d93575f5428b gluon-ffac-2019.1.3-1-beta-gl-mt300n-v2-sysupgrade.bin
+netgear-r6120 2019.1.3-1-beta e226d045ab34991ad4fb0c64c0b88bbc73f52b1fd7e9d2f1ecfae9041e838ecb 3997881 gluon-ffac-2019.1.3-1-beta-netgear-r6120-sysupgrade.bin
+netgear-r6120 2019.1.3-1-beta e226d045ab34991ad4fb0c64c0b88bbc73f52b1fd7e9d2f1ecfae9041e838ecb gluon-ffac-2019.1.3-1-beta-netgear-r6120-sysupgrade.bin
+netgear-r6120 2019.1.3-1-beta 3db67e2a8ca71f0afa764185a39a535d38c92440b61e6d0d51c82c3cf55471542693d0c61b10110c3c7cd20f0df34307cf1371218f619ce60ada2e4eb6c26889 gluon-ffac-2019.1.3-1-beta-netgear-r6120-sysupgrade.bin
+tp-link-archer-c50-v3 2019.1.3-1-beta 6c0cab845cf6a79a12d9cef39b6265e7ba7932a14ac195a85772910abb19ad06 3866809 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c50-v3-sysupgrade.bin
+tp-link-archer-c50-v3 2019.1.3-1-beta 6c0cab845cf6a79a12d9cef39b6265e7ba7932a14ac195a85772910abb19ad06 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c50-v3-sysupgrade.bin
+tp-link-archer-c50-v3 2019.1.3-1-beta 0b9383617399ea06778994ce7e65535d7d48c5a5f6715309a5b6a3ea15c5c2d574da6a32fd5c52cf5d8b670f2086b07d616ff54d6f530c752948bb33f2e6d44d gluon-ffac-2019.1.3-1-beta-tp-link-archer-c50-v3-sysupgrade.bin
+tp-link-archer-c50-v4 2019.1.3-1-beta 1c3434d568f164ecffeb3962f030bbd338302c602e62e1c9273854ed6b646923 3866809 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c50-v4-sysupgrade.bin
+tp-link-archer-c50-v4 2019.1.3-1-beta 1c3434d568f164ecffeb3962f030bbd338302c602e62e1c9273854ed6b646923 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c50-v4-sysupgrade.bin
+tp-link-archer-c50-v4 2019.1.3-1-beta f0fc660a6fa222a5dd95aaff80f6f76eec3f20cc01791e5773133b434c4a9120e5eaafe0afaf54f4394a25c516d2d4f03d4ca60333035d45564086b59c9c2a62 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c50-v4-sysupgrade.bin
+tp-link-tl-mr3420-v5 2019.1.3-1-beta e29fa4a239f5d6daddf0e457970c903b28ba0b62c82d4e79758a3bddce5413dd 3997887 gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3420-v5-sysupgrade.bin
+tp-link-tl-mr3420-v5 2019.1.3-1-beta e29fa4a239f5d6daddf0e457970c903b28ba0b62c82d4e79758a3bddce5413dd gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3420-v5-sysupgrade.bin
+tp-link-tl-mr3420-v5 2019.1.3-1-beta f7b1395c8e23e02b89e20f6c00e0eada25e7984a0aa7702e927c5ae8e750bb162dd4dee1957ceb4265c49cbd5ba035c9bd818426faafb40535ca54d0ac307caf gluon-ffac-2019.1.3-1-beta-tp-link-tl-mr3420-v5-sysupgrade.bin
+tp-link-tl-wr841n-v13 2019.1.3-1-beta 34399257f8f3baeecb6f854f41acdd648c7e7a56525944b3903c8f6e1d553f86 3866809 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-v13-sysupgrade.bin
+tp-link-tl-wr841n-v13 2019.1.3-1-beta 34399257f8f3baeecb6f854f41acdd648c7e7a56525944b3903c8f6e1d553f86 gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-v13-sysupgrade.bin
+tp-link-tl-wr841n-v13 2019.1.3-1-beta d7b04513a1148f70622ba13f5ee469ae171f149b5bdd8ee3c7e17b22adfe78dd9741cccbd70f5992d21e8dd1c900bb3ce21e3ece9abf602029cee79e97b4829f gluon-ffac-2019.1.3-1-beta-tp-link-tl-wr841n-v13-sysupgrade.bin
+vocore2 2019.1.3-1-beta a615ebd16a090d7e3835ab772500ce1ba212dc5c58039b1e4f0fc70e2a7ad810 4194483 gluon-ffac-2019.1.3-1-beta-vocore2-sysupgrade.bin
+vocore2 2019.1.3-1-beta a615ebd16a090d7e3835ab772500ce1ba212dc5c58039b1e4f0fc70e2a7ad810 gluon-ffac-2019.1.3-1-beta-vocore2-sysupgrade.bin
+vocore2 2019.1.3-1-beta 48725f0241f6a18af8fba89807650dc916ced8dd05d5d9cacbfe24e5c50eabf058013cd1d1647058fe5b85df0c36eee54f9558000639c31d4618c1bfd0c135fb gluon-ffac-2019.1.3-1-beta-vocore2-sysupgrade.bin
+a5-v11 2019.1.3-1-beta 2cf6b2b9ae9d9dd662b2181a19ed9ee1066889424674394db6fe2abbbfeda3c1 3408050 gluon-ffac-2019.1.3-1-beta-a5-v11-sysupgrade.bin
+a5-v11 2019.1.3-1-beta 2cf6b2b9ae9d9dd662b2181a19ed9ee1066889424674394db6fe2abbbfeda3c1 gluon-ffac-2019.1.3-1-beta-a5-v11-sysupgrade.bin
+a5-v11 2019.1.3-1-beta 016a462d0d020e807515ad57898f971132b66a73bad9ab1056890b6ddf7c659c41883035d3a8e90a935b422f3bc72d9880b2aa02f2ef75d509dbd2bacde03fea gluon-ffac-2019.1.3-1-beta-a5-v11-sysupgrade.bin
+d-link-dir-615-h1 2019.1.3-1-beta a4c89250e32a0c0537e920d5ee20f5270cdae2ddec6344292bee3f09c8581ffc 3358902 gluon-ffac-2019.1.3-1-beta-d-link-dir-615-h1-sysupgrade.bin
+d-link-dir-615-h1 2019.1.3-1-beta a4c89250e32a0c0537e920d5ee20f5270cdae2ddec6344292bee3f09c8581ffc gluon-ffac-2019.1.3-1-beta-d-link-dir-615-h1-sysupgrade.bin
+d-link-dir-615-h1 2019.1.3-1-beta 281a95a1bcfc4cc67e50b7ca439065fe99ffc411d86cea479f2ac6245f4f470f804847460479d74dbcaf501b889f70d722443f430be83385ca961d46f16b9951 gluon-ffac-2019.1.3-1-beta-d-link-dir-615-h1-sysupgrade.bin
+d-link-dir-615-d 2019.1.3-1-beta e6b0f46c2a62d4542330c1045df42bb7d9e2a4296ee6b850eb98065bb03ed011 3408053 gluon-ffac-2019.1.3-1-beta-d-link-dir-615-d-sysupgrade.bin
+d-link-dir-615-d 2019.1.3-1-beta e6b0f46c2a62d4542330c1045df42bb7d9e2a4296ee6b850eb98065bb03ed011 gluon-ffac-2019.1.3-1-beta-d-link-dir-615-d-sysupgrade.bin
+d-link-dir-615-d 2019.1.3-1-beta 03285bdd7436bcee22b4eae06043e6796836469db45b2a12b11069cc947117b4980e99b9b6e891a4d46245c4f1d3885235c29a67d38816bee7cfdfaf9515c90a gluon-ffac-2019.1.3-1-beta-d-link-dir-615-d-sysupgrade.bin
+d-link-dir-615-d1 2019.1.3-1-beta e6b0f46c2a62d4542330c1045df42bb7d9e2a4296ee6b850eb98065bb03ed011 3408053 gluon-ffac-2019.1.3-1-beta-d-link-dir-615-d1-sysupgrade.bin
+d-link-dir-615-d1 2019.1.3-1-beta e6b0f46c2a62d4542330c1045df42bb7d9e2a4296ee6b850eb98065bb03ed011 gluon-ffac-2019.1.3-1-beta-d-link-dir-615-d1-sysupgrade.bin
+d-link-dir-615-d1 2019.1.3-1-beta 03285bdd7436bcee22b4eae06043e6796836469db45b2a12b11069cc947117b4980e99b9b6e891a4d46245c4f1d3885235c29a67d38816bee7cfdfaf9515c90a gluon-ffac-2019.1.3-1-beta-d-link-dir-615-d1-sysupgrade.bin
+d-link-dir-615-d2 2019.1.3-1-beta e6b0f46c2a62d4542330c1045df42bb7d9e2a4296ee6b850eb98065bb03ed011 3408053 gluon-ffac-2019.1.3-1-beta-d-link-dir-615-d2-sysupgrade.bin
+d-link-dir-615-d2 2019.1.3-1-beta e6b0f46c2a62d4542330c1045df42bb7d9e2a4296ee6b850eb98065bb03ed011 gluon-ffac-2019.1.3-1-beta-d-link-dir-615-d2-sysupgrade.bin
+d-link-dir-615-d2 2019.1.3-1-beta 03285bdd7436bcee22b4eae06043e6796836469db45b2a12b11069cc947117b4980e99b9b6e891a4d46245c4f1d3885235c29a67d38816bee7cfdfaf9515c90a gluon-ffac-2019.1.3-1-beta-d-link-dir-615-d2-sysupgrade.bin
+d-link-dir-615-d3 2019.1.3-1-beta e6b0f46c2a62d4542330c1045df42bb7d9e2a4296ee6b850eb98065bb03ed011 3408053 gluon-ffac-2019.1.3-1-beta-d-link-dir-615-d3-sysupgrade.bin
+d-link-dir-615-d3 2019.1.3-1-beta e6b0f46c2a62d4542330c1045df42bb7d9e2a4296ee6b850eb98065bb03ed011 gluon-ffac-2019.1.3-1-beta-d-link-dir-615-d3-sysupgrade.bin
+d-link-dir-615-d3 2019.1.3-1-beta 03285bdd7436bcee22b4eae06043e6796836469db45b2a12b11069cc947117b4980e99b9b6e891a4d46245c4f1d3885235c29a67d38816bee7cfdfaf9515c90a gluon-ffac-2019.1.3-1-beta-d-link-dir-615-d3-sysupgrade.bin
+d-link-dir-615-d4 2019.1.3-1-beta e6b0f46c2a62d4542330c1045df42bb7d9e2a4296ee6b850eb98065bb03ed011 3408053 gluon-ffac-2019.1.3-1-beta-d-link-dir-615-d4-sysupgrade.bin
+d-link-dir-615-d4 2019.1.3-1-beta e6b0f46c2a62d4542330c1045df42bb7d9e2a4296ee6b850eb98065bb03ed011 gluon-ffac-2019.1.3-1-beta-d-link-dir-615-d4-sysupgrade.bin
+d-link-dir-615-d4 2019.1.3-1-beta 03285bdd7436bcee22b4eae06043e6796836469db45b2a12b11069cc947117b4980e99b9b6e891a4d46245c4f1d3885235c29a67d38816bee7cfdfaf9515c90a gluon-ffac-2019.1.3-1-beta-d-link-dir-615-d4-sysupgrade.bin
+vocore-8M 2019.1.3-1-beta 17e1c67cc713f8cb23d35a475718ec70737062015faf586b1d723cbf21941176 3670206 gluon-ffac-2019.1.3-1-beta-vocore-8M-sysupgrade.bin
+vocore-8M 2019.1.3-1-beta 17e1c67cc713f8cb23d35a475718ec70737062015faf586b1d723cbf21941176 gluon-ffac-2019.1.3-1-beta-vocore-8M-sysupgrade.bin
+vocore-8M 2019.1.3-1-beta c012793f5ac305e0ccc61178f184d01a91a80f62c5e78760b53960f631b3fdd0e14400d51e1efcc6e1b3eddefc9c3c6e9ee6fde9704edafad5c40d6403a3678d gluon-ffac-2019.1.3-1-beta-vocore-8M-sysupgrade.bin
+vocore-16M 2019.1.3-1-beta 51c273fe93ff6e4295b788442cc977f75ca0ded7f2c4f058baf3d01a33dda9d9 3670207 gluon-ffac-2019.1.3-1-beta-vocore-16M-sysupgrade.bin
+vocore-16M 2019.1.3-1-beta 51c273fe93ff6e4295b788442cc977f75ca0ded7f2c4f058baf3d01a33dda9d9 gluon-ffac-2019.1.3-1-beta-vocore-16M-sysupgrade.bin
+vocore-16M 2019.1.3-1-beta bb9973829baf69c268244c2926af723a4552e79d7bb03c275d9043b61e15e3b6b6e16eb366a2ef8f17b979f8bb890bee02bc0bb649c53525e9d8e03657ee0f33 gluon-ffac-2019.1.3-1-beta-vocore-16M-sysupgrade.bin
+mikrotik-rb-nor-flash-16M 2019.1.3-1-beta e87c32df644b4de18f1c97f7db5c5da1afd18549ff79091f4921b9d39ea022d4 3866982 gluon-ffac-2019.1.3-1-beta-mikrotik-rb-nor-flash-16M-sysupgrade.bin
+mikrotik-rb-nor-flash-16M 2019.1.3-1-beta e87c32df644b4de18f1c97f7db5c5da1afd18549ff79091f4921b9d39ea022d4 gluon-ffac-2019.1.3-1-beta-mikrotik-rb-nor-flash-16M-sysupgrade.bin
+mikrotik-rb-nor-flash-16M 2019.1.3-1-beta daabeb4ec1cab6ab2b513d68711fc0abf1febf33d13c1529c161695b0cb2f48e15495f586731b14df9c43b49bd73a551e58b73cd7567d33248ac1b859f52a397 gluon-ffac-2019.1.3-1-beta-mikrotik-rb-nor-flash-16M-sysupgrade.bin
+mikrotik-rb-nor-flash-16M-ac 2019.1.3-1-beta eb061b2e0e6d67e70d93b5b618a23677741a7a329c48f63b1d2da58ee38d1555 4456826 gluon-ffac-2019.1.3-1-beta-mikrotik-rb-nor-flash-16M-ac-sysupgrade.bin
+mikrotik-rb-nor-flash-16M-ac 2019.1.3-1-beta eb061b2e0e6d67e70d93b5b618a23677741a7a329c48f63b1d2da58ee38d1555 gluon-ffac-2019.1.3-1-beta-mikrotik-rb-nor-flash-16M-ac-sysupgrade.bin
+mikrotik-rb-nor-flash-16M-ac 2019.1.3-1-beta ca3fec3510ac052284cabd7575ddb098baf37d8f3cfca347259eb04c1d25f931211189fca30ab14333bac83e5fd68d430a80f09608de847fe36e7a9e6f9c8b2e gluon-ffac-2019.1.3-1-beta-mikrotik-rb-nor-flash-16M-ac-sysupgrade.bin
+mikrotik-nand-64m 2019.1.3-1-beta 9861cbf3c98f595da65474c211da274674e8cbc63182615aa25c901b0ca8a439 3962880 gluon-ffac-2019.1.3-1-beta-mikrotik-nand-64m-sysupgrade.bin
+mikrotik-nand-64m 2019.1.3-1-beta 9861cbf3c98f595da65474c211da274674e8cbc63182615aa25c901b0ca8a439 gluon-ffac-2019.1.3-1-beta-mikrotik-nand-64m-sysupgrade.bin
+mikrotik-nand-64m 2019.1.3-1-beta d6919965432726a8e181b8b0c5e8ff7c6b7df710a478979fca422ca833a3a4d1403f0727cc4ce78c5f4dee260b9863a49eead00c3fb741fc922a74edd6c79447 gluon-ffac-2019.1.3-1-beta-mikrotik-nand-64m-sysupgrade.bin
+mikrotik-nand-large 2019.1.3-1-beta 47a4435eb8d71e74b5850bf55a897049e092bc87564029049e15691d0bc1b986 4014080 gluon-ffac-2019.1.3-1-beta-mikrotik-nand-large-sysupgrade.bin
+mikrotik-nand-large 2019.1.3-1-beta 47a4435eb8d71e74b5850bf55a897049e092bc87564029049e15691d0bc1b986 gluon-ffac-2019.1.3-1-beta-mikrotik-nand-large-sysupgrade.bin
+mikrotik-nand-large 2019.1.3-1-beta 4531921538750f63749966f671719e00c099dcf29d957ba2dee622a51a5c91450f982f2e98416bc460f7b9ab71b65612e74e8eb3adea55e7187e2e28ffd07467 gluon-ffac-2019.1.3-1-beta-mikrotik-nand-large-sysupgrade.bin
+mikrotik-nand-large-ac 2019.1.3-1-beta 7c3455c37d2b08cc0e97f9f95f1bce2aeebb7995fecfaf01d6a29c3234b49805 4352000 gluon-ffac-2019.1.3-1-beta-mikrotik-nand-large-ac-sysupgrade.bin
+mikrotik-nand-large-ac 2019.1.3-1-beta 7c3455c37d2b08cc0e97f9f95f1bce2aeebb7995fecfaf01d6a29c3234b49805 gluon-ffac-2019.1.3-1-beta-mikrotik-nand-large-ac-sysupgrade.bin
+mikrotik-nand-large-ac 2019.1.3-1-beta cbd263d697dc90896bc40f52021fae66b6ad94aeb9a9b95b2ec996f1a1e6c7c08111fc18048f72460e02d44833dcd796e98a3384ea30b3b81b66b5f299b051d2 gluon-ffac-2019.1.3-1-beta-mikrotik-nand-large-ac-sysupgrade.bin
+raspberry-pi-3 2019.1.3-1-beta 38b9aeb9827db7b358f9ec374f7d74e38f7bb4ba0117d78e80258bd72b72c3b6 9463465 gluon-ffac-2019.1.3-1-beta-raspberry-pi-3-sysupgrade.img.gz
+raspberry-pi-3 2019.1.3-1-beta 38b9aeb9827db7b358f9ec374f7d74e38f7bb4ba0117d78e80258bd72b72c3b6 gluon-ffac-2019.1.3-1-beta-raspberry-pi-3-sysupgrade.img.gz
+raspberry-pi-3 2019.1.3-1-beta afb8a2c45d4979f980af669af52e2a12443ff2b27c82bc183e8a657df88f8bd89af6e739d894813cb4dcaab2d43d6fa1b52883029f9ea3cd2ca42d81e4bdd44b gluon-ffac-2019.1.3-1-beta-raspberry-pi-3-sysupgrade.img.gz
+tp-link-archer-c2600 2019.1.3-1-beta ea553aeb86931fc68fb90fde1203408ff1442cec72ce159d1a60d9b705bdecd1 7143617 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c2600-sysupgrade.bin
+tp-link-archer-c2600 2019.1.3-1-beta ea553aeb86931fc68fb90fde1203408ff1442cec72ce159d1a60d9b705bdecd1 gluon-ffac-2019.1.3-1-beta-tp-link-archer-c2600-sysupgrade.bin
+tp-link-archer-c2600 2019.1.3-1-beta bcf178093b8ffbea98040d68235356f6e9a144480ee08421d4fdd5954e0b281eccfdcb663374effc209866086fe44dd72cc3de71bf46261097bac3dfbe99c22f gluon-ffac-2019.1.3-1-beta-tp-link-archer-c2600-sysupgrade.bin
+netgear-nighthawk-x4s-r7800 2019.1.3-1-beta 402e7a6d9c95f4bcb322aeabec51c7a0b4b545fac37037ab2cc5ff6316af71be 5345470 gluon-ffac-2019.1.3-1-beta-netgear-nighthawk-x4s-r7800-sysupgrade.bin
+netgear-nighthawk-x4s-r7800 2019.1.3-1-beta 402e7a6d9c95f4bcb322aeabec51c7a0b4b545fac37037ab2cc5ff6316af71be gluon-ffac-2019.1.3-1-beta-netgear-nighthawk-x4s-r7800-sysupgrade.bin
+netgear-nighthawk-x4s-r7800 2019.1.3-1-beta fb2b12eef8179fceeeaaba9076d1ee5381d883ca91a1ae76f1b065325661c56d24b9c78c75c7f4349d7779a6e89d9dd28ec74e9367344d04dd28259f8dbee250 gluon-ffac-2019.1.3-1-beta-netgear-nighthawk-x4s-r7800-sysupgrade.bin
+linksys-wrt1200ac 2019.1.3-1-beta 362a1178d31a13439ef3741b690a827045d1d7f624d874110d0ca7e41241871e 4925632 gluon-ffac-2019.1.3-1-beta-linksys-wrt1200ac-sysupgrade.bin
+linksys-wrt1200ac 2019.1.3-1-beta 362a1178d31a13439ef3741b690a827045d1d7f624d874110d0ca7e41241871e gluon-ffac-2019.1.3-1-beta-linksys-wrt1200ac-sysupgrade.bin
+linksys-wrt1200ac 2019.1.3-1-beta facb0db113ea86ee78ccb02690072ac097578bb9f36f3be2e589b03372244fac4ca3103113ed7c5110c2c5ebc3f5af96ccc574bc01d71820ee16e3bd064b1dbf gluon-ffac-2019.1.3-1-beta-linksys-wrt1200ac-sysupgrade.bin
+x86-generic 2019.1.3-1-beta 2f961a757b6aebfa5b45aaed26985dee7271fecfc2f534fd828aeadd7b3d556b 9366447 gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-generic 2019.1.3-1-beta 2f961a757b6aebfa5b45aaed26985dee7271fecfc2f534fd828aeadd7b3d556b gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-generic 2019.1.3-1-beta ef33a312fb40d5ddbb14dc83790c5aa91f98ff04d57bdef4a85474500288d4be11a235fd92efd4603a0f237d5cc05a7a5528d65ab12adc81bd48bde61dc12866 gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-kvm 2019.1.3-1-beta 2f961a757b6aebfa5b45aaed26985dee7271fecfc2f534fd828aeadd7b3d556b 9366447 gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-kvm 2019.1.3-1-beta 2f961a757b6aebfa5b45aaed26985dee7271fecfc2f534fd828aeadd7b3d556b gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-kvm 2019.1.3-1-beta ef33a312fb40d5ddbb14dc83790c5aa91f98ff04d57bdef4a85474500288d4be11a235fd92efd4603a0f237d5cc05a7a5528d65ab12adc81bd48bde61dc12866 gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-xen_domu 2019.1.3-1-beta 2f961a757b6aebfa5b45aaed26985dee7271fecfc2f534fd828aeadd7b3d556b 9366447 gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-xen_domu 2019.1.3-1-beta 2f961a757b6aebfa5b45aaed26985dee7271fecfc2f534fd828aeadd7b3d556b gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-xen_domu 2019.1.3-1-beta ef33a312fb40d5ddbb14dc83790c5aa91f98ff04d57bdef4a85474500288d4be11a235fd92efd4603a0f237d5cc05a7a5528d65ab12adc81bd48bde61dc12866 gluon-ffac-2019.1.3-1-beta-x86-generic-sysupgrade.img.gz
+x86-64 2019.1.3-1-beta a118a21e4fc8a50bb3c1d4e5639679b8ff0a8b2279be0ac136d49efa71ea56eb 8046881 gluon-ffac-2019.1.3-1-beta-x86-64-sysupgrade.img.gz
+x86-64 2019.1.3-1-beta a118a21e4fc8a50bb3c1d4e5639679b8ff0a8b2279be0ac136d49efa71ea56eb gluon-ffac-2019.1.3-1-beta-x86-64-sysupgrade.img.gz
+x86-64 2019.1.3-1-beta 899ab02f63f55638cc8c29154e5f15ebb9e3375c409b85340cbeaa38ecd9ad3319c007d6b75666d71c7267a1f54795f46848da97d1f1ae6b2d9f738250a3357f gluon-ffac-2019.1.3-1-beta-x86-64-sysupgrade.img.gz
+---
+32588805910c599c2b4d443b7b60e5cb83b4978b28627514339ab60d8353570362aba1ffc52ff8fbcf1ad86891b1457443c17333141d72f42d16aedae068ff00
+b72337be05b9f665f7e06a591dccc0d35c183caa6c5290a0d95913074160a80a73ac71f57378e4263d38629dec54281c82e5596232ca07780dbdcb02662d6002
+47ddad08d51141ddf9e9071d34190a0c1a9a10af5b8e274238a1f1aaa6a2b7061130beda1641d3fb65e417378a7bbe872d396c40b3b7a434007d1aa3e806a90c
+61cfd1e24d56f92a2bf9bb53cbb6cc02c93228686ab04149cf58ee028a8e9b0776d3e3f224cf3643004de2343ce582cfaefeaeaf3dfc5ae03a4701687ca25f07
