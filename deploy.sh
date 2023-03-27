@@ -19,13 +19,13 @@ fi
 if [ -n "$branch" ]; then
     mkdir -p /var/www/firmware/$version/$branch
     # copy packages
-    cp -r ~/site-fm-next/output/packages/* /var/www/packages/
+    cp -r ~/site/output/packages/* /var/www/packages/
 
     # copy manifest to branch
     cd ~/manifest
     git pull
     mkdir -p ~/manifest/$version/
-    cp ~/site-fm-next/output/images/sysupgrade/$branch.manifest ~/manifest/$version/$branch.manifest
+    cp ~/site/output/images/sysupgrade/$branch.manifest ~/manifest/$version/$branch.manifest
     git add $version/$branch.manifest
     git commit -m "update $version/$branch.manifest"
 #    git push
@@ -34,7 +34,7 @@ if [ -n "$branch" ]; then
     cp /var/www/firmware/$version/$branch/sysupgrade/*.manifest /var/www/firmware/$version/$branch/
     rm -rf /var/www/firmware/$version/$branch/sysupgrade
     # copy sysupgrade for updates
-    cp -r ~/site-fm-next/output/images/sysupgrade /var/www/firmware/$version/$branch/sysupgrade
+    cp -r ~/site/output/images/sysupgrade /var/www/firmware/$version/$branch/sysupgrade
     # restore manifests from upper folder
     mv /var/www/firmware/$version/$branch/*.manifest /var/www/firmware/$version/$branch/sysupgrade/
 
@@ -46,5 +46,5 @@ fi
 
 # copy for firmware selector download
 rm -rf /var/www/firmware/download/$version
-cp -r ~/site-fm-next/output/images /var/www/firmware/download/$version
-#rm -r ~/site-fm-next/output/images
+cp -r ~/site/output/images /var/www/firmware/download/$version
+#rm -r ~/site/output/images
