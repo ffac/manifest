@@ -1,5 +1,5 @@
 BRANCH=beta
-DATE=2023-05-19 12:58:59+00:00
+DATE=2023-05-22 00:00:00+00:00
 PRIORITY=0
 
 tp-link-tl-wdr3600-v1 v2022.1.14-3-gc06ee03~exp20230519 6aaec1006fd01bfd71b95fec51f51ae4fd627b25694f535c8f67b07a0cafced4 6488899 gluon-ffac-v2022.1.14-3-gc06ee03~exp20230519-tp-link-tl-wdr3600-v1-sysupgrade.bin
