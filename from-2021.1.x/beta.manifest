@@ -1,5 +1,5 @@
 BRANCH=beta
-DATE=2024-01-04 02:16:12+00:00
+DATE=2024-01-06 00:16:12+00:00
 PRIORITY=0
 
 tp-link-tl-wdr3600-v1 v2021.1.2-15 91d7678a6d688660030dd10963639942966fc6a0593a7b88004631ea43e72789 6291460 gluon-ffac-v2021.1.2-15-tp-link-tl-wdr3600-v1-sysupgrade.bin
@@ -335,4 +335,4 @@ raspberrypi-3-model-b-plus v2021.1.2-15 feb23ad5d1dca9f50645f99feaa004ccf774f28e
 raspberry-pi-3-model-b-rev-1.2 v2021.1.2-15 feb23ad5d1dca9f50645f99feaa004ccf774f28e5f0ec5835cef4a5f8b7bc45e 14816159 gluon-ffac-v2021.1.2-15-raspberrypi-3-model-b-sysupgrade.img.gz
 linksys-wrt1200ac v2021.1.2-15 3a2ec4c2c5fc65f0564e19a3fb6ba7ec1626cbd809129969ec94b559cd598b46 6892340 gluon-ffac-v2021.1.2-15-linksys-wrt1200ac-sysupgrade.bin
 ---
-e276a9e02b7747d08ce90ebcb25b6bd5653c7cbde7f3c21549dc13b529c97b06e8ea219d05af974b1a46b7f4184d854ebeac5f3ef021db251db617f814bb8b0f
+fcdbce6f37384211314469a4d9aa0219b1f0dbfbfa91c8a196821be0ffaf55049b20759dc4d8bc7b783dcbc5405eb439555cc8bbc7b6abb0554bc9c4028fec01
