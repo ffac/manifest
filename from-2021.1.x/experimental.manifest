@@ -334,3 +334,5 @@ raspberrypi-3-model-b v2021.1.2-15 feb23ad5d1dca9f50645f99feaa004ccf774f28e5f0ec
 raspberrypi-3-model-b-plus v2021.1.2-15 feb23ad5d1dca9f50645f99feaa004ccf774f28e5f0ec5835cef4a5f8b7bc45e 14816159 gluon-ffac-v2021.1.2-15-raspberrypi-3-model-b-sysupgrade.img.gz
 raspberry-pi-3-model-b-rev-1.2 v2021.1.2-15 feb23ad5d1dca9f50645f99feaa004ccf774f28e5f0ec5835cef4a5f8b7bc45e 14816159 gluon-ffac-v2021.1.2-15-raspberrypi-3-model-b-sysupgrade.img.gz
 linksys-wrt1200ac v2021.1.2-15 3a2ec4c2c5fc65f0564e19a3fb6ba7ec1626cbd809129969ec94b559cd598b46 6892340 gluon-ffac-v2021.1.2-15-linksys-wrt1200ac-sysupgrade.bin
+---
+b6efacd173f99be5f48905d52c3eea6d139a27c71b40c7065b957c13694f99027751151391d9dfb566bd8aefe40090ac90374e3a2635beec2273f235eab8880c
