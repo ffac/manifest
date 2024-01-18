@@ -1,10 +1,11 @@
 #!/bin/bash
 # stop on errors
 # usage:
-# ./gluon-sign.sh 2022.1.x
+# ./gluon-sign.sh 2022.1.x experimental
+# 2nd parameter for limiting branches is optional (default: sign all branches)
 set -e
 FROM=$1
-BRANCHES="stable beta experimental"
+BRANCHES="${2:-experimental beta stable}"
 FIRMWAREPATH=/mnt/manifest
 
 if ! command -v ecdsasign &> /dev/null
