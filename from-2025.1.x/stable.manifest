@@ -336,3 +336,5 @@ raspberry-pi-4-model-b-rev-1.5 v2025.0.0-12 befd5b6524e52fd7e72aea1e7a56787cde5d
 google-wifi-gale v2025.0.0-12 f6dbfc5be46e8b5efbd3b98e3d3e8bd6e9e9fa27d132fad5d9de8d02a02e53a7 11439163 gluon-ffac-v2025.0.0-12-google-wifi-gale-sysupgrade.bin
 cznic-turris-omnia v2025.0.0-12 c0e076a4ede97b02e1875daf42c68ffbed356fcf118f661a9bc87006ce2f866d 12013301 gluon-ffac-v2025.0.0-12-cznic-turris-omnia-sysupgrade.img.gz
 linksys-wrt1200ac v2025.0.0-12 c7123f03950f795d47f91cb3ab454d672ecbac185055e7baa11eb941fc59deb7 10568873 gluon-ffac-v2025.0.0-12-linksys-wrt1200ac-sysupgrade.bin
+---
+547bfe664fc29b1459f1ed5d20f2c57f9608397b600ebcbf2e6c5acf329e1f01efb2a510774d13e2b80671ed6aa0737b16411f326c9f9f237fcd2eac690db001
