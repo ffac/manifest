@@ -296,3 +296,5 @@ raspberry-pi-4-model-b-rev-1.2 v2026.0.4 1c7d1771656003b5e48ef7b9041f60744a25c7d
 raspberry-pi-4-model-b-rev-1.4 v2026.0.4 1c7d1771656003b5e48ef7b9041f60744a25c7d118073745c8f2f8b92eefc1e3 18970764 gluon-ffac-v2026.0.4-raspberrypi-4-model-b-sysupgrade.img.gz
 raspberry-pi-4-model-b-rev-1.5 v2026.0.4 1c7d1771656003b5e48ef7b9041f60744a25c7d118073745c8f2f8b92eefc1e3 18970764 gluon-ffac-v2026.0.4-raspberrypi-4-model-b-sysupgrade.img.gz
 google-wifi-gale v2026.0.4 435d2293bbde641fb2e99286695b0fdc04cd9e52ef1f7b692ecc188b145c46ba 12196923 gluon-ffac-v2026.0.4-google-wifi-gale-sysupgrade.bin
+---
+19e4aa4d7b70de416b0c2a3a07a66caa32f0edaee26226bd529d97a215d7b601eb13bcd2fe972090f4622b14ffe6e8a3f37e8329d7a3f160f2e46d864c75a50b
